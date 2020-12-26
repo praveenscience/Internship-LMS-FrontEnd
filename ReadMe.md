@@ -37,3 +37,4 @@ Contributions to this project are currently welcome through one of the following
 1. If you have not registered yet, please go ahead and register as a participant or a mentor.
 2. Once registered, to show your interest, please Star this repository.
 3. Please wait till 27th 5pm IST for more information about this project, contribution guidelines and the plan.
+4. Don't forget to check out my [YouTube Channel](https://www.youtube.com/praveenscience?sub_confirmation=1), where a lot of information about the project will be given! Plus there are super awesome tech talks! 😁 Don't miss them.
