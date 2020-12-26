@@ -2,6 +2,8 @@
 
 We are in the mission of solving a crisis for a lot of small and medium enterprises, who are trying to recruit interns for their projects. This platform aims to onboard new interns, who have applied to the companies and help them understand the process and make the transition smooth.
 
+To start contributing, directly jump to the [**Steps to Contribute**](#steps) and follow everything.
+
 ![Welcome](https://i.imgur.com/8LkmUmi.png)
 
 ## About the Project
@@ -38,3 +40,4 @@ Contributions to this project are currently welcome through one of the following
 2. Once registered, to show your interest, please Star this repository.
 3. Please wait till 27th 5pm IST for more information about this project, contribution guidelines and the plan.
 4. Don't forget to check out my [YouTube Channel](https://www.youtube.com/praveenscience?sub_confirmation=1), where a lot of information about the project will be given! Plus there are super awesome tech talks! 😁 Don't miss them.
+5. Be awesome and read #3 and #4.
