@@ -36,7 +36,7 @@ Contributions to this project are currently welcome through one of the following
 
 ### Steps
 
-1. If you have not registered yet, please go ahead and register as a participant or a mentor.
+1. If you have not registered yet, please go ahead and register as a participant or a mentor. Start your conversation with us on [**Discord**](https://discord.com/channels/731001496417730611/790974003011518474)
 2. Once registered, to show your interest, please Star this repository.
 3. Please wait till **29th 5pm IST** for more information about this project, contribution guidelines and the plan. My team and I are working super hard to get the issues and project flow updated, plus we are talking with the local companies for internships too. Please give us some time. It's going to be awesome.
 4. Don't forget to check out my [YouTube Channel](https://www.youtube.com/praveenscience?sub_confirmation=1), where a lot of information about the project will be given! Plus there are super awesome tech talks! 😁 Don't miss them.
