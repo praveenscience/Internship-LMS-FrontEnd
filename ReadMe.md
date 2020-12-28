@@ -27,6 +27,12 @@ We are primarily considering JavaScript (sorry, not TypeScript) as the base lang
 * Node JS & Express JS
 * MySQL or PostgreSQL (yet to be decided)
 
+### Project Landing Page: Winter of Code
+
+I am currently building the landing page for the Winter of Code. It's going on in a steady state and I'll let everyone know as soon as possible once this is done! So far, I have got till here, I hope it looks good:
+
+![Website Preview](https://i.imgur.com/hUrOpEl.png)
+
 ## Interested?
 
 Contributions to this project are currently welcome through one of the following channels:
