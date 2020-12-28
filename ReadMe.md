@@ -2,7 +2,7 @@
 
 We are in the mission of solving a crisis for a lot of small and medium enterprises, who are trying to recruit interns for their projects. This platform aims to onboard new interns, who have applied to the companies and help them understand the process and make the transition smooth.
 
-To start contributing, directly jump to the [**Steps to Contribute**](#steps) and follow everything.
+To start contributing, directly jump to the [**Steps to Contribute**](#steps) and follow everything. In case, if you're unsure, please check out the [FAQs](#faqs) (Frequently Asked Questions).
 
 ![Welcome](https://i.imgur.com/8LkmUmi.png)
 
@@ -41,3 +41,57 @@ Contributions to this project are currently welcome through one of the following
 3. Please wait till **29th 5pm IST** for more information about this project, contribution guidelines and the plan. My team and I are working super hard to get the issues and project flow updated, plus we are talking with the local companies for internships too. Please give us some time. It's going to be awesome.
 4. Don't forget to check out my [YouTube Channel](https://www.youtube.com/praveenscience?sub_confirmation=1), where a lot of information about the project will be given! Plus there are super awesome tech talks! 😁 Don't miss them.
 5. Be awesome and read #3 and #4.
+
+## FAQs
+
+**What is Winter of Code?**
+
+DevScript Winter of Code is an open-source program envisioned by DevScript that helps understand the paradigm of Open Source contribution. It aims to bring students into the world of open source development and see the power of unified problem solving in real time.
+
+Script Winter of Code is an open-source program envisioned by the Script Foundation. It aims to bring students into the world of open source development and see the power of unified problem-solving in real time. The projects that we will host have been carefully hand-picked to invigorate creative thinking and encourage collaboration among all participants.
+
+The students will be guided by experienced mentors throughout their journey. They will learn the skills essential in the world of programming, all the while developing a deep appreciation for the world of open-source.
+
+**When is the last day to register in this event?**
+
+For DevScript Winter of Code, the registrations are open till Jan 25th, 2021 and tentatively, it's going to be extended till Feb 25th, 2021!
+
+For Script Winter of Code, the registrations have been closed already.
+
+**How long will the program last?**
+
+Both the programmes are two to three months long.
+
+**What technologies should I know to participate in this?**
+
+As long as you want to work on the following technologies, you're good. You don't need to thoroughly know them, as I'll be able to teach most of them!
+
+* Basic Front End (HTML & CSS) and SCSS
+* JavaScript (ES5 and ES6 upto ES2020)
+* React JS along with Node JS
+
+**What if I don't know any of the mentioned technologies, but I am ready to learn?**
+
+That's completely fine. Just ping me on [LinkedIn](https://www.linkedin.com/in/praveentech/) and I am more than happy to teach you!
+
+**Where's the code? Is anything available?**
+
+Nothing is there other than this ReadMe document. Please hold your horses until the launch event on 30th.
+
+**What will you get in return by contributing to this project?**
+
+Goodies, swags, internships! For internships in the UK, please talk to me.
+
+**When are we starting the project?**
+
+The project should have everything to be getting started by the New Year's Eve!
+
+**What's the process for contributing to this project?**
+
+Please check the contributing guidelines of my previous project, and it's going to be almost same.
+
+**Who are the project maintainers and mentors for this project?**
+
+* Praveen Kumar Purushothaman ([Website](https://praveen.science/) &#1421; [LinkedIn](https://www.linkedin.com/in/praveentech/) &#1421; [YouTube](https://www.youtube.com/praveenscience?sub_confirmation=1))
+* Manju Ramachandran ([LinkedIn](https://www.linkedin.com/in/manjuramachandran10/))
+* Saloni Sawarkar ([LinkedIn](https://www.linkedin.com/in/saloni-sawarkar/))
