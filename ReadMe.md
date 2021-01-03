@@ -2,6 +2,12 @@
 
 We are in the mission of solving a crisis for a lot of small and medium enterprises, who are trying to recruit interns for their projects. This platform aims to onboard new interns, who have applied to the companies and help them understand the process and make the transition smooth.
 
+**Winter of Code Series!**
+
+Check out the [Winter of Code](https://www.youtube.com/playlist?list=PLO_Y0rsm7b3Yc8FtNhCuD5TO0QM8CnTZj) Series on YouTube. It will give a great start for you, if you're a complete fresher! Also, I would kindly request you to subscribe to my [YouTube Channel](https://www.youtube.com/praveenscience?sub_confirmation=1), so that you'll be getting notifications of awesome things!
+
+**Steps to Contribute**
+
 To start contributing, directly jump to the [**Steps to Contribute**](#steps) and follow everything. In case, if you're unsure, please check out the [FAQs](#faqs) (Frequently Asked Questions).
 
 ![Welcome](https://i.imgur.com/8LkmUmi.png)
