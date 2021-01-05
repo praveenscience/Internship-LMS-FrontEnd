@@ -46,11 +46,13 @@ Contributions to this project are currently welcome through one of the following
 
 ### Steps
 
-1. If you have not registered yet, please go ahead and register as a participant or a mentor. Start your conversation with us on [**Discord**](https://discord.com/channels/731001496417730611/790974003011518474) (DevScript WoC) project room or Slack Channel (Script WoC - Soon to be made).
+1. If you have not registered yet, please go ahead and register as a participant or a mentor. Start your conversation with us on [**Discord**](https://discord.com/channels/731001496417730611/790974003011518474) (DevScript WoC) project room or [**Slack Channel**](https://swoc-workspace.slack.com/archives/C01HPAJ6TQT) (Script WoC).
+2. If you're absolutely clueless, please start with learning the requirements needed for this project by following the videos on [**Winter of Code**](https://www.youtube.com/playlist?list=PLO_Y0rsm7b3Yc8FtNhCuD5TO0QM8CnTZj). Hey, don't forget to hit the subscribe button!
 2. Once registered, to show your interest, please Star this repository.
-3. Please wait till **29th 5pm IST** for more information about this project, contribution guidelines and the plan. My team and I are working super hard to get the issues and project flow updated, plus we are talking with the local companies for internships too. Please give us some time. It's going to be awesome.
+3. Please wait till **Jan 10th 5pm IST** for more information about this project, contribution guidelines and the plan. My team and I are working super hard to get the issues and project flow updated, plus we are talking with the local companies for internships too. Please give us some time. It's going to be awesome.
 4. Don't forget to check out my [YouTube Channel](https://www.youtube.com/praveenscience?sub_confirmation=1), where a lot of information about the project will be given! Plus there are super awesome tech talks! 😁 Don't miss them.
-5. Be awesome and read #3 and #4.
+
+Be awesome and read the follow the guidelines.
 
 ## FAQs
 
