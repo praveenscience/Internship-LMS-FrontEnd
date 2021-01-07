@@ -81,21 +81,21 @@ git checkout -b <branch-name>
 git add .
 ```
 
-Commit to the local repo
+**7.** Commit to the local repo
 ```bash
 git commit -m "<your_commit_message>"
 ```
 
-**7.** Push the committed changes in your feature branch to your remote repo
+**8.** Push the committed changes in your feature branch to your remote repo
 
 ```bash
 git push -u origin <brach-name>
 ```
-To create a pull request, click on `compare and pull requests`. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
-Add appropriate title and description to your pull request explaining your changes and efforts done
-**8.** lick on Create Pull Request [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) ! 
+**9.** To create a pull request, click on `compare and pull requests`. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
+**10.** Add appropriate title and description to your pull request explaining your changes and efforts done
+**11.** lick on Create Pull Request [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) ! 
 
-**9.** **Congratulations!** Sit and relax, you've made your contribution to [Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd) project.
+**12.** **Congratulations!** Sit and relax, you've made your contribution to [Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd) project.
 
 
 ***:trophy: After this, project leaders and mentors will review the changes and will merge your PR if they are found good, otherwise we will suggest the required changes.***
