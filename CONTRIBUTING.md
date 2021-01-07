@@ -101,3 +101,17 @@ git push -u origin <brach-name>
 
 
 ***:trophy: After this, project leaders and mentors will review the changes and will merge your PR if they are found good, otherwise we will suggest the required changes.***
+
+
+
+## 💥 Issues:
+For major changes, you are welcomed to open an issue  about what you would like to contribute. Enhancements will be appreciated.
+
+#### All the Best!🥇
+
+<p align = "center">
+
+<a href="https://github.com/akrish4"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="built by developers"></a>
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/praveenscience/Internship-LMS-FrontEnd)
+
+</p>
