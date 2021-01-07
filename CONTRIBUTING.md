@@ -1,4 +1,4 @@
-<h1> CONTRIBUTING ✨👍</h1>
+<h1> CONTRIBUTING ✨</h1>
 
 - When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a      change.
 - Please note we have a code of conduct, please follow it in all your interactions with the project.
@@ -95,7 +95,7 @@ git push -u origin <brach-name>
 
 **10.** Add appropriate title and description to your pull request explaining your changes and efforts done ✍
 
-**11.** Click on Create Pull Request [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) ! 👍
+**11.** Click on `Create Pull Request` ([PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)) ! 👍
 
 **12.** **Congratulations!** Sit and relax, you've made your contribution to [Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd) project.
 
