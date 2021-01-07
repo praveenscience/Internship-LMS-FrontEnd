@@ -52,31 +52,48 @@ git clone https://github.com/<your-github-username>/Internship-LMS-FrontEnd.git
 ```bash
 cd Internship-LMS-FrontEnd
 ```
+**4.** Add a reference(remote) to the original repository.
+```bash
+git remote add upstream https://github.com/praveenscience/Internship-LMS-FrontEnd.git 
+``` 
+**4.** Check the remotes for this repository.
+```bash
+git remote -v
+```
+
+**4.** Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository)
+```bash
+git pull upstream main 
+```
 
 **4.** Make a feature branch
 ```bash
 git checkout -b <branch-name>
 
 ```
-**5.** Make changes in source code/ project.
+**5.**  Perfom your desired changes to the code base.
 
-**6.** Stage your changes and commit
 
+
+**6.** Track your changes✔️
 ```bash
 #Add changes to Index
 git add .
+```
 
-#Commit to the local repo
+Commit to the local repo
+```bash
 git commit -m "<your_commit_message>"
 ```
 
-**7.** Push your local commits to the remote repo.
+**7.** Push the committed changes in your feature branch to your remote repo
 
 ```bash
-git push origin <brach-name>
+git push -u origin <brach-name>
 ```
-
-**8.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
+To create a pull request, click on `compare and pull requests`. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
+Add appropriate title and description to your pull request explaining your changes and efforts done
+**8.** lick on Create Pull Request [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) ! 
 
 **9.** **Congratulations!** Sit and relax, you've made your contribution to [Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd) project.
 
