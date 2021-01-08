@@ -107,3 +107,7 @@ Please check the contributing guidelines of my previous project, and it's going 
 * Praveen Kumar Purushothaman ([Website](https://praveen.science/) &#1421; [LinkedIn](https://www.linkedin.com/in/praveentech/) &#1421; [YouTube](https://www.youtube.com/praveenscience?sub_confirmation=1))
 * Manju Ramachandran ([LinkedIn](https://www.linkedin.com/in/manjuramachandran10/))
 * Saloni Sawarkar ([LinkedIn](https://www.linkedin.com/in/saloni-sawarkar/))
+
+
+## 💥 How to Contribute ?
+- If you wish to contribute kindly check the [CONTRIBUTING.md](https://github.com/praveenscience/Internship-LMS-FrontEnd/blob/main/CONTRIBUTING.md)🤝
