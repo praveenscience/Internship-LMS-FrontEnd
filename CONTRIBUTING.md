@@ -1,8 +1,7 @@
 <h1> CONTRIBUTING ✨</h1>
 
 - When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a      change.
-- Please note we have a code of conduct, please follow it in all your interactions with the project.
-
+- Please note we have a code of conduct, please follow it in all your interactions with the project and don't ping for approvals to the maintainers 
 
 ## 🤝***First time contributing? We will help you out.*** 👍
 
@@ -28,6 +27,7 @@ Refer to the following articles on the basics of Git and Github and can also con
 - Wait for the Issue to be assigned to you after which you can start working on it.
 - Fork the Repo and create a Branch for any Issue that you are working upon.
 - Read the [Code of Conduct](https://github.com/praveenscience/Internship-LMS-FrontEnd/blob/main/CODE_OF_CONDUCT.md)
+- Watch all these  [videos](https://www.youtube.com/playlist?list=PLO_Y0rsm7b3Yc8FtNhCuD5TO0QM8CnTZj) before contributing .
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
 - Add Screenshots to help us know what this Script is all about.
 
