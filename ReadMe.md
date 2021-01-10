@@ -108,6 +108,6 @@ Please check the contributing guidelines of my previous project, and it's going 
 * Manju Ramachandran ([LinkedIn](https://www.linkedin.com/in/manjuramachandran10/))
 * Saloni Sawarkar ([LinkedIn](https://www.linkedin.com/in/saloni-sawarkar/))
 
-
 ## 💥 How to Contribute ?
-- If you wish to contribute kindly check the [CONTRIBUTING.md](https://github.com/praveenscience/Internship-LMS-FrontEnd/blob/main/CONTRIBUTING.md)🤝
+
+If you wish to contribute kindly check the [CONTRIBUTING.md](https://github.com/praveenscience/Internship-LMS-FrontEnd/blob/main/CONTRIBUTING.md)🤝
