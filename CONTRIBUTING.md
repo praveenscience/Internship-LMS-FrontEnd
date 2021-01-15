@@ -1,5 +1,5 @@
 # CONTRIBUTING ✨
-- When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a      change.
+- When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 - Please note we have a code of conduct, please follow it in all your interactions with the project and don't ping for approvals to the maintainers 
 
 ## 🤝***First time contributing? We will help you out.*** 👍
@@ -59,7 +59,6 @@ git pull upstream main
 **7.** Make a feature branch
 ```bash
 git checkout -b <branch-name>
-
 ```
 **8.**  Perfom your desired changes to the code base.
 
@@ -68,7 +67,6 @@ git checkout -b <branch-name>
 #Add changes to Index
 git add .
 ```
-
 **10.** Commit to the local repo
 ```bash
 git commit -m "<your_commit_message>"
@@ -78,11 +76,8 @@ git commit -m "<your_commit_message>"
 git push -u origin <brach-name>
 ```
 **12.** To create a pull request, click on `compare and pull requests`. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
-
 **13.** Add appropriate title and description to your pull request explaining your changes and efforts done ✍
-
 **14.** Click on `Create Pull Request` ([PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)) ! 👍
-
 **15.** **Congratulations!** Sit and relax, you've made your contribution to [Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd) project.
 
 **:trophy: After this, project leaders and mentors will review the changes and will merge your PR if they are found good, otherwise we will suggest the required changes.**
@@ -92,5 +87,5 @@ For major changes, you are welcomed to open an issue  about what you would like 
 
 #### All the Best!🥇
 
-[![fork](http://ForTheBadge.com/images/badges/built-by-developers.svg")](https://github.com/akrish4)
+[![built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg")](https://github.com/praveenscience/Internship-LMS-FrontEnd)
 [![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/praveenscience/Internship-LMS-FrontEnd)
