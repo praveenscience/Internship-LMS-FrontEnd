@@ -43,21 +43,3 @@ Example how to mark a checkbox :-
  :--------------------: |:--------------------:
  **original screenshot**  | <b>updated screenshot </b> |
  
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
-
-
-
-
-
-
-
