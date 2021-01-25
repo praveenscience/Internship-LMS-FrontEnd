@@ -52,7 +52,7 @@ Contributions to this project are currently welcome through one of the following
 3. Please wait till **Jan 10th 5pm IST** for more information about this project, contribution guidelines and the plan. My team and I are working super hard to get the issues and project flow updated, plus we are talking with the local companies for internships too. Please give us some time. It's going to be awesome.
 4. Don't forget to check out my [YouTube Channel](https://www.youtube.com/praveenscience?sub_confirmation=1), where a lot of information about the project will be given! Plus there are super awesome tech talks! 😁 Don't miss them.
 
-Be awesome and read the follow the guidelines.
+Be awesome and follow the guidelines.
 
 ## FAQs
 
