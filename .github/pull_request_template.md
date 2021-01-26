@@ -4,7 +4,7 @@
 
 Closes: #[issue number that will be closed through this PR]
 
-#### Describe the changes you've made
+### Describe the changes you've made
 
 Give a clear description what modifications you have made
 
@@ -36,6 +36,7 @@ Example how to mark a checkbox:-
 - [ ] I have made corresponding changes to the documentation.
 - [ ] My changes generate no new warnings.
 - [ ] I have added tests that prove my fix is effective or that my feature works.
+- [ ] Any dependent changes have been merged and published in downstream modules.
 
 ## Screenshots
 
