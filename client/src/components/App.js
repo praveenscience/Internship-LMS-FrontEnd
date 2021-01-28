@@ -4,7 +4,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Header></Header>
+        <Header />
         {/* <p>Hello Winter of Code</p> */}
       </div>
     );
