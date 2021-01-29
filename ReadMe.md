@@ -31,6 +31,12 @@ We are primarily considering JavaScript (sorry, not TypeScript) as the base lang
 * Node JS & Express JS
 * MySQL or PostgreSQL (yet to be decided)
 
+#### Important Note : 
+      The typical MERN Stack involves MongoDB + ExpressJS + ReactJS + NodeJS. But if you see our product, it really needs a 
+      hierarchical database management system not a document oriented. MongoDB doesn't perform well under a lot of situations 
+      so we're planning to use MySQL (or MariaDB) or PostgreSQL [ We have already mentioned that it's yet to be decided 
+      between these two ] . I hope this Note helps people understand why we are not using MongoDB in MERN Stack .
+
 ### Project Landing Page: Winter of Code
 
 I am currently building the landing page for the Winter of Code. It's going on in a steady state and I'll let everyone know as soon as possible once this is done! So far, I have got till here, I hope it looks good:
