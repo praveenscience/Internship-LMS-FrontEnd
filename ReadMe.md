@@ -32,7 +32,8 @@ We are primarily considering JavaScript (sorry, not TypeScript) as the base lang
 * MySQL or PostgreSQL (yet to be decided)
 
 #### Important Note : 
-    Usually MERN Stack is MongoDB , ExpressJS , ReactJS , NodeJS. But for our product, we need a hierarchical database management system not a document oriented that's why we will be using MySQL or PostgreSQL instead of MongoDB.
+
+<p> Usually MERN Stack is MongoDB , ExpressJS , ReactJS , NodeJS. But for our product, we need a hierarchical database management system not a document oriented that's why we will be using MySQL or PostgreSQL instead of MongoDB. </p>
 
 ### Project Landing Page: Winter of Code
 
