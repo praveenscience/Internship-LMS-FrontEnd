@@ -7,8 +7,8 @@ function Header() {
   const [show, setShow] = useState(null);
   const handleClick = () => {
     console.log("clicked");
-    if (show === "") setShow("show");
-    else setShow("");
+    if (show === null) setShow("show");
+    else setShow(null);
   };
   return (
     <nav className={show}>
