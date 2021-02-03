@@ -65,7 +65,7 @@ nav {
   transition: 0.5s;
 }
 
-.search {
+.search-icon {
   cursor: pointer;
   transition: all 0.3s;
   opacity: 0.8;
@@ -76,7 +76,7 @@ nav {
   }
 }
 
-.search1 {
+.search-bag {
   cursor: pointer;
   transition: all 0.3s;
   opacity: 0.8;
@@ -145,11 +145,11 @@ nav {
     opacity: 0.9;
   }
 
-  .search1 {
+  .search-bag {
     order: 3;
   }
 
-  .search {
+  .search-icon {
     display: none;
   }
 }

@@ -4,7 +4,7 @@ import { AiOutlineSearch } from "react-icons/ai";
 import { IoBagOutline } from "react-icons/io5";
 import "../../styles/Header/Header.scss";
 function Header() {
-  const [show, setShow] = useState("");
+  const [show, setShow] = useState(null);
   const handleClick = () => {
     console.log("clicked");
     if (show === "") setShow("show");
@@ -29,8 +29,8 @@ function Header() {
           <a href="#">Support</a>
         </div>
 
-        <AiOutlineSearch size={23} color="white" className="search" />
-        <IoBagOutline color="white" size={23} className="search1" />
+        <AiOutlineSearch size={23} color="white" className="search-icon" />
+        <IoBagOutline color="white" size={23} className="search-bag" />
       </div>
     </nav>
   );
