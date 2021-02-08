@@ -112,9 +112,11 @@ Please check the contributing guidelines of my previous project, and it's going 
 * Manju Ramachandran ([LinkedIn](https://www.linkedin.com/in/manjuramachandran10/))
 * Saloni Sawarkar ([LinkedIn](https://www.linkedin.com/in/saloni-sawarkar/))
 
-## Contributors 
+## ⭐️ Contributors 🔥
 
-Thanks goes to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** of any kind is welcome! 
+Thanks goes to these **Wonderful People** 👨🏻‍💻:
+
+🚀 **Contributions** of any kind is welcome! 😁
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -133,14 +135,12 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:      🚀 **Contribut
   </tr>
 </table>
 
-
 **Stargazers Over Time** 🌟 
 
 [![Stargazers over time](https://starchart.cc/praveenscience/Internship-LMS-FrontEnd.svg)](https://starchart.cc/praveenscience/Internship-LMS-FrontEnd)
 
-
 ## ❤️ Project Admin
 
-|                                     <a href="https://github.com/praveenscience"><img src="https://avatars.githubusercontent.com/u/1830380?s=400&u=74697d8b1cbf3e16adec7b411369afbd53ce4864&v=4" width=150px height=150px /></a>                                      |
+|                                     [![](https://avatars.githubusercontent.com/u/1830380?s=400&u=74697d8b1cbf3e16adec7b411369afbd53ce4864&v=4)](https://github.com/praveenscience)                                      |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                      **[Praveen Kumar Purushothaman](https://www.linkedin.com/in/praveentech/?originalSubdomain=uk)**                                                                                       |
