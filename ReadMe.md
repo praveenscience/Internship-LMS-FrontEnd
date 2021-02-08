@@ -112,6 +112,32 @@ Please check the contributing guidelines of my previous project, and it's going 
 * Manju Ramachandran ([LinkedIn](https://www.linkedin.com/in/manjuramachandran10/))
 * Saloni Sawarkar ([LinkedIn](https://www.linkedin.com/in/saloni-sawarkar/))
 
+<h2 align=center> ✨ Contributors </h2>
+
+Thanks goes to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** of any kind is welcome! 
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/praveenscience"><img src="https://avatars.githubusercontent.com/u/1830380?s=400&u=74697d8b1cbf3e16adec7b411369afbd53ce4864&v=4" width="100px;" alt=""/><br /><sub><b>praveenscience</b></sub></a><br /><a href="https://github.com/praveenscience/Internship-LMS-FrontEnd/commits?author=praveenscience" title="Code">💻</a></td>
+<td align="center"><a href="https://github.com/Sloth-Panda"><img src="https://avatars.githubusercontent.com/u/70213384?s=400&u=e9943a17413e20376627fd81f618da46d8fdef8b&v=4" width="100px;" alt=""/><br /><sub><b>smv1999</b></sub></a><br /><a href="https://github.com/Sloth-Panda/Internship-LMS-FrontEnd/commits?author=Sloth-Panda" title="Code">💻</a></td>
+<td align="center"><a href="https://github.com/smv1999"><img src="https://avatars.githubusercontent.com/u/42896577?s=400&u=9530610016fa2171d559af8bcdb3e9178bb7d308&v=4" width="100px;" alt=""/><br /><sub><b>smv1999</b></sub></a><br /><a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/commits?author=smv1999" title="Code">💻</a></td>
+<td align="center"><a href="https://github.com/smv1999"><img src="https://avatars.githubusercontent.com/u/42896577?s=400&u=9530610016fa2171d559af8bcdb3e9178bb7d308&v=4" width="100px;" alt=""/><br /><sub><b>smv1999</b></sub></a><br /><a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/commits?author=smv1999" title="Code">💻</a></td>
+<td align="center"><a href="https://github.com/smv1999"><img src="https://avatars.githubusercontent.com/u/42896577?s=400&u=9530610016fa2171d559af8bcdb3e9178bb7d308&v=4" width="100px;" alt=""/><br /><sub><b>smv1999</b></sub></a><br /><a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/commits?author=smv1999" title="Code">💻</a></td>
+<td align="center"><a href="https://github.com/smv1999"><img src="https://avatars.githubusercontent.com/u/42896577?s=400&u=9530610016fa2171d559af8bcdb3e9178bb7d308&v=4" width="100px;" alt=""/><br /><sub><b>smv1999</b></sub></a><br /><a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/commits?author=smv1999" title="Code">💻</a></td>
+<td align="center"><a href="https://github.com/smv1999"><img src="https://avatars.githubusercontent.com/u/42896577?s=400&u=9530610016fa2171d559af8bcdb3e9178bb7d308&v=4" width="100px;" alt=""/><br /><sub><b>smv1999</b></sub></a><br /><a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/commits?author=smv1999" title="Code">💻</a></td>
+<td align="center"><a href="https://github.com/smv1999"><img src="https://avatars.githubusercontent.com/u/42896577?s=400&u=9530610016fa2171d559af8bcdb3e9178bb7d308&v=4" width="100px;" alt=""/><br /><sub><b>smv1999</b></sub></a><br /><a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/commits?author=smv1999" title="Code">💻</a></td>
+  </tr>
+</table>
+
+
+<h2 align=center> Stargazers Over Time 🌟 </h2>
+
+[![Stargazers over time](https://starchart.cc/praveenscience/Internship-LMS-FrontEnd.svg)](https://starchart.cc/praveenscience/Internship-LMS-FrontEnd)
+
+
 ## ❤️ Project Admin
 
 |                                     <a href="https://github.com/praveenscience"><img src="https://avatars.githubusercontent.com/u/1830380?s=400&u=74697d8b1cbf3e16adec7b411369afbd53ce4864&v=4" width=150px height=150px /></a>                                      |
