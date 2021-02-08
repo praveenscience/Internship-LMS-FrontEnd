@@ -112,7 +112,7 @@ Please check the contributing guidelines of my previous project, and it's going 
 * Manju Ramachandran ([LinkedIn](https://www.linkedin.com/in/manjuramachandran10/))
 * Saloni Sawarkar ([LinkedIn](https://www.linkedin.com/in/saloni-sawarkar/))
 
-✨ **Contributors 
+✨ ** Contributors 
 
 Thanks goes to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** of any kind is welcome! 
 
