@@ -112,7 +112,7 @@ Please check the contributing guidelines of my previous project, and it's going 
 * Manju Ramachandran ([LinkedIn](https://www.linkedin.com/in/manjuramachandran10/))
 * Saloni Sawarkar ([LinkedIn](https://www.linkedin.com/in/saloni-sawarkar/))
 
-<h2 align=center> ✨ Contributors </h2>
+✨ **Contributors 
 
 Thanks goes to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** of any kind is welcome! 
 
@@ -134,7 +134,7 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:      🚀 **Contribut
 </table>
 
 
-<h2 align=center> Stargazers Over Time 🌟 </h2>
+** Stargazers Over Time 🌟 
 
 [![Stargazers over time](https://starchart.cc/praveenscience/Internship-LMS-FrontEnd.svg)](https://starchart.cc/praveenscience/Internship-LMS-FrontEnd)
 
