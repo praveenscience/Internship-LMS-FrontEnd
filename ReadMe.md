@@ -134,7 +134,7 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:      🚀 **Contribut
 </table>
 
 
-** Stargazers Over Time 🌟 
+**Stargazers Over Time** 🌟 
 
 [![Stargazers over time](https://starchart.cc/praveenscience/Internship-LMS-FrontEnd.svg)](https://starchart.cc/praveenscience/Internship-LMS-FrontEnd)
 
