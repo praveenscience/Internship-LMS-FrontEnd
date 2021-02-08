@@ -114,6 +114,6 @@ Please check the contributing guidelines of my previous project, and it's going 
 
 ## ❤️ Project Admin
 
-|                                     <a href="https://github.com/praveenscience"><img src=https://avatars.githubusercontent.com/u/1830380?s=400&u=74697d8b1cbf3e16adec7b411369afbd53ce4864&v=4" width=150px height=150px /></a>                                      |
+|                                     <a href="https://github.com/praveenscience"><img src="https://avatars.githubusercontent.com/u/1830380?s=400&u=74697d8b1cbf3e16adec7b411369afbd53ce4864&v=4" width=150px height=150px /></a>                                      |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                      **[Praveen Kumar Purushothaman](https://www.linkedin.com/in/praveentech/?originalSubdomain=uk)**                                                                                       |
