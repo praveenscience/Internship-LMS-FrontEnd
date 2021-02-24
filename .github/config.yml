@@ -8,7 +8,9 @@ newIssueWelcomeComment: >
   
   Thank you and congrats 🎉 for opening your very first issue in this project. Our project aims to onboard new interns, who have applied to the companies and help them understand the process and make the transition smooth.
   Please adhere to our [Code of Conduct](https://github.com/praveenscience/Internship-LMS-FrontEnd/blob/main/Code_of_Conduct.md). 👍🏻
-  Please make sure not to start working on the issue, unless you get assigned to it. 😄
+  You may submit a PR if you like, make sure to follow our [Pull Request Template](https://github.com/praveenscience/Internship-LMS-FrontEnd/blob/main/.github/pull_request_template.md).
+  
+  Feel free to get in touch with [Praveen](https://praveen.science/) to become a part of our Community. We have active tech discussions going on in our Community. Hope to see you there!😄
   
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 # Comment to be posted to on PRs from first time contributors in your repository
@@ -19,6 +21,8 @@ newPRWelcomeComment: >
   Thank you and congrats 🎉 for opening your first pull request. Our project aims to onboard new interns, who have applied to the companies and help them understand the process and make the transition smooth.
   Please adhere to our [Code of Conduct](https://github.com/praveenscience/Internship-LMS-FrontEnd/blob/main/Code_of_Conduct.md). 🙌🏻 We will get back to you as soon as we can. 😄
    
+  Feel free to get in touch with [Praveen](https://praveen.science/) to become a part of our Community. We have active tech discussions going on in our Community. Hope to see you there!😄
+  
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 # Comment to be posted to on pull requests merged by a first time user
 
