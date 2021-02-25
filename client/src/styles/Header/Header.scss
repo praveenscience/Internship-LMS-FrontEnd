@@ -1,0 +1,165 @@
+nav {
+  margin: 0;
+  overflow: hidden;
+  background: black;
+  height: 50px;
+}
+
+.nav-content {
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 0 15px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2px;
+
+  a {
+    display: block;
+    font-size: 14px;
+    line-height: 44px;
+    text-decoration: none;
+    transition: all 0.3s;
+    color: #ffffff;
+  }
+}
+
+.icon {
+  opacity: 0.8;
+  margin-top: 8px;
+
+  &:hover {
+    opacity: 1;
+  }
+}
+
+.nav-links {
+  width: 75%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  a {
+    opacity: 0.8;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+}
+
+.nav-icon {
+  display: none;
+  grid-gap: 5px;
+  grid-template-columns: auto;
+  margin-top: 2px;
+  padding: 17px 0;
+  height: 10px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.bar {
+  height: 1px;
+  width: 18px;
+  background: white;
+  transition: 0.5s;
+}
+
+.search-icon {
+  cursor: pointer;
+  transition: all 0.3s;
+  opacity: 0.8;
+  margin-top: 11px;
+
+  &:hover {
+    opacity: 1;
+  }
+}
+
+.search-bag {
+  cursor: pointer;
+  transition: all 0.3s;
+  opacity: 0.8;
+  margin-top: 10px;
+
+  &:hover {
+    opacity: 1;
+  }
+}
+
+@media (max-width: 768px) {
+  .nav-content {
+    padding: 0 15px;
+  }
+  .nav-links {
+    position: fixed;
+    top: 44px;
+    right: 0;
+    height: 0;
+    width: 100%;
+    background: black;
+    flex-direction: column;
+    justify-content: flex-start;
+    transition: all 2s cubic-bezier(0.19, 1, 0.22, 1);
+  }
+  .show {
+    .nav-links {
+      height: 100%;
+      padding-top: 30px;
+      &:a {
+        opacity: 1;
+        width: auto;
+        height: auto;
+      }
+    }
+  }
+
+  .nav-links {
+    a {
+      height: 0;
+      width: 0;
+      opacity: 0;
+      overflow: hidden;
+      margin-right: 50px;
+      margin-left: 50px;
+      transition: opacity 1.5s, height 2s;
+    }
+  }
+  .show {
+    .nav-links {
+      a {
+        opacity: 1;
+        width: auto;
+        height: auto;
+      }
+    }
+  }
+
+  .nav-icon {
+    order: 1;
+    display: grid;
+  }
+
+  .icon {
+    order: 2;
+    opacity: 0.9;
+  }
+
+  .search-bag {
+    order: 3;
+  }
+
+  .search-icon {
+    display: none;
+  }
+}
+
+.show {
+  .one {
+    transform: rotate(45deg) translateY(4px);
+  }
+
+  .two {
+    transform: rotate(-45deg) translateY(-4px);
+  }
+}
