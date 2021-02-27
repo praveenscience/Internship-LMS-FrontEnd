@@ -48,6 +48,8 @@ Contributions to this project are currently welcome through one of the following
 * [DevScript Winter of Code](https://devscript.tech/woc/)
 * [Script Winter of Code](https://swoc.tech/)
 
+Please read the [Contributing guidelines](https://github.com/vismitap/Internship-LMS-FrontEnd/blob/main/CONTRIBUTING.md) before contributing!
+
 ### Steps
 
 1. If you have not registered yet, please go ahead and register as a participant or a mentor. Start your conversation with us on [**Discord**](https://discord.com/channels/731001496417730611/790974003011518474) (DevScript WoC) project room or [**Slack Channel**](https://swoc-workspace.slack.com/archives/C01HPAJ6TQT) (Script WoC).
@@ -111,3 +113,9 @@ Please check the contributing guidelines of my previous project, and it's going 
 * Praveen Kumar Purushothaman ([Website](https://praveen.science/) &#1421; [LinkedIn](https://www.linkedin.com/in/praveentech/) &#1421; [YouTube](https://www.youtube.com/praveenscience?sub_confirmation=1))
 * Manju Ramachandran ([LinkedIn](https://www.linkedin.com/in/manjuramachandran10/))
 * Saloni Sawarkar ([LinkedIn](https://www.linkedin.com/in/saloni-sawarkar/))
+
+## Our Contributors ✨🎉
+
+<a href="https://github.com/praveenscience/Internship-LMS-FrontEnd/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=praveenscience/Internship-LMS-FrontEnd" />
+</a>
