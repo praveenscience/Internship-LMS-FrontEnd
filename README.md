@@ -1,6 +1,6 @@
 # Internship OnBoarding Platform with Learning Management System
 
-We are in the mission of solving a crisis for a lot of small and medium enterprises, who are trying to recruit interns for their projects. This platform aims to onboard new interns, who have applied to the companies and help them understand the process and make the transition smooth.
+We are in the mission of solving  crisis for a lot of small and medium enterprises, who are trying to recruit interns for their projects. This platform aims to onboard new interns, who have applied to the companies and help them understand the process and make the transition smooth.
 
 > **Winter of Code Series!**
 > 
