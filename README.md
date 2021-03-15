@@ -147,7 +147,7 @@ Please check the contributing guidelines of my previous project, and it's going 
 
 
  # Motivation
- * Atuomate the process of regular tasks.
+ * Automate the process of regular tasks.
  * Make the task easy and stress free of managment members.
  * Save the time of people in doing same work multiple times.
 
@@ -169,7 +169,7 @@ Please check the contributing guidelines of my previous project, and it's going 
 ## Resources
 
 - [OpenSource Intro](https://rb.gy/dxnv5y)
-- [30 Days of React](Event: https://rb.gy/zsgyja, PlayList: https://rb.gy/cxk3ek)
+- [30 Days of React][(Event: https://rb.gy/zsgyja, PlayList: https://rb.gy/cxk3ek)]
 
 
 # GSSoC Participation
