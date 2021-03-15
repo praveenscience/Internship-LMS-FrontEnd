@@ -127,7 +127,7 @@ Please check the contributing guidelines of my previous project, and it's going 
 
 -->
 
-<h1 align="center">  DevTernShip: Internship OnBoarding Platform </h1> 
+ # DevTernShip: Internship OnBoarding Platform 
 
 ![](https://user-images.githubusercontent.com/1830380/111150758-65810c00-8586-11eb-8941-7985fb66f23c.png)
 
