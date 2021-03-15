@@ -155,7 +155,7 @@ Please check the contributing guidelines of my previous project, and it's going 
 
 - [Intro Video](https://rb.gy/cygmlf)
 - [GSSoC 21 Series](https://rb.gy/o7lwj8)
-- [BrainStorming Day 1: Project Plan](https://rb.gy/dfxjnd)**
+- [BrainStorming Day 1: Project Plan](https://rb.gy/dfxjnd)
 - BrainStorming Day 2: Scrum Masters (TBD)
 
 
@@ -170,17 +170,57 @@ Please check the contributing guidelines of my previous project, and it's going 
 
 ![](https://i.imgur.com/BR9Q5Pd.png)
 
-Rules of GSSoC 21
+**Rules of GSSoC 21**
 
 
 
-Levels & Points
-<table>
-Level 0 : 5 points
-Level 1: 10 points
-Level 2 : 15 points
-Level 3: 25 points
+**Levels & Points**
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+}
+</style>
+</head>
+<body>
+
+<h2>Cellpadding</h2>
+<p>Cell padding specifies the space between the cell content and its borders.</p>
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
 </table>
+
+<p><strong>Tip:</strong> Try to change the padding to 5px.</p>
+
+</body>
+</html>
 
 # Product Information
 
