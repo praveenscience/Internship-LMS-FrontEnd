@@ -176,51 +176,35 @@ Please check the contributing guidelines of my previous project, and it's going 
 
 **Levels & Points**
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-th, td {
-  padding: 15px;
-}
-</style>
-</head>
-<body>
 
-<h2>Cellpadding</h2>
-<p>Cell padding specifies the space between the cell content and its borders.</p>
 
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th>Level</th>
+    <th>Points</th> 
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>Level 0</td>
+    <td>5</td>
+    
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>Level 1</td>
+    <td>10</td>
+    
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
+    <td>Level 2</td>
+    <td>15</td>
+    
+  </tr>
+  <tr>
+    <td>Level 3</td>
+    <td>25</td>
+    
   </tr>
 </table>
 
-<p><strong>Tip:</strong> Try to change the padding to 5px.</p>
-
-</body>
-</html>
 
 # Product Information
 
