@@ -127,8 +127,7 @@ Please check the contributing guidelines of my previous project, and it's going 
 
 -->
 
-# DevTernShip: Internship OnBoarding Platform
- 
+<h1 align="center">  DevTernShip: Internship OnBoarding Platform </h1> 
 
 ![](https://user-images.githubusercontent.com/1830380/111150758-65810c00-8586-11eb-8941-7985fb66f23c.png)
 
@@ -137,7 +136,9 @@ Please check the contributing guidelines of my previous project, and it's going 
 
 # Introduction
 
- 
+ We are in the mission of solving a crisis for a lot of small and medium enterprises, who are trying to recruit interns for their projects. This platform aims to onboard new interns, who have applied to the companies and help them understand the process and make the transition smooth.
+
+
 
 
  # Motivation
@@ -146,31 +147,34 @@ Please check the contributing guidelines of my previous project, and it's going 
 
 
  # Methodology
-As this project is not your usual Open Source project, this is not going be a bug fixing or a robotic one. Please read the messages carefully and let's work as a team. We will be following Agile Methodology, specifically [Spotify Agile Model](https://rb.gy/tzvtsj) with some [Coding Standards](https://rb.gy/jmo3xp) being followed, which I'll discuss later.
 
 
 
  # Video Links
 
-Intro Video (https://rb.gy/cygmlf)
-GSSoC 21 Series (https://rb.gy/o7lwj8)
-BrainStorming Day 1: Project Plan (https://rb.gy/dfxjnd)
+Intro Video ![](https://rb.gy/cygmlf)
+GSSoC 21 Series  ![](https://rb.gy/o7lwj8)
+BrainStorming Day 1: Project Plan ![](https://rb.gy/dfxjnd)
 BrainStorming Day 2: Scrum Masters (TBD)
-
 
 
 # Resources
 
-OpenSource Intro (https://rb.gy/dxnv5y)
-30 Days of React (Event: https://rb.gy/zsgyja, PlayList: https://rb.gy/cxk3ek)
-
+OpenSource Intro 
+![](https://rb.gy/dxnv5y)
+30 Days of React
+![](Event: https://rb.gy/zsgyja, PlayList: https://rb.gy/cxk3ek)
 
 
 # GSSoC Participation
 
-GSSoC Logo (https://i.imgur.com/BR9Q5Pd.png)
+
+![](https://i.imgur.com/BR9Q5Pd.png)
 
 Rules of GSSoC 21
+
+
+
 Levels & Points
 
 
@@ -187,18 +191,29 @@ Screenshots
 
 We are primarily considering JavaScript (sorry, not TypeScript) as the base language. We are using MERN Stack for this, where the tech stack consists of:
 
-* Bootstrap 5 for the Front End
-* React JS with both Class & Functional Components
-* Node JS & Express JS
-* MySQL or PostgreSQL (yet to be decided)
+Front End
+
+HTML & CSS(SCSS)
+Bootstrap 4 & Responsiveness
+JavaScript & ES6
+ReactJS & Node JS(lil bit for runtime)
+
+Back End
+
+Node JS + Express JS
+Morgan + CORS & Node Mon
+PostgreSQL/MySQL
+
+Deployment
+
+Husky 
+Netlify/Heroku
+Github Actions
+
 
 > #### Important Note:
 >
 > The typical MERN Stack involves MongoDB + ExpressJS + ReactJS + NodeJS. But, if you consider our product, it really needs a hierarchical database management system and not a document oriented one. MongoDB doesn't perform well under a lot of situations, so we're planning to use MySQL (or MariaDB) or PostgreSQL (We have already mentioned that it's yet to be decided between these two]. I hope this note helps people understand why we are not using MongoDB in MERN Stack.
-
-
-
-
 
 # Installation & Running
 
@@ -210,13 +225,24 @@ We are primarily considering JavaScript (sorry, not TypeScript) as the base lang
 Admin & Mentors
 
 * Praveen Kumar Purushothaman ([Website](https://praveen.science/) &#1421; [LinkedIn](https://www.linkedin.com/in/praveentech/) &#1421; [YouTube](https://www.youtube.com/praveenscience?sub_confirmation=1))
-* Manju Ramachandran ([LinkedIn](https://www.linkedin.com/in/manjuramachandran10/))
-* Saloni Sawarkar ([LinkedIn](https://www.linkedin.com/in/saloni-sawarkar/))
 
-
+* Shashwat Mishra [LinkedIn] (https://www.linkedin.com/in/the-shashwat-mishra/)
+* Aditya Pahilwani [LinkedIn] (https://www.linkedin.com/in/aditya-pahilwani-93b42bb5/)
+* Tejan Singh [LinkedIn] (https://www.linkedin.com/in/tejansingh)
 
 Scrum Masters
 
+* Gaurav Maheshwari
+* Varshith Chennuru
+* Ashutosh Kumar
+* Deepak Tiwari
+* Harsh Choubey
+* Priyanshi Chaturvedi
+* Deeksha Tiwari
+* Saloni Sawarkar
+* Gaurav Prajapati
+* Salma Shaik
+* Prachi Mane
 
 
 Contributors List
