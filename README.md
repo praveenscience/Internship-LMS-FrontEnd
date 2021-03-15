@@ -133,31 +133,6 @@ Please check the contributing guidelines of my previous project, and it's going 
 
 
 
- [![](https://sourcerer.io/fame/Praveen Kumar Purushothaman/praveenscience/Internship-LMS-FrontEnd
-/images/0)](https://sourcerer.io/fame/Praveen Kumar Purushothaman/praveenscience/Internship-LMS-FrontEnd
-/links/0)[![]
-(https://sourcerer.io/fame/Praveen Kumar Purushothaman/praveenscience/Internship-LMS-FrontEnd
-/images/1)](https://sourcerer.io/fame/Praveen Kumar Purushothaman/praveenscience/Internship-LMS-FrontEnd
-/links/1)[![]
-(https://sourcerer.io/fame/Praveen Kumar Purushothaman/praveenscience/Internship-LMS-FrontEnd
-/images/2)](https://sourcerer.io/fame/Praveen Kumar Purushothaman/praveenscience/Internship-LMS-FrontEnd
-/links/2)[![]
-(https://sourcerer.io/fame/Praveen Kumar Purushothaman/praveenscience/Internship-LMS-FrontEnd
-/images/3)](https://sourcerer.io/fame/Praveen Kumar Purushothaman/praveenscience/Internship-LMS-FrontEnd
-/links/3)[![]
-(https://sourcerer.io/fame/Praveen Kumar Purushothaman/praveenscience/Internship-LMS-FrontEnd
-/images/4)](https://sourcerer.io/fame/Praveen Kumar Purushothaman/praveenscience/Internship-LMS-FrontEnd
-/links/4)[![]
-(https://sourcerer.io/fame/Praveen Kumar Purushothaman/praveenscience/Internship-LMS-FrontEnd
-/images/5)](https://sourcerer.io/fame/Praveen Kumar Purushothaman/praveenscience/Internship-LMS-FrontEnd
-/links/5)[![]
-(https://sourcerer.io/fame/Praveen Kumar Purushothaman/praveenscience/Internship-LMS-FrontEnd
-/images/6)](https://sourcerer.io/fame/Praveen Kumar Purushothaman/praveenscience/Internship-LMS-FrontEnd
-/links/6)[![]
-(https://sourcerer.io/fame/Praveen Kumar Purushothaman/praveenscience/Internship-LMS-FrontEnd
-/images/7)](https://sourcerer.io/fame/Praveen Kumar Purushothaman/praveenscience/Internship-LMS-FrontEnd
-/links/7)
-
 
 # Introduction
 
@@ -175,18 +150,18 @@ Please check the contributing guidelines of my previous project, and it's going 
 
 
 
- # Video Links
+ ## Video Links
 
-**[Intro Video](https://rb.gy/cygmlf)**
-**[GSSoC 21 Series](https://rb.gy/o7lwj8)**
-**[BrainStorming Day 1: Project Plan](https://rb.gy/dfxjnd)**
-**BrainStorming Day 2: Scrum Masters (TBD)**
+- [Intro Video](https://rb.gy/cygmlf)
+- [GSSoC 21 Series](https://rb.gy/o7lwj8)
+- [BrainStorming Day 1: Project Plan](https://rb.gy/dfxjnd)**
+- BrainStorming Day 2: Scrum Masters (TBD)
 
 
-# Resources
+## Resources
 
-**[OpenSource Intro](https://rb.gy/dxnv5y)**
-**[30 Days of React](Event: https://rb.gy/zsgyja,PlayList: https://rb.gy/cxk3ek)**
+- [OpenSource Intro](https://rb.gy/dxnv5y)
+- [30 Days of React](Event: https://rb.gy/zsgyja,PlayList: https://rb.gy/cxk3ek)
 
 
 # GSSoC Participation
@@ -217,21 +192,20 @@ Screenshots
 
 We are primarily considering JavaScript (sorry, not TypeScript) as the base language. We are using MERN Stack for this, where the tech stack consists of:
 <pre>
-**Front End**
+Front End
 
 HTML & CSS(SCSS)
 Bootstrap 4 & Responsiveness
 JavaScript & ES6
 ReactJS & Node JS(lil bit for runtime)
 
-**Back End**
+Back End
 
 Node JS + Express JS
 Morgan + CORS & Node Mon
 PostgreSQL/MySQL
 
-**Deployment**
-
+Deployment
 Husky 
 Netlify/Heroku
 Github Actions
