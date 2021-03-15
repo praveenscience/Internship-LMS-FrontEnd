@@ -169,7 +169,7 @@ Please check the contributing guidelines of my previous project, and it's going 
 ## Resources
 
 - [OpenSource Intro](https://rb.gy/dxnv5y)
-- [30 Days of React]((https://rb.gy/zsgyja/))
+- ([30 Days of React]((https://rb.gy/zsgyja/))
  ([Playlist]( https://rb.gy/cxk3ek/) &#1421;)
 
 
