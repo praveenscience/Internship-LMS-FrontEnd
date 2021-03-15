@@ -132,7 +132,12 @@ Please check the contributing guidelines of my previous project, and it's going 
 ![](https://user-images.githubusercontent.com/1830380/111150758-65810c00-8586-11eb-8941-7985fb66f23c.png)
 
 
-
+[![Issues](https://img.shields.io/github/issues/praveenscience/Internship-LMS-FrontEnd)](https://github.com/praveenscience/Internship-LMS-FrontEnd/issues)
+[![PRs](https://img.shields.io/github/issues-pr/praveenscience/Internship-LMS-FrontEnd)](https://github.com/praveenscience/Internship-LMS-FrontEnd/pulls)
+[![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/praveenscience/)
+[![Forks](https://img.shields.io/github/forks/praveenscience/Internship-LMS-FrontEnd?style=social)](https://github.com/praveenscience/Internship-LMS-FrontEnd) 
+[![Stars](https://img.shields.io/github/stars/praveenscience/Internship-LMS-FrontEnd?style=social)](https://github.com/praveenscience/Internship-LMS-FrontEnd) 
+[![Watchers](https://img.shields.io/github/watchers/praveenscience/foss-events?style=social)](https://github.com/praveenscience/Internship-LMS-FrontEnd)
 
 # Introduction
 
@@ -142,7 +147,9 @@ Please check the contributing guidelines of my previous project, and it's going 
 
 
  # Motivation
-
+ * Atuomate the process of regular tasks.
+ * Make the task easy and stress free of managment members.
+ * Save the time of people in doing same work multiple times.
 
 
 
@@ -210,7 +217,7 @@ Please check the contributing guidelines of my previous project, and it's going 
 
 
 
-Screenshots
+**Screenshots**
 
 
 
