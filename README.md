@@ -1,6 +1,6 @@
-# This Project is a Part of GSSoC 2021:
+ <!-- # This Project is a Part of GSSoC 2021:
 
-![](https://i.imgur.com/BR9Q5Pd.png)
+ ![](https://i.imgur.com/BR9Q5Pd.png)
 
 # Internship OnBoarding Platform with Learning Management System
 
@@ -123,3 +123,183 @@ Please check the contributing guidelines of my previous project, and it's going 
 <a href="https://github.com/praveenscience/Internship-LMS-FrontEnd/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=praveenscience/Internship-LMS-FrontEnd" />
 </a>
+
+
+-->
+
+# DevTernShip: Internship OnBoarding Platform
+ 
+
+![](https://user-images.githubusercontent.com/1830380/111150758-65810c00-8586-11eb-8941-7985fb66f23c.png)
+
+# BADGES
+
+
+# Introduction
+
+ 
+
+
+ # Motivation
+
+
+
+
+ # Methodology
+As this project is not your usual Open Source project, this is not going be a bug fixing or a robotic one. Please read the messages carefully and let's work as a team. We will be following Agile Methodology, specifically [Spotify Agile Model](https://rb.gy/tzvtsj) with some [Coding Standards](https://rb.gy/jmo3xp) being followed, which I'll discuss later.
+
+
+
+ # Video Links
+
+Intro Video (https://rb.gy/cygmlf)
+GSSoC 21 Series (https://rb.gy/o7lwj8)
+BrainStorming Day 1: Project Plan (https://rb.gy/dfxjnd)
+BrainStorming Day 2: Scrum Masters (TBD)
+
+
+
+# Resources
+
+OpenSource Intro (https://rb.gy/dxnv5y)
+30 Days of React (Event: https://rb.gy/zsgyja, PlayList: https://rb.gy/cxk3ek)
+
+
+
+# GSSoC Participation
+
+GSSoC Logo (https://i.imgur.com/BR9Q5Pd.png)
+
+Rules of GSSoC 21
+Levels & Points
+
+
+
+# Product Information
+
+Screenshots
+
+
+
+### Tech Stack
+
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+
+We are primarily considering JavaScript (sorry, not TypeScript) as the base language. We are using MERN Stack for this, where the tech stack consists of:
+
+* Bootstrap 5 for the Front End
+* React JS with both Class & Functional Components
+* Node JS & Express JS
+* MySQL or PostgreSQL (yet to be decided)
+
+> #### Important Note:
+>
+> The typical MERN Stack involves MongoDB + ExpressJS + ReactJS + NodeJS. But, if you consider our product, it really needs a hierarchical database management system and not a document oriented one. MongoDB doesn't perform well under a lot of situations, so we're planning to use MySQL (or MariaDB) or PostgreSQL (We have already mentioned that it's yet to be decided between these two]. I hope this note helps people understand why we are not using MongoDB in MERN Stack.
+
+
+
+
+
+# Installation & Running
+
+
+
+
+# Team
+
+Admin & Mentors
+
+* Praveen Kumar Purushothaman ([Website](https://praveen.science/) &#1421; [LinkedIn](https://www.linkedin.com/in/praveentech/) &#1421; [YouTube](https://www.youtube.com/praveenscience?sub_confirmation=1))
+* Manju Ramachandran ([LinkedIn](https://www.linkedin.com/in/manjuramachandran10/))
+* Saloni Sawarkar ([LinkedIn](https://www.linkedin.com/in/saloni-sawarkar/))
+
+
+
+Scrum Masters
+
+
+
+Contributors List
+
+<a href="https://github.com/praveenscience/Internship-LMS-FrontEnd/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=praveenscience/Internship-LMS-FrontEnd" />
+</a>
+
+
+
+# Contribution Guidelines
+
+
+To start contributing, follow the below guidelines: 
+
+**1.**  Fork [this](https://github.com/praveenscience/Internship-LMS-FrontEnd) repository.
+
+**2.**  Clone your forked copy of the project.
+
+```
+git clone https://github.com/<your_user_name>/Internship-LMS-FrontEnd.git
+```
+
+**3.** Navigate to the project directory :file_folder: .
+
+```
+cd Internship-LMS-FrontEnd
+```
+
+**4.** Add a reference(remote) to the original repository.
+
+```
+git remote add upstream https://github.com/praveenscience/Internship-LMS-FrontEnd
+```
+
+**5.** Check the remotes for this repository.
+
+```
+git remote -v
+```
+
+**6.** Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).
+
+```
+git pull upstream main
+```
+
+**7.** Create a new branch.
+
+```
+git checkout -b <your_branch_name>
+```
+
+**8.** Perfom your desired changes to the code base.
+
+**9.** Track your changes:heavy_check_mark: .
+
+```
+git add . 
+```
+
+**10.** Commit your changes .
+
+```
+git commit -m "Relevant message"
+```
+
+**11.** Push the committed changes in your feature branch to your remote repo.
+
+```
+git push -u origin <your_branch_name>
+```
+
+**12.** To create a pull request, click on `compare and pull requests`.
+
+**13.** Add appropriate title and description to your pull request explaining your changes and efforts done.
+
+**14.** Click on `Create Pull Request`.
+
+
+
+
+
+
+
+
