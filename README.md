@@ -177,16 +177,16 @@ Please check the contributing guidelines of my previous project, and it's going 
 
  # Video Links
 
-[Intro Video](https://rb.gy/cygmlf)
-[GSSoC 21 Series](https://rb.gy/o7lwj8)
-[BrainStorming Day 1: Project Plan](https://rb.gy/dfxjnd)
-BrainStorming Day 2: Scrum Masters (TBD)
+**[Intro Video](https://rb.gy/cygmlf)**
+**[GSSoC 21 Series](https://rb.gy/o7lwj8)**
+**[BrainStorming Day 1: Project Plan](https://rb.gy/dfxjnd)**
+**BrainStorming Day 2: Scrum Masters (TBD)**
 
 
 # Resources
 
-[OpenSource Intro](https://rb.gy/dxnv5y)
-[30 Days of React](Event: https://rb.gy/zsgyja, PlayList: https://rb.gy/cxk3ek)
+**[OpenSource Intro](https://rb.gy/dxnv5y)**
+**[30 Days of React](Event: https://rb.gy/zsgyja,PlayList: https://rb.gy/cxk3ek)**
 
 
 # GSSoC Participation
@@ -210,7 +210,7 @@ Screenshots
 
 ### Tech Stack
 
-img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 
@@ -252,9 +252,9 @@ Admin & Mentors
 
 * Praveen Kumar Purushothaman ([Website](https://praveen.science/) &#1421; [LinkedIn](https://www.linkedin.com/in/praveentech/) &#1421; [YouTube](https://www.youtube.com/praveenscience?sub_confirmation=1))
 
-* Shashwat Mishra ([LinkedIn] (https://www.linkedin.com/in/the-shashwat-mishra/))
-* Aditya Pahilwani ([LinkedIn] (https://www.linkedin.com/in/aditya-pahilwani-93b42bb5/))
-* Tejan Singh([LinkedIn] (https://www.linkedin.com/in/tejansingh))
+* Shashwat Mishra ([LinkedIn](https://www.linkedin.com/in/the-shashwat-mishra/))
+* Aditya Pahilwani ([LinkedIn](https://www.linkedin.com/in/aditya-pahilwani-93b42bb5/))
+* Tejan Singh([LinkedIn](https://www.linkedin.com/in/tejansingh/))
 
 Scrum Masters
 
