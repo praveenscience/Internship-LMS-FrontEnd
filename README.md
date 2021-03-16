@@ -1,4 +1,4 @@
- # DevTernShip: Internship OnBoarding Platform 
+# DevTernShip: Internship OnBoarding Platform 
 
 ![](https://user-images.githubusercontent.com/1830380/111150758-65810c00-8586-11eb-8941-7985fb66f23c.png)
 
@@ -20,7 +20,7 @@ We are in the mission of solving a crisis for a lot of small and medium enterpri
 - Save the time of people in doing same work multiple times.
 
 ### Methodology
- ### Video Links
+### Video Links
 
 - [Intro Video](https://rb.gy/cygmlf)
 - [GSSoC 21 Series](https://rb.gy/o7lwj8)
@@ -94,6 +94,7 @@ Back End
 * PostgreSQL/MySQL
 
 Deployment
+
 * Husky 
 * Netlify/Heroku
 * Github Actions
