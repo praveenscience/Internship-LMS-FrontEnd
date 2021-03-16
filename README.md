@@ -173,6 +173,9 @@ Please check the contributing guidelines of my previous project, and it's going 
 - [Event](https://rb.gy/zsgyja)
 - [PlayList](https://rb.gy/cxk3ek)
 
+- **30 Days of React**
+  - [Event](https://rb.gy/zsgyja)
+  - [PlayList](https://rb.gy/cxk3ek)
 
 # GSSoC Participation
 
