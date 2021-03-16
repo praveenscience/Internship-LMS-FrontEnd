@@ -127,7 +127,7 @@ Please check the contributing guidelines of my previous project, and it's going 
 
 -->
 
- ## DevTernShip: Internship OnBoarding Platform 
+ # DevTernShip: Internship OnBoarding Platform 
 
 ![](https://user-images.githubusercontent.com/1830380/111150758-65810c00-8586-11eb-8941-7985fb66f23c.png)
 
@@ -139,26 +139,26 @@ Please check the contributing guidelines of my previous project, and it's going 
 [![Stars](https://img.shields.io/github/stars/praveenscience/Internship-LMS-FrontEnd?style=social)](https://github.com/praveenscience/Internship-LMS-FrontEnd) 
 [![Watchers](https://img.shields.io/github/watchers/praveenscience/foss-events?style=social)](https://github.com/praveenscience/Internship-LMS-FrontEnd)
 
-# Introduction
+## Introduction
 
  We are in the mission of solving a crisis for a lot of small and medium enterprises, who are trying to recruit interns for their projects. This platform aims to onboard new interns, who have applied to the companies and help them understand the process and make the transition smooth.
 
 
 
 
- # Motivation
+ ### Motivation
  * Atuomate the process of regular tasks.
  * Make the task easy and stress free of managment members.
  * Save the time of people in doing same work multiple times.
 
 
 
- # Methodology
+ ### Methodology
 
 
 
 
- ## Video Links
+ ### Video Links
 
 - [Intro Video](https://rb.gy/cygmlf)
 - [GSSoC 21 Series](https://rb.gy/o7lwj8)
@@ -166,7 +166,7 @@ Please check the contributing guidelines of my previous project, and it's going 
 - BrainStorming Day 2: Scrum Masters (TBD)
 
 
-## Resources
+### Resources
 
 - [OpenSource Intro](https://rb.gy/dxnv5y)
 
@@ -174,16 +174,16 @@ Please check the contributing guidelines of my previous project, and it's going 
   - [Event](https://rb.gy/zsgyja)
   - [PlayList](https://rb.gy/cxk3ek)
 
-# GSSoC Participation
+## GSSoC Participation
 
 
 ![](https://i.imgur.com/BR9Q5Pd.png)
 
-**Rules of GSSoC 21**
+### Rules of GSSoC 21
 
 
 
-**Levels & Points**
+### Levels & Points
 
 
 
@@ -215,15 +215,15 @@ Please check the contributing guidelines of my previous project, and it's going 
 </table>
 
 
-# Product Information
+## Product Information
 
 
 
-**Screenshots**
+### Screenshots
 
 
 
-### Tech Stack
+## Tech Stack
 
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -251,18 +251,18 @@ Netlify/Heroku
 Github Actions
 </pre>
 
-> #### Important Note:
+> ### Important Note:
 >
 > The typical MERN Stack involves MongoDB + ExpressJS + ReactJS + NodeJS. But, if you consider our product, it really needs a hierarchical database management system and not a document oriented one. MongoDB doesn't perform well under a lot of situations, so we're planning to use MySQL (or MariaDB) or PostgreSQL (We have already mentioned that it's yet to be decided between these two]. I hope this note helps people understand why we are not using MongoDB in MERN Stack.
 
-# Installation & Running
+## Installation & Running
 
 
 
 
-# Team
+## Team
 
-Admin & Mentors
+### Admin & Mentors
 
 * Praveen Kumar Purushothaman ([Website](https://praveen.science/) &#1421; [LinkedIn](https://www.linkedin.com/in/praveentech/) &#1421; [YouTube](https://www.youtube.com/praveenscience?sub_confirmation=1))
 
@@ -270,7 +270,7 @@ Admin & Mentors
 * Aditya Pahilwani ([LinkedIn](https://www.linkedin.com/in/aditya-pahilwani-93b42bb5/))
 * Tejan Singh([LinkedIn](https://www.linkedin.com/in/tejansingh/))
 
-Scrum Masters
+### Scrum Masters
 
 * Gaurav Maheshwari
 * Varshith Chennuru
@@ -285,7 +285,7 @@ Scrum Masters
 * Prachi Mane
 
 
-Contributors List
+### Contributors List
 
 <a href="https://github.com/praveenscience/Internship-LMS-FrontEnd/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=praveenscience/Internship-LMS-FrontEnd" />
@@ -293,7 +293,7 @@ Contributors List
 
 
 
-# Contribution Guidelines
+## Contribution Guidelines
 
 
 To start contributing, follow the below guidelines: 
