@@ -15,7 +15,7 @@ We are in the mission of solving a crisis for a lot of small and medium enterpri
 
 ### Motivation
 
-- Make the process smooth.
+- Automate the process which needs to be done regularly.
 - Make the task easy and stress free of managment members.
 - Save the time of people in doing same work multiple times.
 
@@ -80,20 +80,20 @@ We are in the mission of solving a crisis for a lot of small and medium enterpri
 
 We are primarily considering JavaScript (sorry, not TypeScript) as the base language. We are using MERN Stack for this, where the tech stack consists of:
 
-Front End
-<!--UL -->
+FRONT END
+
 * HTML & CSS(SCSS)
 * Bootstrap 4 & Responsiveness
 * JavaScript & ES6
 * ReactJS & Node JS(lil bit for runtime)
 
-Back End
+BACK END
 
 * Node JS + Express JS
 * Morgan + CORS & Node Mon
 * PostgreSQL/MySQL
 
-Deployment
+DEPLOYMENT
 
 * Husky 
 * Netlify/Heroku
@@ -101,13 +101,15 @@ Deployment
 
 >#### Important Note:
 >
->The typical MERN Stack involves MongoDB + ExpressJS + ReactJS + NodeJS. But, if you consider our product, it really needs a hierarchical database management system and not a document oriented one. MongoDB doesn't perform well under a lot of situations, so we're planning to use MySQL (or MariaDB) or PostgreSQL (We have already mentioned that it's yet to be decided between these two]. I hope this note helps people understand why we are not using MongoDB in MERN Stack.
+> The typical MERN Stack involves MongoDB + ExpressJS + ReactJS + NodeJS. But, if you consider our product, it really needs a hierarchical database management system and not a document oriented one. MongoDB doesn't perform well under a lot of situations, so we're planning to use MySQL (or MariaDB) or PostgreSQL (We have already mentioned that it's yet to be decided between these two]. I hope this note helps people understand why we are not using MongoDB in MERN Stack.
 
 ## Installation & Running
+
 ## Team
 ### Admin & Mentors
 
 * Praveen Kumar Purushothaman ([Website](https://praveen.science/) &#1421; [LinkedIn](https://www.linkedin.com/in/praveentech/) &#1421; [YouTube](https://www.youtube.com/praveenscience?sub_confirmation=1))
+
 * Shashwat Mishra ([LinkedIn](https://www.linkedin.com/in/the-shashwat-mishra/))
 * Aditya Pahilwani ([LinkedIn](https://www.linkedin.com/in/aditya-pahilwani-93b42bb5/))
 * Tejan Singh([LinkedIn](https://www.linkedin.com/in/tejansingh/))
@@ -128,9 +130,9 @@ Deployment
 
 ### Contributors List
 
-<a href="https://github.com/praveenscience/Internship-LMS-FrontEnd/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=praveenscience/Internship-LMS-FrontEnd" />
-</a>
+![](https://github.com/praveenscience/Internship-LMS-FrontEnd/graphs/contributors)
+
+![](https://contrib.rocks/image?repo=praveenscience/Internship-LMS-FrontEnd)
 
 ## Contribution Guidelines
 
