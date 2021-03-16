@@ -31,9 +31,9 @@ As this project is not your usual Open Source project, this is not going be a bu
 ### Features
 #### (From Saturday, 13th March)
 
-On the Day 1, along with the mentors, we will discuss the features and try to finalise most of them. The plan should be focussing on newbie friendly and more learning. On the grand scale of things, this project will be a simple one, but with a lot of work, split among others. So everyone's gonna learn.
+On the Day 1, along with the mentors, we will discuss the features and try to finalize most of them. The plan should be focussing on newbie friendly and more learning. On the grand scale of things, this project will be a simple one, but with a lot of work, split among others. So everyone's gonna learn.
 
-Once the features are finalised, we will start the wireframe design work of User Flow and screens. This will help us in understanding the complete structure of the project. Not only that, we can componentise and split the work among everyone working on this project.
+Once the features are finalized, we will start the wireframe design work of User Flow and screens. This will help us in understanding the complete structure of the project. Not only that, we can componentize and split the work among everyone working on this project.
 
 Once we have completed this planning, our Day 1 is completed. This also helps you all understand, how much important is the planning phase. I wanted to do this with you all.
 
