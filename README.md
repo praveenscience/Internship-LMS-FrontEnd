@@ -20,13 +20,13 @@
 
 ### Methodology
 
-- Video Links
+ Video Links
 - [Intro Video](https://rb.gy/cygmlf)
- - [GSSoC 21 Series](https://rb.gy/o7lwj8)
- - [BrainStorming Day 1: Project Plan](https://rb.gy/dfxjnd)
- - BrainStorming Day 2: Scrum Masters (TBD)
+- [GSSoC 21 Series](https://rb.gy/o7lwj8)
+- [BrainStorming Day 1: Project Plan](https://rb.gy/dfxjnd)
+- BrainStorming Day 2: Scrum Masters (TBD)
 
-- Resources
+Resources
 - [OpenSource Intro](https://rb.gy/dxnv5y)
 - 30 Days of React
 - [Event](https://rb.gy/zsgyja)
@@ -65,13 +65,10 @@
 </table>
 
 ## Product Information
-
 ### Screenshots
-
 ### Tech Stack
 
 ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-
 ![](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
@@ -106,9 +103,7 @@ Deployment
 >The typical MERN Stack involves MongoDB + ExpressJS + ReactJS + NodeJS. But, if you consider our product, it really needs a hierarchical database management system and not a document oriented one. MongoDB doesn't perform well under a lot of situations, so we're planning to use MySQL (or MariaDB) or PostgreSQL (We have already mentioned that it's yet to be decided between these two]. I hope this note helps people understand why we are not using MongoDB in MERN Stack.
 
 ## Installation & Running
-
 ## Team
-
 ### Admin & Mentors
 
 * Praveen Kumar Purushothaman ([Website](https://praveen.science/) &#1421; [LinkedIn](https://www.linkedin.com/in/praveentech/) &#1421; [YouTube](https://www.youtube.com/praveenscience?sub_confirmation=1))
