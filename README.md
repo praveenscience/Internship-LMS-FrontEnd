@@ -21,7 +21,7 @@ If you're interested, why not start with:
 We have divided the timelines into major three areas, where we will be focussing on a couple of things:
 
 1. **Day 1:** Planning of Requirements & Features (Saturday, 13th March)
-2. **Week 1:** Designing the Initial User Flow & Componentisation (Sunday, 14th March onwards)
+2. **Week 1:** Designing the Initial User Flow & Componentization (Sunday, 14th March onwards)
 3. **Week 2 to 10:** Development Activities (Saturday, 20th March onwards)
 
 ### Methodology
