@@ -31,8 +31,8 @@ We are in the mission of solving a crisis for a lot of small and medium enterpri
 
 - [OpenSource Intro](https://rb.gy/dxnv5y)
 - 30 Days of React
-- [Event Landing Page](https://rb.gy/zsgyja)
-- [PlayList](https://rb.gy/cxk3ek)
+    - [Event](https://rb.gy/zsgyja)
+    - [PlayList](https://rb.gy/cxk3ek)
 
 ## GSSoC Participation
 
