@@ -62,8 +62,8 @@ Participants, please follow these rules.
     - Level0: 1 Day
     - Level1: 2 Days
     - Level2: 3 Days
-    - Level3: 5 Days
-   If you fail to make a PR within the deadline, then the issue will be assigned to another person in the queue.
+    - Level3: 5 Days  
+      If you fail to make a PR within the deadline, then the issue will be assigned to another person in the queue.
 10. While making PRs, don't forget to add a description and screenshots of your work.
 11. Make sure your solution to any issue is better in terms of performance and other parameters in comparison to the previous work
 
