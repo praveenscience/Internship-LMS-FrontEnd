@@ -48,7 +48,7 @@ If you're interested, why not start with:
 
 ### Want to Contribute?
 
-Please read the [Contribution Guidelines](https://github.com/tejan-singh/Internship-LMS-FrontEnd/blob/main/Contributing.md) of this project.
+Please read the [Contribution Guidelines](./Contributing.md) of this project.
 
 ### Levels & Points
 
