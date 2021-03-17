@@ -50,7 +50,7 @@ If you're interested, why not start with:
 
 ### Levels & Points
 
-<table style="width: 100%;">
+<table>
   <tr>
     <th>Level</th>
     <th>Points</th> 
