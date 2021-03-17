@@ -11,7 +11,19 @@
 
 ## Introduction
 
-We are in the mission of solving a crisis for a lot of small and medium enterprises, who are trying to recruit interns for their projects. This platform aims to onboard new interns, who have applied to the companies and help them understand the process and make the transition smooth.
+The plight of small and medium companies has gravely wounded the world with serious consequences impacting all the onboard new interns, developers, full-time roles, and individuals during their recruitment phase. To solve these issues and to show a brilliant path to all the individuals listed we proudly present **DevTernShip**, a platform for Internship OnBoarding, Projects Management, Learning, Recruiting, and many more... for students, interns, developers, who are looking actively for Internship and full-time roles at the moment.
+
+### Agenda
+
+We are on the mission of resolving a crisis for a lot of small and medium enterprises, who are trying to recruit interns for their projects. This platform aims to onboard new interns, who have applied to the companies and help them understand the process and make the transition smooth. This platform is the best gateway to show recruiters, what interns are capable of.
+
+### Easy OnBoarding
+
+In this program we are going to have a setup for every individual intern by providing their account section, i.e., Profile, likely and show others that you are ready to work on a particular stack by joining their company as an Intern. To guide you better, we are also planning to introduce Learning pages, Application Tracking Systems, Opportunity Tracker, and Live Interactive Sections on YouTube by our well-qualified mentors to keep you updated.
+
+### Bridging the Gap
+
+This program helps the Intern to interact with the Recruiters & Managers, effectively by providing social media handles and also interns get a chance of exhibiting their work by sharing their GitHub, LinkedIn profiles with their recruiters.
 
 ### Couple of Favours
 
