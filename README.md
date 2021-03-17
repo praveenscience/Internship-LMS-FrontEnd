@@ -48,6 +48,25 @@ If you're interested, why not start with:
 
 ### Rules of GSSoC 21
 
+Participants, please follow these rules. 
+
+1. You need to be already registered for GSSoC '21.
+2. You can't register right now again.
+3. Comment on a particular issue to get it assigned to you. 
+4. Try to explain your approach to solve any issue in the comments. This will increase the chances of you being assigned. 
+5. Don't create issues that are already listed. 
+6. Please don't pick up an issue already assigned to someone else. Work on the issues after get  assigned to you 
+7. Make sure you discuss in Discord before working on the issue.
+8. If any issue is assigned to you, make sure you complete it before the deadline.
+9. Deadline for issues:
+    - Level0: 1 Day
+    - Level1: 2 Days
+    - Level2: 3 Days
+    - Level3: 5 Days  
+      If you fail to make a PR within the deadline, then the issue will be assigned to another person in the queue.
+10. While making PRs, don't forget to add a description and screenshots of your work.
+11. Make sure your solution to any issue is better in terms of performance and other parameters in comparison to the previous work
+
 ### Levels & Points
 
 <table>
