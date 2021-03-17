@@ -13,6 +13,13 @@
 
 We are in the mission of solving a crisis for a lot of small and medium enterprises, who are trying to recruit interns for their projects. This platform aims to onboard new interns, who have applied to the companies and help them understand the process and make the transition smooth.
 
+### Couple of Favours
+
+If you're interested, why not start with:
+
+* Adding a Star :star: to this Repository
+* [Subscribing to my YouTube Channel](https://rb.gy/fupw21), if you please?
+
 ### Motivation
 
 - Automate the process which needs to be done regularly.
