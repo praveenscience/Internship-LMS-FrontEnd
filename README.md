@@ -33,7 +33,7 @@ If you're interested, why not start with:
 - [Intro Video](https://rb.gy/cygmlf)
 - [GSSoC 21 Series](https://rb.gy/o7lwj8)
 - [BrainStorming Day 1: Project Plan](https://rb.gy/dfxjnd)
-- BrainStorming Day 2: Scrum Masters (TBD)
+- [BrainStorming Day 2: Scrum Masters](https://rb.gy/zwxe6g)
 
 ### Resources
 
