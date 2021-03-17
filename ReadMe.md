@@ -46,26 +46,9 @@ If you're interested, why not start with:
 
 ![GSSoC Logo](https://i.imgur.com/BR9Q5Pd.png)
 
-### Rules of GSSoC 21
+### Want to Contribute?
 
-Participants, please follow these rules. 
-
-1. You need to be already registered for GSSoC '21.
-2. You can't register right now again.
-3. Comment on a particular issue to get it assigned to you. 
-4. Try to explain your approach to solve any issue in the comments. This will increase the chances of you being assigned. 
-5. Don't create issues that are already listed. 
-6. Please don't pick up an issue already assigned to someone else. Work on the issues after get  assigned to you 
-7. Make sure you discuss in Discord before working on the issue.
-8. If any issue is assigned to you, make sure you complete it before the deadline.
-9. Deadline for issues:
-    - Level0: 1 Day
-    - Level1: 2 Days
-    - Level2: 3 Days
-    - Level3: 5 Days  
-      If you fail to make a PR within the deadline, then the issue will be assigned to another person in the queue.
-10. While making PRs, don't forget to add a description and screenshots of your work.
-11. Make sure your solution to any issue is better in terms of performance and other parameters in comparison to the previous work
+Please read the [Contribution Guidelines](./Contributing.md) of this project.
 
 ### Levels & Points
 
@@ -161,49 +144,3 @@ We are primarily considering JavaScript (sorry, not TypeScript) as the base lang
 ### Contributors List
 
 [![Contributors List](https://contrib.rocks/image?repo=praveenscience/Internship-LMS-FrontEnd)](https://github.com/praveenscience/Internship-LMS-FrontEnd/graphs/contributors)
-
-## Contribution Guidelines
-
-To start contributing, follow the below guidelines: 
-
-**1.**  Fork [this](https://github.com/praveenscience/Internship-LMS-FrontEnd) repository.  
-**2.**  Clone your forked copy of the project.
-```
-git clone https://<your_user_name>@github.com/<your_user_name>/Internship-LMS-FrontEnd.git
-```
-**3.** Navigate to the project directory. :file_folder:
-```
-cd Internship-LMS-FrontEnd
-```
-**4.** Add a reference (remote) to the original repository.
-```
-git remote add upstream https://github.com/praveenscience/Internship-LMS-FrontEnd
-```
-**5.** Check the remotes for this repository.
-```
-git remote -v
-```
-**6.** Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).
-```
-git pull upstream main
-```
-**7.** Create a new branch.
-```
-git checkout -b <your_branch_name>
-```
-**8.** Perfom your desired changes to the code base.  
-**9.** Track your changes. :heavy_check_mark:
-```
-git add . 
-```
-**10.** Commit your changes.
-```
-git commit -m "Relevant message"
-```
-**11.** Push the committed changes in your feature branch to your remote repo.
-```
-git push -u origin <your_branch_name>
-```
-**12.** To create a pull request, click on `compare and pull requests`.  
-**13.** Add appropriate title and description to your pull request explaining your changes and efforts done.  
-**14.** Click on `Create Pull Request`.
