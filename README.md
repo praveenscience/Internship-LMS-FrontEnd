@@ -46,7 +46,9 @@ If you're interested, why not start with:
 
 ![GSSoC Logo](https://i.imgur.com/BR9Q5Pd.png)
 
-### How to contribute? Please read contribution guidelines mentioned [here!](https://github.com/tejan-singh/Internship-LMS-FrontEnd/blob/main/Contributing.md)
+### Want to Contribute?
+
+Please read the [Contribution Guidelines](https://github.com/tejan-singh/Internship-LMS-FrontEnd/blob/main/Contributing.md) of this project.
 
 ### Levels & Points
 
