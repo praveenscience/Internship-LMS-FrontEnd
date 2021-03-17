@@ -1,6 +1,6 @@
 # DevTernShip: Internship OnBoarding Platform 
 
-![](https://user-images.githubusercontent.com/1830380/111150758-65810c00-8586-11eb-8941-7985fb66f23c.png)
+![DevTernShip Logo](https://i.imgur.com/vpbLTd9.png)
 
 [![Issues](https://img.shields.io/github/issues/praveenscience/Internship-LMS-FrontEnd)](https://github.com/praveenscience/Internship-LMS-FrontEnd/issues)
 [![PRs](https://img.shields.io/github/issues-pr/praveenscience/Internship-LMS-FrontEnd)](https://github.com/praveenscience/Internship-LMS-FrontEnd/pulls)
@@ -20,6 +20,7 @@ We are in the mission of solving a crisis for a lot of small and medium enterpri
 - Save the time of people in doing same work multiple times.
 
 ### Methodology
+
 ### Video Links
 
 - [Intro Video](https://rb.gy/cygmlf)
@@ -34,14 +35,15 @@ We are in the mission of solving a crisis for a lot of small and medium enterpri
     - [Event Landing Page](https://rb.gy/zsgyja)
     - [PlayList](https://rb.gy/cxk3ek)
 
-## GSSoC Participation
+## GSSoC ’21 Participation
 
-![](https://i.imgur.com/BR9Q5Pd.png)
+![GSSoC Logo](https://i.imgur.com/BR9Q5Pd.png)
 
- ### Rules of GSSoC 21
- ### Levels & Points
+### Rules of GSSoC 21
 
-<table style="width:100%">
+### Levels & Points
+
+<table style="width: 100%;">
   <tr>
     <th>Level</th>
     <th>Points</th> 
@@ -49,23 +51,25 @@ We are in the mission of solving a crisis for a lot of small and medium enterpri
   <tr>
     <td>Level 0</td>
     <td>5</td>
-      </tr>
+  </tr>
   <tr>
     <td>Level 1</td>
     <td>10</td>
-      </tr>
+  </tr>
   <tr>
     <td>Level 2</td>
     <td>15</td>
-      </tr>
+  </tr>
   <tr>
     <td>Level 3</td>
     <td>25</td>
-      </tr>
+  </tr>
 </table>
 
 ## Product Information
+
 ### Screenshots
+
 ### Tech Stack
 
 ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -80,39 +84,39 @@ We are in the mission of solving a crisis for a lot of small and medium enterpri
 
 We are primarily considering JavaScript (sorry, not TypeScript) as the base language. We are using MERN Stack for this, where the tech stack consists of:
 
-FRONT END
+**Front End**
 
-* HTML & CSS(SCSS)
+* HTML & CSS (using SCSS)
 * Bootstrap 4 & Responsiveness
 * JavaScript & ES6
-* ReactJS & Node JS(lil bit for runtime)
+* ReactJS & Node JS (lil bit for runtime)
 
-BACK END
+**Back End**
 
 * Node JS + Express JS
 * Morgan + CORS & Node Mon
 * PostgreSQL/MySQL
 
-DEPLOYMENT
+**Deployment**
 
 * Husky 
-* Netlify/Heroku
+* Netlify / Heroku
 * Github Actions
 
->#### Important Note:
+> **Important Note:**
 >
-> The typical MERN Stack involves MongoDB + ExpressJS + ReactJS + NodeJS. But, if you consider our product, it really needs a hierarchical database management system and not a document oriented one. MongoDB doesn't perform well under a lot of situations, so we're planning to use MySQL (or MariaDB) or PostgreSQL (We have already mentioned that it's yet to be decided between these two]. I hope this note helps people understand why we are not using MongoDB in MERN Stack.
+> The typical MERN Stack involves *MongoDB* + ExpressJS + ReactJS + NodeJS. But, if you consider our product, it really needs a hierarchical database management system and not a document oriented one. MongoDB *doesn't perform well* under a lot of situations, so we're planning to use *MySQL (or MariaDB) or PostgreSQL* (We have already mentioned that it's yet to be decided between these two). I hope this note helps people understand why we are *not* using MongoDB in MERN Stack.
 
 ## Installation & Running
 
 ## Team
+
 ### Admin & Mentors
 
 * Praveen Kumar Purushothaman ([Website](https://praveen.science/) &#1421; [LinkedIn](https://www.linkedin.com/in/praveentech/) &#1421; [YouTube](https://www.youtube.com/praveenscience?sub_confirmation=1))
-
 * Shashwat Mishra ([LinkedIn](https://www.linkedin.com/in/the-shashwat-mishra/))
 * Aditya Pahilwani ([LinkedIn](https://www.linkedin.com/in/aditya-pahilwani-93b42bb5/))
-* Tejan Singh([LinkedIn](https://www.linkedin.com/in/tejansingh/))
+* Tejan Singh ([LinkedIn](https://www.linkedin.com/in/tejansingh/))
 
 ### Scrum Masters
 
@@ -130,81 +134,50 @@ DEPLOYMENT
 
 ### Contributors List
 
-![](https://github.com/praveenscience/Internship-LMS-FrontEnd/graphs/contributors)
-
-![](https://contrib.rocks/image?repo=praveenscience/Internship-LMS-FrontEnd)
+[![Contributors List](https://contrib.rocks/image?repo=praveenscience/Internship-LMS-FrontEnd)](https://github.com/praveenscience/Internship-LMS-FrontEnd/graphs/contributors)
 
 ## Contribution Guidelines
 
 To start contributing, follow the below guidelines: 
 
-**1.**  Fork [this](https://github.com/praveenscience/Internship-LMS-FrontEnd) repository.
-
+**1.**  Fork [this](https://github.com/praveenscience/Internship-LMS-FrontEnd) repository.  
 **2.**  Clone your forked copy of the project.
-
 ```
-git clone https://github.com/<your_user_name>/Internship-LMS-FrontEnd.git
+git clone https://<your_user_name>@github.com/<your_user_name>/Internship-LMS-FrontEnd.git
 ```
-
-**3.** Navigate to the project directory :file_folder: .
-
+**3.** Navigate to the project directory. :file_folder:
 ```
 cd Internship-LMS-FrontEnd
 ```
-
-**4.** Add a reference(remote) to the original repository.
-
+**4.** Add a reference (remote) to the original repository.
 ```
 git remote add upstream https://github.com/praveenscience/Internship-LMS-FrontEnd
 ```
-
 **5.** Check the remotes for this repository.
-
 ```
 git remote -v
 ```
-
 **6.** Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).
-
 ```
 git pull upstream main
 ```
-
 **7.** Create a new branch.
-
 ```
 git checkout -b <your_branch_name>
 ```
-
-**8.** Perfom your desired changes to the code base.
-
-**9.** Track your changes:heavy_check_mark: .
-
+**8.** Perfom your desired changes to the code base.  
+**9.** Track your changes. :heavy_check_mark:
 ```
 git add . 
 ```
-
-**10.** Commit your changes .
-
+**10.** Commit your changes.
 ```
 git commit -m "Relevant message"
 ```
-
 **11.** Push the committed changes in your feature branch to your remote repo.
-
 ```
 git push -u origin <your_branch_name>
 ```
-
-**12.** To create a pull request, click on `compare and pull requests`.
-
-**13.** Add appropriate title and description to your pull request explaining your changes and efforts done.
-
+**12.** To create a pull request, click on `compare and pull requests`.  
+**13.** Add appropriate title and description to your pull request explaining your changes and efforts done.  
 **14.** Click on `Create Pull Request`.
-
-
-
-
-
-
-
