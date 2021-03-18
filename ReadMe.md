@@ -8,6 +8,9 @@
 [![Forks](https://img.shields.io/github/forks/praveenscience/Internship-LMS-FrontEnd?style=social)](https://github.com/praveenscience/Internship-LMS-FrontEnd) 
 [![Stars](https://img.shields.io/github/stars/praveenscience/Internship-LMS-FrontEnd?style=social)](https://github.com/praveenscience/Internship-LMS-FrontEnd) 
 [![Watchers](https://img.shields.io/github/watchers/praveenscience/Internship-LMS-FrontEnd?style=social)](https://github.com/praveenscience/Internship-LMS-FrontEnd)
+ 
+ 
+[![DevTernShip Introduction](https://i.postimg.cc/9M4mCZj4/efs.png)](https://postimg.cc/BL09C8bs.jpg)
 
 Created by the developers, for the developers and the enterprises, **DevTernShip** aims to automate a process that is usually beset by difficulties; The recruitment phase is riddled with disorientation and this makes it difficult for the onboarding interns to make heads or tails of the system.
 
