@@ -7,8 +7,8 @@
 5. Participants / contributors can also **open their issues**, but it needs to be verified and labelled by a mentor.
 6. Each participant / contributor will be **assigned 2 issues (max)** at a time to work.
 7. Participants are expected to follow **project guidelines** and [**coding style**](https://blog.praveen.science/git-standards-followed-in-our-way-of-spotify-agile-methodolgy/). **Structured code** is one of our top priority.
-8. Try to **explain your approach** to solve any issue in the comments. This will increase the chances of you being assigned. 
-9. Don't create issues that are **already listed**. 
+8. Try to **explain your approach** to solve any issue in the comments. This will increase the chances of you being assigned.
+9. Don't create issues that are **already listed**.
 10. Please don't pick up an issue already assigned to someone else. Work on the issues after it gets **assigned to you**.
 11. Make sure you **discuss issues** in Discord Server before working on the issue.
 12. Pull requests will be merged after being **reviewed** by a mentor.
@@ -37,46 +37,66 @@
 
 ## Contribution Guidelines
 
-To start contributing, follow steps mentioned below: 
+To start contributing, follow steps mentioned below:
 
-**1.**  Fork [this](https://github.com/praveenscience/Internship-LMS-FrontEnd) repository.  
-**2.**  Clone your forked copy of the project.
+**1.** Fork [this](https://github.com/praveenscience/Internship-LMS-FrontEnd) repository.
+<img src="imagesContributing/Screenshot from 2021-03-19 09-24-28.png" width="100">
+
+**2.** Clone your forked copy of the project.
+
 ```
 git clone https://<your_user_name>@github.com/<your_user_name>/Internship-LMS-FrontEnd.git
 ```
+
 **3.** Navigate to the project directory. :file_folder:
+
 ```
 cd Internship-LMS-FrontEnd
 ```
+
 **4.** Add a reference (remote) to the original repository.
+
 ```
 git remote add upstream https://github.com/praveenscience/Internship-LMS-FrontEnd
 ```
+
 **5.** Check the remotes for this repository.
+
 ```
 git remote -v
 ```
+
 **6.** Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).
+
 ```
 git pull upstream main
 ```
+
 **7.** Create a new branch.
+
 ```
 git checkout -b <your_branch_name>
 ```
+
 **8.** Perfom your desired changes to the code base.  
 **9.** Track your changes. :heavy_check_mark:
+
 ```
-git add . 
+git add .
 ```
+
 **10.** Commit your changes.
+
 ```
 git commit -m "Relevant message"
 ```
+
 **11.** Push the committed changes in your feature branch to your remote repo.
+
 ```
 git push -u origin <your_branch_name>
 ```
+
 **12.** To create a pull request, click on `compare and pull requests`.  
 **13.** Add appropriate title and description to your pull request explaining your changes and efforts done.  
 **14.** Click on `Create Pull Request`.
