@@ -48,7 +48,6 @@ If you're interested, why not start with:
 - [BrainStorming Day 2: Scrum Masters](https://rb.gy/zwxe6g)
 - [React JS Introduction: Project & Env Setup & Tech Meeting](https://rb.gy/dxbpze)
 
-
 ### Resources
 
 - [OpenSource Intro](https://rb.gy/dxnv5y)
