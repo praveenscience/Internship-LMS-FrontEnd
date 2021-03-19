@@ -1,10 +1,11 @@
 import React, { Component } from "react";
+import Header from "./Bootstrap/Header";
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <p>Hello DevTernShip</p>
+        <Header dark={true}>DevTernShip</Header>
       </div>
     );
   }
