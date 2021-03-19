@@ -77,7 +77,7 @@ cd Internship-LMS-FrontEnd
 
 <br />
 
-<img src="imagesContributing/Step.png" width="100%">
+<img src="imagesContributing/Step6.png" width="100%">
 
 **7.** Add a reference (remote) to the original repository.
 
