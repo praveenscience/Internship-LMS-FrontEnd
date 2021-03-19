@@ -65,11 +65,19 @@ To start contributing, follow steps mentioned below:
 git clone https://<your_user_name>@github.com/<your_user_name>/Internship-LMS-FrontEnd.git
 ```
 
+<br />
+
+<img src="imagesContributing/Step5.png" width="100%">
+
 **6.** Navigate to the project directory. :file_folder:
 
 ```
 cd Internship-LMS-FrontEnd
 ```
+
+<br />
+
+<img src="imagesContributing/Step.png" width="100%">
 
 **7.** Add a reference (remote) to the original repository.
 
@@ -77,11 +85,19 @@ cd Internship-LMS-FrontEnd
 git remote add upstream https://github.com/praveenscience/Internship-LMS-FrontEnd
 ```
 
+<br />
+
+<img src="imagesContributing/Step7.png" width="100%">
+
 **8.** Check the remotes for this repository.
 
 ```
 git remote -v
 ```
+
+<br />
+
+<img src="imagesContributing/Step8.png" width="100%">
 
 **9.** Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).
 
@@ -89,11 +105,19 @@ git remote -v
 git pull upstream main
 ```
 
+<br />
+
+<img src="imagesContributing/Step9.png" width="100%">
+
 **10.** Create a new branch.
 
 ```
 git checkout -b <your_branch_name>
 ```
+
+<br />
+
+<img src="imagesContributing/Step10.png" width="100%">
 
 **11.** Perfom your desired changes to the code base.  
 **12.** Track your changes. :heavy_check_mark:
@@ -102,11 +126,19 @@ git checkout -b <your_branch_name>
 git add .
 ```
 
+<br />
+
+<img src="imagesContributing/Step12.png" width="100%">
+
 **13.** Commit your changes.
 
 ```
 git commit -m "Relevant message"
 ```
+
+<br />
+
+<img src="imagesContributing/Step13.png" width="100%">
 
 **14.** Push the committed changes in your feature branch to your remote repo.
 
@@ -114,6 +146,23 @@ git commit -m "Relevant message"
 git push -u origin <your_branch_name>
 ```
 
+<br />
+
+<img src="imagesContributing/Step13.png" width="100%">
+
 **15.** To create a pull request, click on `compare and pull requests`.  
+<br />
+
+<img src="imagesContributing/Step14.png" width="100%">
+
 **16.** Add appropriate title and description to your pull request explaining your changes and efforts done.  
+<br />
+
+<img src="imagesContributing/Step16.png" width="100%">
+
 **17.** Click on `Create Pull Request`.
+<br />
+
+<img src="imagesContributing/Step17.png" width="100%">
+
+As always, if you have any questions regarding Git, please do reach out on Discord.
