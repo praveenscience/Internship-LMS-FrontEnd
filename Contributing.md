@@ -43,6 +43,7 @@ To start contributing, follow steps mentioned below:
 <br />
 
 <img src="imagesContributing/Screenshot from 2021-03-19 09-24-28.png" width="100%">
+![Step1](imagesContributing/Screenshot from 2021-03-19 09-24-28.png)
 
 **2.** Clone your forked copy of the project.
 
