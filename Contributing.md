@@ -4,7 +4,7 @@
 2. Registrations are **closed** now. We will try to see if we can bring in new people, but it depends on GSSoC Core Team.
 3. Participants / contributors have to **comment** on issues they would like to work on, and mentors or the PA will assign you.
 4. Issues will be assigned on a **first-come, first-serve basis.**
-5. Participants / contributors can also **open their issues**, but it needs to be verified and labelled by a mentor.
+5. Participants / contributors can also **open their issues**, but it needs to be verified and labelled by a mentor. Please discuss with the team once on [**Discord**](https://discord.com/channels/811724426965811210/815033852745220107) before opening your issues. We respect all your contributions, whether it is an issue or a Pull Request.
 6. Each participant / contributor will be **assigned 2 issues (max)** at a time to work.
 7. Participants are expected to follow **project guidelines** and [**coding style**](https://blog.praveen.science/git-standards-followed-in-our-way-of-spotify-agile-methodolgy/). **Structured code** is one of our top priority.
 8. Try to **explain your approach** to solve any issue in the comments. This will increase the chances of you being assigned. 
