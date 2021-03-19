@@ -44,6 +44,11 @@ To start contributing, follow steps mentioned below:
 
 <img src="imagesContributing/Step1.png" width="100%">
 
+**2.** You'll either find a way to fork to your own account or you will have a link to go to your forked repository. Clicking on either takes you to the forked repository.
+<br />
+
+<img src="imagesContributing/Step2.png" width="100%">
+
 **2.** Clone your forked copy of the project.
 
 ```
