@@ -153,7 +153,7 @@ git push -u origin <your_branch_name>
 **15.** To create a pull request, click on `compare and pull requests`.  
 <br />
 
-<img src="imagesContributing/Step14.png" width="100%">
+<img src="imagesContributing/Step15.png" width="100%">
 
 **16.** Add appropriate title and description to your pull request explaining your changes and efforts done.  
 <br />
