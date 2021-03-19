@@ -42,7 +42,7 @@ To start contributing, follow steps mentioned below:
 **1.** Fork [this](https://github.com/praveenscience/Internship-LMS-FrontEnd) repository.
 <br />
 
-<img src="imagesContributing/Screenshot from 2021-03-19 09-24-28.png" width="100">
+<img src="imagesContributing/Screenshot from 2021-03-19 09-24-28.png" width="100%">
 
 **2.** Clone your forked copy of the project.
 
