@@ -8,9 +8,8 @@
 [![Forks](https://img.shields.io/github/forks/praveenscience/Internship-LMS-FrontEnd?style=social)](https://github.com/praveenscience/Internship-LMS-FrontEnd) 
 [![Stars](https://img.shields.io/github/stars/praveenscience/Internship-LMS-FrontEnd?style=social)](https://github.com/praveenscience/Internship-LMS-FrontEnd) 
 [![Watchers](https://img.shields.io/github/watchers/praveenscience/Internship-LMS-FrontEnd?style=social)](https://github.com/praveenscience/Internship-LMS-FrontEnd)
- 
- 
-[![DevTernShip Introduction](https://imgur.com/9gZXnnt.png)](https://www.youtube.com/watch?v=djgxqkBFShI&list=PLO_Y0rsm7b3YrWYr_MlPtjKQrZEVoVTkX)
+
+[![DevTernShip Introduction](https://imgur.com/9gZXnnt.png)](https://rb.gy/cygmlf)
 
 Created by the developers, for the developers and the enterprises, **DevTernShip** aims to automate a process that is usually beset by difficulties; The recruitment phase is riddled with disorientation and this makes it difficult for the onboarding interns to make heads or tails of the system.
 Here's where **DevTernShip** jumps into the picture - *An Internship Onboarding platform with an innovative learning management system and intuitive performance tools*, we ensure that all is 'smooth sailing' when it comes to the talent pipeline. Moreover, Augmented efficiency is brought about with a simple and robust UI, thus rendering the experience even more dynamic.
