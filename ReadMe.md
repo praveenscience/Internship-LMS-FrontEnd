@@ -46,6 +46,7 @@ If you're interested, why not start with:
 - [GSSoC 21 Series](https://rb.gy/o7lwj8)
 - [BrainStorming Day 1: Project Plan](https://rb.gy/dfxjnd)
 - [BrainStorming Day 2: Scrum Masters](https://rb.gy/zwxe6g)
+- [React JS Introduction: Project & Env Setup & Tech Meeting](https://rb.gy/dxbpze)
 
 ### Resources
 
