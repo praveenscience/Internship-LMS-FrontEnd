@@ -49,61 +49,71 @@ To start contributing, follow steps mentioned below:
 
 <img src="imagesContributing/Step2.png" width="100%">
 
-**2.** Clone your forked copy of the project.
+**3.** You can confirm that this repository is a fork of the original repository by finding the "forked from [praveenscience/Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)" text under the repository name.
+<br />
+
+<img src="imagesContributing/Step3.png" width="100%">
+
+**4.** Click on Clone or download button on the forked repository. Make sure you are cloning your version (GitHub.com/\<your username>/Internship-LMS-FrontEnd) and not the CatsInTech organisation's.
+<br />
+
+<img src="imagesContributing/Step4.png" width="100%">
+
+**5.** Clone your forked copy of the project.
 
 ```
 git clone https://<your_user_name>@github.com/<your_user_name>/Internship-LMS-FrontEnd.git
 ```
 
-**3.** Navigate to the project directory. :file_folder:
+**6.** Navigate to the project directory. :file_folder:
 
 ```
 cd Internship-LMS-FrontEnd
 ```
 
-**4.** Add a reference (remote) to the original repository.
+**7.** Add a reference (remote) to the original repository.
 
 ```
 git remote add upstream https://github.com/praveenscience/Internship-LMS-FrontEnd
 ```
 
-**5.** Check the remotes for this repository.
+**8.** Check the remotes for this repository.
 
 ```
 git remote -v
 ```
 
-**6.** Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).
+**9.** Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).
 
 ```
 git pull upstream main
 ```
 
-**7.** Create a new branch.
+**10.** Create a new branch.
 
 ```
 git checkout -b <your_branch_name>
 ```
 
-**8.** Perfom your desired changes to the code base.  
-**9.** Track your changes. :heavy_check_mark:
+**11.** Perfom your desired changes to the code base.  
+**12.** Track your changes. :heavy_check_mark:
 
 ```
 git add .
 ```
 
-**10.** Commit your changes.
+**13.** Commit your changes.
 
 ```
 git commit -m "Relevant message"
 ```
 
-**11.** Push the committed changes in your feature branch to your remote repo.
+**14.** Push the committed changes in your feature branch to your remote repo.
 
 ```
 git push -u origin <your_branch_name>
 ```
 
-**12.** To create a pull request, click on `compare and pull requests`.  
-**13.** Add appropriate title and description to your pull request explaining your changes and efforts done.  
-**14.** Click on `Create Pull Request`.
+**15.** To create a pull request, click on `compare and pull requests`.  
+**16.** Add appropriate title and description to your pull request explaining your changes and efforts done.  
+**17.** Click on `Create Pull Request`.
