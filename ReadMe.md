@@ -125,6 +125,12 @@ We are primarily considering JavaScript (sorry, not TypeScript) as the base lang
 > The typical MERN Stack involves *MongoDB* + ExpressJS + ReactJS + NodeJS. But, if you consider our product, it really needs a hierarchical database management system and not a document oriented one. MongoDB *doesn't perform well* under a lot of situations, so we're planning to use *MySQL (or MariaDB) or PostgreSQL* (We have already mentioned that it's yet to be decided between these two). I hope this note helps people understand why we are *not* using MongoDB in MERN Stack.
 
 ## Installation & Running
+1. Fork [this](https://github.com/praveenscience/Internship-LMS-FrontEnd) repository and Clone it to your local system. 
+2. Check if Node is installed in your Operating system.
+ * To check if Node is installed, open the command prompt or other command line tool and type 'node -v'. If it prints a version number, it means Node is successfully installed.
+ * If the above command gives error, it means Node is not installed. You can download Node.js from https://nodejs.org/en/ and repeat previous step after installation.
+3. Navigate to the project directory and run 'npm install' to install all the dependencies.
+4. Run 'npm start' to start the application.
 
 ## Team
 
