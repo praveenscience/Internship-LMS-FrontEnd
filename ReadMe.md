@@ -41,6 +41,15 @@ If you're interested, why not start with:
 
 ### Methodology
 
+We are following **Spotify Agile Methodology** to give the contributors an idea of efficient software development methods and how work is co-ordinated in the industry. If you don't know what that means, please refer [this blog](https://blog.praveen.science/my-experience-on-spotify-agile-methodology/). 
+Following are some points on the methodology to be used:
+- To get the best out of everyone contributing to this project, we have adopted high alignment and high autonomy model.
+- The issues created will have a description of the problem to be solved, the contributors have to figure out how they would like to solve it and what tool they would like to use.
+- Everything needs to be communicated to the scrum masters/project admin on what they think about a particular issue and its possible solution.
+- We will have a sprint of 3days-5days based on the level of difficulty of the issue with regular sprint planning sessions and daily stand-ups to track the progress of each and every contributor.
+- In these sessions, the scrum masters will take a note of the progress and blockers if any. If the contributor faces any issues/blocks, the others will help them solve it and resume their work. Hence, the blocks can be addressed timely. 
+- To know more about the Git standards we will be following, refer [this](https://blog.praveen.science/git-standards-followed-in-our-way-of-spotify-agile-methodolgy/).
+
 ### Video Links
 
 - [Intro Video](https://rb.gy/cygmlf)
