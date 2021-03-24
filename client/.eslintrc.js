@@ -17,14 +17,11 @@ module.exports = {
     "plugins": [
         "react"
     ],
+    "ignorePatterns": ["src/tests/**/*.js"],
     "rules": {
         "indent": [
             "error",
-            4
-        ],
-        "linebreak-style": [
-            "error",
-            "unix"
+            2
         ],
         "quotes": [
             "error",
