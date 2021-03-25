@@ -44,11 +44,5 @@
     "eslint-plugin-react": "^7.23.1",
     "husky": "^5.2.0",
     "prettier": "^2.2.1"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run lint:fix",
-      "pre-push": "npm run lint"
-    }
   }
 }
