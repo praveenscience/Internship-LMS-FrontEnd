@@ -6,7 +6,8 @@
   "scripts": {
     "husky-init": "husky init",
     "prepare": "husky install",
-    "precommit": "cd client && npm run precommit"
+    "precommit": "lint-staged && cd client && npm run precommit",
+    "prepush": "lint-staged && cd client && npm run lint:fix"
   },
   "repository": {
     "type": "git",
@@ -25,8 +26,8 @@
   "homepage": "https://github.com/praveenscience/Internship-LMS-FrontEnd#readme",
   "husky": {
     "hooks": {
-      "pre-commit": "npm run lint:fix",
-      "pre-push": "npm run lint"
+      "pre-commit": "npm run precommit",
+      "pre-push": "npm run prepush"
     }
   },
   "devDependencies": {
