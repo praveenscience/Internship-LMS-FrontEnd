@@ -4,7 +4,9 @@
   "description": "We are in the mission of solving a crisis for a lot of small and medium enterprises, who are trying to recruit interns for their projects.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "husky-init": "husky init",
+    "prepare": "husky install",
+    "precommit": "cd client && npm run precommit"
   },
   "repository": {
     "type": "git",

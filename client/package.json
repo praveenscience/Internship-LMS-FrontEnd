@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "lint": "eslint src/**/*.js",
+    "precommit": "eslint src/**/*.js",
     "lint:fix": "eslint --fix src/**/*.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
