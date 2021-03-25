@@ -1,0 +1,30 @@
+{
+  "name": "internship-lms-frontend",
+  "version": "1.0.0",
+  "description": "We are in the mission of solving a crisis for a lot of small and medium enterprises, who are trying to recruit interns for their projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://praveenscience@github.com/praveenscience/Internship-LMS-FrontEnd.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "NodeJS",
+    "ExpressJS"
+  ],
+  "author": "Praveen Kumar Purushothaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveenscience/Internship-LMS-FrontEnd/issues"
+  },
+  "homepage": "https://github.com/praveenscience/Internship-LMS-FrontEnd#readme",
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint:fix",
+      "pre-push": "npm run lint"
+    }
+  }
+}
