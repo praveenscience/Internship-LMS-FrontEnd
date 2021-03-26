@@ -43,17 +43,13 @@ To start contributing, follow steps mentioned below:
  ![Step 1](./imagesContributing/Step1.png)
 
 **2.** You'll either find a way to fork to your own account or you will have a link to go to your forked repository. Clicking on either takes you to the forked repository.
-![Step 1](./imagesContributing/Step2.png)
+![Step 2](./imagesContributing/Step2.png)
 
 **3.** You can confirm that this repository is a fork of the original repository by finding the "forked from [praveenscience/Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)" text under the repository name.
-<br />
-
-<img src="imagesContributing/Step3.png" width="100%">
+![Step 3](./imagesContributing/Step3.png)
 
 **4.** Click on Clone or download button on the forked repository. Make sure you are cloning your version (GitHub.com/\<your username>/Internship-LMS-FrontEnd) and not the CatsInTech organisation's.
-<br />
-
-<img src="imagesContributing/Step4.png" width="100%">
+![Step 4](./imagesContributing/Step4.png)
 
 **5.** Clone your forked copy of the project.
 
