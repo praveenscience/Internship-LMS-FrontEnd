@@ -40,7 +40,7 @@
 To start contributing, follow steps mentioned below:
 
 **1.** Fork [this](https://github.com/praveenscience/Internship-LMS-FrontEnd) repository.
- ![Step 1](https://github.com/Deek9399/Internship-LMS-FrontEnd/blob/61-contributing-steps/imagesContributing/Step1.png)
+ ![Step 1](./imagesContributing/Step1.png)
 <br />
 
 <img src="imagesContributing/Step1.png" width="100%">
