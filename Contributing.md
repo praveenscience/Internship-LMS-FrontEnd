@@ -106,17 +106,22 @@ git checkout -b <your_branch_name>
 git add .
 ```
 
+![Step 12](./imagesContributing/Step12.png)
+
 **13.** Commit your changes.
 
 ```
 git commit -m "Relevant message"
 ```
 
+![Step 13](./imagesContributing/Step13.png)
 **14.** Push the committed changes in your feature branch to your remote repo.
 
 ```
 git push -u origin <your_branch_name>
 ```
+
+![Step 14](./imagesContributing/Step14.png)
 
 **15.** To create a pull request, click on `compare and pull requests`.
 ![Step 15](./imagesContributing/Step15.png)
@@ -127,5 +132,5 @@ git push -u origin <your_branch_name>
 **17.** Click on `Create Pull Request`.
 ![Step 17](./imagesContributing/Step17.png)
 
-As always, if you have any questions regarding Git, please do reach out on Discord.
+As always, if you have any questions regarding Git, please do reach out on [Discord](https://discord.com/channels/811724426965811210/815033852745220107).
 Discord is only for GSSoC participants.
