@@ -136,12 +136,68 @@ We are primarily considering JavaScript (sorry, not TypeScript) as the base lang
 > The typical MERN Stack involves *MongoDB* + ExpressJS + ReactJS + NodeJS. But, if you consider our product, it really needs a hierarchical database management system and not a document oriented one. MongoDB *doesn't perform well* under a lot of situations, so we're planning to use *MySQL (or MariaDB) or PostgreSQL* (We have already mentioned that it's yet to be decided between these two). I hope this note helps people understand why we are *not* using MongoDB in MERN Stack.
 
 ## Installation & Running
-1. Fork [this](https://github.com/praveenscience/Internship-LMS-FrontEnd) repository and Clone it to your local system. 
-2. Check if Node is installed in your Operating system.
- * To check if Node is installed, open the command prompt or other command line tool and type 'node -v'. If it prints a version number, it means Node is successfully installed.
- * If the above command gives error, it means Node is not installed. You can download Node.js from https://nodejs.org/en/ and repeat previous step after installation.
-3. Navigate to the project directory and run 'npm install' to install all the dependencies.
-4. Run 'npm start' to start the application.
+
+**System Requirements**
+
+For Server/dev:
+
+ * Google Chrome: Add 'React Developer Tools' from chrome  extension. It allows to inspect the React component hierarchies in the Chrome Developer Tools.
+
+ * Git: Our project uses Git as a version control system.
+
+ * NodeJS: This allows to run JavaScript on a computer server.
+
+ * Visual Studio Code: Text-editor for our project as we are using React. Add these extensions for ReactJS development - 
+   * ES7 React/Redux/GraphQL/React-Native snippets 
+   * GitLens - Git supercharged 
+   * Git History
+   * ESLint 
+   * Prettier - Code formatter
+
+ * PostMan: This software used as a REST Client to create and execute queries. 
+
+**Installation And Setup**
+
+1. Clone [this](https://github.com/praveenscience/Internship-LMS-FrontEnd) repository to your local system. 
+```
+   git clone https://<your_user_name>@github.com/<your_user_name>/Internship-LMS-FrontEnd.git
+```
+2. Navigate to the project directory 
+```
+   cd Internship-LMS-Frontend
+```
+3. Navigate to the client folder
+```
+   cd client
+```
+4. Install all the dependencies
+```
+   npm install
+```
+
+  **Trouble Shooting**
+
+   * If you get error while installing all the dependencies, check if Node is installed using command line tool
+   ```
+      node -v
+   ```
+   * If it prints a version number, it means Node is successfully installed.
+   * If the above command gives error, it means Node is not installed. You can download Node.js from https://nodejs.org/en/download/ and repeat previous step for installation.
+
+**Running the Code**
+
+1. Navigate to the project directory 
+```
+   cd Internship-LMS-Frontend
+```
+2. Navigate to the client folder
+```
+   cd client
+```
+3. Run the application
+```
+   npm start
+```
 
 ## Team
 
