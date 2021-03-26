@@ -57,9 +57,6 @@ To start contributing, follow steps mentioned below:
 git clone https://<your_user_name>@github.com/<your_user_name>/Internship-LMS-FrontEnd.git
 ```
 
-<br />
-
-<img src="imagesContributing/Step5.png" width="100%">
 
 **6.** Navigate to the project directory. :file_folder:
 
