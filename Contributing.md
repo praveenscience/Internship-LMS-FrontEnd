@@ -41,14 +41,9 @@ To start contributing, follow steps mentioned below:
 
 **1.** Fork [this](https://github.com/praveenscience/Internship-LMS-FrontEnd) repository.
  ![Step 1](./imagesContributing/Step1.png)
-<br />
-
-<img src="imagesContributing/Step1.png" width="100%">
 
 **2.** You'll either find a way to fork to your own account or you will have a link to go to your forked repository. Clicking on either takes you to the forked repository.
-<br />
-
-<img src="imagesContributing/Step2.png" width="100%">
+![Step 1](./imagesContributing/Step2.png)
 
 **3.** You can confirm that this repository is a fork of the original repository by finding the "forked from [praveenscience/Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)" text under the repository name.
 <br />
