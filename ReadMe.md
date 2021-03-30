@@ -77,6 +77,10 @@ Yes, we’re a part of GSSoC ’21. Look out for the Live Streams to get your is
 
 Please read the [Contribution Guidelines](./Contributing.md) of this project.
 
+### Code of Conduct
+
+Please read the [Code of Conduct](./Code_of_Conduct.md) of this project.
+
 ### Levels & Points
 
 <table>
