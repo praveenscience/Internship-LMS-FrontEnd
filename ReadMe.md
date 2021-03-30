@@ -170,9 +170,9 @@ We are primarily considering JavaScript (sorry, not TypeScript) as the base lang
 
 - Where to ask for help?
 
-  ->You can message on the respective channel of project or directly message the owner or mentors of the repository on Discord or LinkedIn .
+  - You can message on the respective channel of project or directly message the owner or mentors of the repository on Discord or LinkedIn .
 
-  ->You can email the mentors or the admin.
+  - You can email the mentors or the admin.
 
 ### About DevTernShip
 
