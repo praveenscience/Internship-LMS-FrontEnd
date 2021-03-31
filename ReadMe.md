@@ -164,6 +164,37 @@ We are primarily considering JavaScript (sorry, not TypeScript) as the base lang
 * Salma Shaik
 * Prachi Mane
 
+## FAQs
+
+### About GSSOC
+
+#### What is GSSOC?
+
+GirlScript Summer of Code is the 3 month long Open Source program during summers conducted by GirlScript Foundation, started in 2018, with an aim to help beginners get started with Open Source Development while encouraging diversity. Throughout the program, participants contribute to different projects under guidance of experienced mentors. Top participants get exciting goodies and opportunities.
+
+#### Where to ask for help?
+
+* You can message on the respective channel of project or directly message the owner or mentors of the repository on Discord or LinkedIn.
+* You can email the mentors or the admin.
+
+### About DevTernShip
+
+#### How to contribute in this project?
+
+You have to work on an existing issue or can create a new issue and get yourself assigned. Before creating an issue, please talk to the Project Admin or one of the mentors.
+
+#### What is this project about?
+
+This project aims to solve a problem for many small and medium businesses who are looking to find interns for their projects. This platform is designed to help new interns who have applied to companies understand the process and make the transition as seamless as possible. This forum is the perfect way for interns to demonstrate their abilities to recruiters.
+
+#### How should I start?
+
+As it's an Agile Methodology, we're hosting weekly Live Streams and assigning the issues during that. Please don't miss them.
+
+#### Can I work on an already opened issue?
+
+You can always ask in the comments section of the opened issue to get yourself assigned but the owner may or may not assign you that issue. However, the owner may suggest you a fresh issue.
+
 ### Contributors List
 
 [![Contributors List](https://contrib.rocks/image?repo=praveenscience/Internship-LMS-FrontEnd)](https://github.com/praveenscience/Internship-LMS-FrontEnd/graphs/contributors)
