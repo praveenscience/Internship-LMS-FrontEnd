@@ -4,9 +4,9 @@
   "description": "We are in the mission of solving a crisis for a lot of small and medium enterprises, who are trying to recruit interns for their projects.",
   "main": "index.js",
   "scripts": {
-    "husky-init": "husky init",
     "prepare": "husky install",
-    "precommit": "lint-staged && cd client && npm run precommit",
+    "lintstaged_install": "npm i -D lint-staged",
+    "precommit": "lint-staged && cd client && lint-staged && npm run precommit && npm run lint:fix",
     "prepush": "lint-staged && cd client && npm run lint:fix"
   },
   "repository": {
@@ -36,5 +36,10 @@
     "husky": "^5.2.0",
     "lint-staged": "^10.5.4",
     "prettier": "^2.2.1"
+  },
+  "lint-staged": {
+    "*/.+(js|css|sass|less|scss|jsx)": [
+      "prettier --write"
+    ]
   }
 }

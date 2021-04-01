@@ -1,4 +1,10 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
-cd client && npm run precommit
+echo "Running Husky..."
+npm run prepare
+echo "HUSKY INSTALLED SUCCESSFULLY"
+npm run lintstaged_install
+echo "LINT STAGED INSTALLED SUCCESSFULLY"
+npm run precommit
+echo "PRECOMMIT HOOK RAN SUCCESSFULLY"
