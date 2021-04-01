@@ -19,7 +19,7 @@ const Header = ({ dark, children, className, items, to, Link }) => {
       )}
       {items && items.length > 0 && (
         <div className="collapse navbar-collapse">
-          <ul className="navbar-nav ml-auto">
+          <ul className="navbar-nav mr-50%">
             {items.map((item, key) => (
               <li className="nav-item" key={key}>
                 {item}
