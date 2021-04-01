@@ -19,7 +19,11 @@ module.exports = {
     "plugins": [
         "react"
     ],
-    "ignorePatterns": [],
+    "ignorePatterns": [
+        "src/tests",
+        "src/setupTests.js",
+        "src/reportWebVitals.js"
+    ],
     "rules": {
         "indent": [
             "error",
@@ -32,7 +36,10 @@ module.exports = {
         "semi": [
             "error",
             "always"
-        ]
+        ],
+        "react/prop-types": 0,
+        "react/react-in-jsx-scope": 0,
+        "no-extra-boolean-cast": 0
     },
     "settings": {
         "react": {

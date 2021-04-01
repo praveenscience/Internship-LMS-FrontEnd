@@ -5,9 +5,8 @@
   "main": "index.js",
   "scripts": {
     "prepare": "husky install",
-    "lintstaged_install": "npm i -D lint-staged",
-    "precommit": "lint-staged && cd client && lint-staged && npm run precommit && npm run lint:fix",
-    "prepush": "lint-staged && cd client && npm run lint:fix"
+    "precommit": "cd client && npm run precommit && npm run lint:fix",
+    "prepush": "cd client && npm run lint:fix"
   },
   "repository": {
     "type": "git",
@@ -34,12 +33,6 @@
     "eslint": "^7.22.0",
     "eslint-config-prettier": "^8.1.0",
     "husky": "^5.2.0",
-    "lint-staged": "^10.5.4",
     "prettier": "^2.2.1"
-  },
-  "lint-staged": {
-    "*/.+(js|css|sass|less|scss|jsx)": [
-      "prettier --write"
-    ]
   }
 }

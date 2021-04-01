@@ -3,8 +3,6 @@
 
 echo "Running Husky..."
 npm run prepare
-echo "HUSKY INSTALLED SUCCESSFULLY"
-npm run lintstaged_install
-echo "LINT STAGED INSTALLED SUCCESSFULLY"
+echo "Husky installed successfully..."
 npm run precommit
-echo "PRECOMMIT HOOK RAN SUCCESSFULLY"
+echo "PreCommit Hook ran successfully..."
