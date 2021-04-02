@@ -164,40 +164,16 @@ We are primarily considering JavaScript (sorry, not TypeScript) as the base lang
 * Salma Shaik
 * Prachi Mane
 
-## FAQs
+## General FAQs.
 
-#### About OpenSource Projects
+#### What is OpenSource Projects
 
- OpenSource Projects means anybody is free to use, study and modify your project for any purpose. The open source community provides a great opportunity for aspiring programmers to distinguish themselves; and by contributing to various projects, developers can improve their skills and get inspiration and support from like-minded people. But most importantly, they can prove that they can build fantastic experiences that people love. means anybody is free to use, study, modify, and distribute your project for any purpose.
-
-
-### How to start Contributing in OpenSource Projects
-
-For doing this we must have to go step by step:-
-* Fork the repository.
-* Clone Your Repository.
-* Copy the link.
-* Go to git bash and write a command $ git clone https://<User Name>@link.
-* Go to your current branch.
-* $ git checkout -b <issue Your are working on>       (This will change the branch from master branch)
-* Make the changes required.
-* After making changes save it and again go to git bash
-* $ git status    (This will show which files You have modified)
-* $ git diff      (This will show you the exact changes in green color)
-* $ git add . (This will add all modifed files)
-* $ git commit -m "Fixed ISSUE
-   >
-   > ISSUE NO."
-* $ git push origin <Current branch name>.
-* Copy the Pull request link.
-* Open the link in your browser.
-* Scroll down to see all  changes you have done.
-* Click on option Create Pull Request.
+ OpenSource Projects means anybody is free to use, study and modify your project. The open source community provides a great opportunity for aspiring programmers to distinguish themselves; and by contributing to various projects, developers can improve their skills and get inspiration and support from like-minded people. But most importantly, they can prove that they can build fantastic experiences that people love. 
 
 
-### Never mess with your master branch
+### Why is the master so important to not mess with?
 
-The master branch is deployable. It is your production code. The master branch is meant to be stable, and it is the social contract of open source software to never, ever push anything to master that is not tested, or that breaks the build.  If you make changes to the master branch of a group project while other people are also working on it, your on-the-fly changes will ripple out to affect everyone else and very quickly there will be merge conflicts.
+The master branch is deployable. It is your production code, ready to roll out into the world. The master branch is meant to be stable, and it is the social contract of open source software to never, ever push anything to master that is not tested. If you make changes to the master branch while other people are also working on it, your on-the-fly changes will ripple out to affect everyone else and very quickly there will be merge conflicts. So,branching is a technique that gives a developer or group of developers the opportunity to create a new copy of a project without affecting the original which is the master branch. This allows developers to experiment with a branch and if the experiment is successful, Git makes it easy to incorporate the experimental elements into the Master.
 
 
 ### About GSSOC
@@ -227,7 +203,7 @@ As it's an Agile Methodology, we're hosting weekly Live Streams and assigning th
 
 #### Can I work on an already opened issue?
 
-You can always ask in the comments section of the opened issue to get yourself assigned but the owner may or may not assign you that issue. However, the owner may suggest you a fresh issue (in which you have to create new issue by reading about that Project,searchig the bug present in it).
+You can always ask in the comments section of the opened issue to get yourself assigned but the owner may or may not assign you that issue. However, the owner may suggest you a fresh issue (means by creating new issue).
 
 ### Contributors List
 
