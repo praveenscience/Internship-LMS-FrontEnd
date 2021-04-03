@@ -168,9 +168,9 @@ We are primarily considering JavaScript (sorry, not TypeScript) as the base lang
 
 ### General FAQs
 
-#### What is OpenSource Project
+#### What is an Open Source Project?
 
-OpenSource Project means anybody is free to use, study and modify your Project. An Open source community provides a great opportunity for aspiring programmers to distinguish themselves; and by contributing to various Project, developers can improve their skills and get inspiration and support from like-minded people. But most importantly, they can prove that they can build fantastic experiences that people love.
+Open Source Project denotes the project's source code is free for anyone to use, study and modify. An Open Source community provides a great opportunity for aspiring programmers to distinguish themselves; and by contributing to various projects, developers can improve their skills and get inspiration and support from like-minded people. But most importantly, they can prove that they can build fantastic experiences that people love.
 
 ### Why is the `master` branch so important to not mess with?
 
