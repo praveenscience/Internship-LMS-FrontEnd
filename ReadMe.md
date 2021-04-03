@@ -175,6 +175,7 @@ Open Source Project denotes the project's source code is free for anyone to use,
 ### Why is the `master` branch so important to not mess with?
 
 The master branch is deployable. It is your production code, ready to roll out into the world. The master branch is meant to be stable, and it is the social contract of open source software to never, ever push anything to master that is not tested. If you make changes to the master branch while other people are also working on it, your on-the-fly changes will ripple out to affect everyone else and very quickly there will be merge conflicts. So, branching is a technique that gives a developer, group of developers the opportunity to create a new copy of a project without affecting the original, which is the master branch. This allows developers to experiment with a branch and if the experiment is successful, Git makes it easy to incorporate the experimental elements into the Master.
+
 ### About GSSOC
 
 #### What is GSSOC?
