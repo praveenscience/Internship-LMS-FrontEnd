@@ -164,7 +164,7 @@ We are primarily considering JavaScript (sorry, not TypeScript) as the base lang
 * Salma Shaik
 * Prachi Mane
 
-## General FAQs.
+## General FAQs
 
 #### What is OpenSource Project
 
