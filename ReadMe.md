@@ -49,7 +49,7 @@ Following are some points on the methodology to be used:
 * The issues created will have a description of the problem to be solved, the contributors have to figure out how they would like to solve it and what tool they would like to use.
 * Everything needs to be communicated to the scrum masters/project admin on what they think about a particular issue and its possible solution.
 * We will have a sprint of one variable day a week, based on the level of difficulty of the issue with regular sprint planning sessions and daily stand-ups to track each contributor’s progress.
-* In these sessions, the scrum masters will take note of the progress and blockers if any. If the contributor faces any issues/blocks, the others will help them solve them and resume their work. Hence, the blocks can be addressed timely.
+* In these sessions, the scrum masters will take note of the progress and blockers if any. If the contributor faces any issues / blocks, the others will help them solve them and resume their work. Hence, the blocks can be addressed timely.
 * It would be a good idea to check out the [Git Standards followed in our way of Spotify Agile Methodology](https://blog.praveen.science/git-standards-followed-in-our-way-of-spotify-agile-methodolgy/) model.
 
 ### Video Links
