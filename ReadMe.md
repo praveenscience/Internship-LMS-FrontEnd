@@ -24,7 +24,7 @@ In this program, we are going to have a setup for every individual intern by pro
 
 ### Bridging the Gap
 
-This program helps the intern interact with the Recruiters & Managers, effectively by providing social media handles. Also, interns get a chance to exhibit their work by sharing their GitHub, LinkedIn profiles with their recruiters.
+This program helps the intern interact with the Recruiters & Managers, effectively by providing social media handles. Also, the interns get a chance to exhibit their work by sharing their GitHub, LinkedIn profiles with their recruiters.
 
 ### Couple of Favours
 
