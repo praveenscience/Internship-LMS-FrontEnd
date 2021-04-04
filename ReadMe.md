@@ -152,10 +152,13 @@ For Server Side Setup / Development Environment:
    * Prettier - Code formatter
    * PostMan: This software used as a REST Client to create and execute queries. 
 
-Client Side requirements:
+For running on the Client Side:
 
-* Our project supports all modern browsers having latest technologies.
-* For supporting browsers like Internet Explorer 9, 10 and 11 requires polyfills, you can use [react-app-polyfill](https://github.com/facebook/create-react-app/blob/master/packages/react-app-polyfill/README.md)
+* A modern browser that supports localStorage & Single Page Applications:
+  * Google Chrome
+  * Mozilla Firefox
+  * Microsoft Edge (Blink Engine)
+* As this project **doesn't** use polyfills, legacy browsers aren't supported.
  
 **Installation and Setup**
 
@@ -172,22 +175,26 @@ cd Internship-LMS-Frontend
 cd client
 ```
 **4.** Install all the dependencies
-```properties
+```bash
 npm install
 ```
 
-**Trouble Shooting**
+**Troubleshooting**
 
-* If you get error while installing all the dependencies, check if Node is installed using command line tool
-```properties 
+* If you get error while installing all the dependencies, check if Node JS is installed using your terminal:
+```bash 
 node -v
 ```
 or
-```properties
+```bash
 npm -v
 ```
-* If it prints a version number, it means Node is successfully installed.
-* If the above command gives error, it means Node is not installed. You can download Node.js from https://nodejs.org/en/download/ and repeat previous step for installation.
+* If it prints a version number, then Node is successfully installed.
+* If the above command gives error, then Node is not installed.
+
+Please download and install Node JS from [the official website](https://nodejs.org/en/download/) and repeat previous step for installation.
+
+Make sure you're downloading the **LTS** version.
 
 **Running the Code**
 
