@@ -162,19 +162,19 @@ For running on the Client Side:
  
 **Installation and Setup**
 
-**1.** Clone [this](https://github.com/praveenscience/Internship-LMS-FrontEnd) repository to your local system. 
+**1.** Clone [this](https://github.com/praveenscience/Internship-LMS-FrontEnd) repository to your local system:
 ```bash
 git clone https://<your_user_name>@github.com/<your_user_name>/Internship-LMS-FrontEnd.git
 ```
-**2.** Navigate to the project directory 
+**2.** Navigate to the project directory:
 ```bash
 cd Internship-LMS-Frontend
 ```
-**3.** Navigate to the client folder
+**3.** Navigate to the `client` folder:
 ```bash
 cd client
 ```
-**4.** Install all the dependencies
+**4.** Install all the dependencies:
 ```bash
 npm install
 ```
@@ -198,16 +198,16 @@ Make sure you're downloading the **LTS** version.
 
 **Running the Code**
 
-**1.** Navigate to the project directory 
+**1.** Navigate to the project directory:
 ```bash
 cd Internship-LMS-Frontend
 ```
-**2.** Navigate to the client folder
+**2.** Navigate to the `client` folder:
 ```bash
 cd client
 ```
-**3.** Run the application
-```properties
+**3.** Start the application:
+```bash
 npm start
 ```
 
