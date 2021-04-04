@@ -203,7 +203,7 @@ As it's an Agile Methodology, we're hosting weekly Live Streams and assigning th
 
 #### Can I work on an already opened issue?
 
-You can always ask in the comments section of the opened issue to get yourself assigned but the owner may or may not assign you that issue. However, the owner may suggest a fresh issue (either by creating a new issue or requesting you to create a new issue).
+You can always ask in the comments section of the opened issue to get yourself assigned but the owner may or may not assign you that issue. However, the owner may suggest to work on a fresh issue (either by creating a new issue or requesting you to create a new issue).
 
 ### Contributors List
 
