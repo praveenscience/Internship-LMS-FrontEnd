@@ -139,64 +139,69 @@ We are primarily considering JavaScript (sorry, not TypeScript) as the base lang
 
 **System Requirements**
 
-For Server/dev:
+For Server Side Setup / Development Environment:
 
- * Google Chrome: Add 'React Developer Tools' from chrome  extension. It allows to inspect the React component hierarchies in the Chrome Developer Tools.
-
- * Git: Our project uses Git as a version control system.
-
- * NodeJS: This allows to run JavaScript on a computer server.
-
- * Visual Studio Code: Text-editor for our project as we are using React. Add these extensions for ReactJS development - 
+ * Google Chrome: Add 'React Developer Tools' from chrome extensions. It allows to inspect the React component hierarchies in the Chrome Developer Tools.
+ * Git: Our project uses Git as a version control system. 
+ * NodeJS: This allows to run JavaScript on a computer/server. It allows us to create, read, update, and delete files on the server side.
+ * Visual Studio Code: This is the text-editor for our project as we are using React, it provides right extensions to support our React JS development. Add these extensions for ReactJS development - 
    * ES7 React/Redux/GraphQL/React-Native snippets 
    * GitLens - Git supercharged 
    * Git History
    * ESLint 
    * Prettier - Code formatter
+   * PostMan: This software used as a REST Client to create and execute queries. 
 
- * PostMan: This software used as a REST Client to create and execute queries. 
+Client Side requirements:
 
-**Installation And Setup**
+* Our project supports all modern browsers having latest technologies.
+* For supporting browsers like Internet Explorer 9, 10 and 11 requires polyfills, you can use [react-app-polyfill](https://github.com/facebook/create-react-app/blob/master/packages/react-app-polyfill/README.md)
+ 
+**Installation and Setup**
 
-1. Clone [this](https://github.com/praveenscience/Internship-LMS-FrontEnd) repository to your local system. 
+**1.** Clone [this](https://github.com/praveenscience/Internship-LMS-FrontEnd) repository to your local system. 
+```bash
+git clone https://<your_user_name>@github.com/<your_user_name>/Internship-LMS-FrontEnd.git
 ```
-   git clone https://<your_user_name>@github.com/<your_user_name>/Internship-LMS-FrontEnd.git
+**2.** Navigate to the project directory 
+```bash
+cd Internship-LMS-Frontend
 ```
-2. Navigate to the project directory 
+**3.** Navigate to the client folder
+```bash
+cd client
 ```
-   cd Internship-LMS-Frontend
-```
-3. Navigate to the client folder
-```
-   cd client
-```
-4. Install all the dependencies
-```
-   npm install
+**4.** Install all the dependencies
+```properties
+npm install
 ```
 
-  **Trouble Shooting**
+**Trouble Shooting**
 
-   * If you get error while installing all the dependencies, check if Node is installed using command line tool
-   ```
-      node -v
-   ```
-   * If it prints a version number, it means Node is successfully installed.
-   * If the above command gives error, it means Node is not installed. You can download Node.js from https://nodejs.org/en/download/ and repeat previous step for installation.
+* If you get error while installing all the dependencies, check if Node is installed using command line tool
+```properties 
+node -v
+```
+or
+```properties
+npm -v
+```
+* If it prints a version number, it means Node is successfully installed.
+* If the above command gives error, it means Node is not installed. You can download Node.js from https://nodejs.org/en/download/ and repeat previous step for installation.
 
 **Running the Code**
 
-1. Navigate to the project directory 
+**1.** Navigate to the project directory 
+```bash
+cd Internship-LMS-Frontend
 ```
-   cd Internship-LMS-Frontend
+**2.** Navigate to the client folder
+```bash
+cd client
 ```
-2. Navigate to the client folder
-```
-   cd client
-```
-3. Run the application
-```
-   npm start
+**3.** Run the application
+```properties
+npm start
 ```
 
 ## Team
