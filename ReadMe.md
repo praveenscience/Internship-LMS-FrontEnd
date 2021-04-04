@@ -141,6 +141,80 @@ We are primarily considering JavaScript (sorry, not TypeScript) as the base lang
 
 ## Installation & Running
 
+**System Requirements**
+
+For Server Side Setup / Development Environment:
+
+ * Google Chrome: Add 'React Developer Tools' from chrome extensions. It allows to inspect the React component hierarchies in the Chrome Developer Tools.
+ * Git: Our project uses Git as a version control system. 
+ * NodeJS: This allows to run JavaScript on a computer/server. It allows us to create, read, update, and delete files on the server side.
+ * Visual Studio Code: This is the text-editor for our project as we are using React, it provides right extensions to support our React JS development. Add these extensions for ReactJS development - 
+   * ES7 React/Redux/GraphQL/React-Native snippets 
+   * GitLens - Git supercharged 
+   * Git History
+   * ESLint 
+   * Prettier - Code formatter
+   * PostMan: This software used as a REST Client to create and execute queries. 
+
+For running on the Client Side:
+
+* A modern browser that supports localStorage & Single Page Applications:
+  * Google Chrome
+  * Mozilla Firefox
+  * Microsoft Edge (Blink Engine)
+* As this project **doesn't** use polyfills, legacy browsers aren't supported.
+ 
+**Installation and Setup**
+
+**1.** Clone [this](https://github.com/praveenscience/Internship-LMS-FrontEnd) repository to your local system:
+```bash
+git clone https://<your_user_name>@github.com/<your_user_name>/Internship-LMS-FrontEnd.git
+```
+**2.** Navigate to the project directory:
+```bash
+cd Internship-LMS-Frontend
+```
+**3.** Navigate to the `client` folder:
+```bash
+cd client
+```
+**4.** Install all the dependencies:
+```bash
+npm install
+```
+
+**Troubleshooting**
+
+* If you get error while installing all the dependencies, check if Node JS is installed using your terminal:
+```bash 
+node -v
+```
+or
+```bash
+npm -v
+```
+* If it prints a version number, then Node is successfully installed.
+* If the above command gives error, then Node is not installed.
+
+Please download and install Node JS from [the official website](https://nodejs.org/en/download/) and repeat previous step for installation.
+
+Make sure you're downloading the **LTS** version.
+
+**Running the Code**
+
+**1.** Navigate to the project directory:
+```bash
+cd Internship-LMS-Frontend
+```
+**2.** Navigate to the `client` folder:
+```bash
+cd client
+```
+**3.** Start the application:
+```bash
+npm start
+```
+
 ## Team
 
 ### Admin & Mentors
