@@ -180,7 +180,7 @@ The master branch is deployable. It is your production code, ready to roll out i
 
 #### What is GSSOC?
 
-GirlScript Summer of Code is the 3 months long Open Source program during summers conducted by GirlScript Foundation, started in 2018, intending to help beginners get started with Open Source Development while encouraging diversity. Throughout the program, participants contribute to different projects under the guidance of experienced mentors. Top participants get exciting goodies and opportunities.
+GirlScript Summer of Code is the 3 months long Open Source program during every summer conducted by GirlScript Foundation, started in 2018, intending to help beginners get started with Open Source Development while encouraging diversity. Throughout the program, participants contribute to different projects under the guidance of experienced mentors. Top participants get exciting goodies and opportunities.
 
 #### Where to ask for help?
 
