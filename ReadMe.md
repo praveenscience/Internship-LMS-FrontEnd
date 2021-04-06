@@ -98,11 +98,11 @@ Please read the [Code of Conduct](./Code_of_Conduct.md) of this project.
   </tr>
   <tr>
     <td>Level 2</td>
-    <td>15</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Level 3</td>
-    <td>25</td>
+    <td>45</td>
   </tr>
 </table>
 
