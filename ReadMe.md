@@ -20,11 +20,11 @@ We are on the mission of resolving a crisis for a lot of small and medium enterp
 
 ### Easy OnBoarding
 
-In this program we are going to have a setup for every individual intern by providing their account section, i.e., Profile, likely and show others that you are ready to work on a particular stack by joining their company as an Intern. To guide you better, we are also planning to introduce Learning pages, Application Tracking Systems, Opportunity Tracker, and Live Interactive Sections on YouTube by our well-qualified mentors to keep you updated.
+In this program, we are going to have a setup for every individual intern by providing their account section, i.e., Profile, likely and show others that you are ready to work on a particular stack by joining their company as an Intern. To guide you better, we are also planning to introduce Learning pages, Application Tracking Systems, Opportunity Tracker, and Live Interactive Sections on YouTube by our well-qualified mentors to keep you updated.
 
 ### Bridging the Gap
 
-This program helps the Intern to interact with the Recruiters & Managers, effectively by providing social media handles and also interns get a chance of exhibiting their work by sharing their GitHub, LinkedIn profiles with their recruiters.
+This program helps the intern, interact with the Recruiters & Managers, effectively by providing social media handles. Also, the interns get a chance to exhibit their work by sharing their GitHub, LinkedIn profiles with their recruiters.
 
 ### Couple of Favours
 
@@ -36,20 +36,20 @@ If you're interested, why not start with:
 ### Motivation
 
 - Automate the process which needs to be done regularly.
-- Make the task easy and stress free of managment members.
-- Save the time of people in doing same work multiple times.
+- Make the task easy and stress-free for the employers.
+- Save the time of people in doing the same work multiple times.
 
 ### Methodology
 
-We are following **Spotify Agile Methodology** to give the contributors an idea of efficient software development methods and how work is co-ordinated in the industry. If you don't know what that means, please refer [this blog](https://blog.praveen.science/my-experience-on-spotify-agile-methodology/). 
+We are following **Spotify Agile Methodology** to give the contributors an idea of efficient software development methods and how work is coordinated in the industry. If you don't know what that means, please refer to [this blog](https://blog.praveen.science/my-experience-on-spotify-agile-methodology/). 
 
 Following are some points on the methodology to be used:
 
 * To get the best out of everyone contributing to this project, we have adopted _high alignment and high autonomy model_.
 * The issues created will have a description of the problem to be solved, the contributors have to figure out how they would like to solve it and what tool they would like to use.
 * Everything needs to be communicated to the scrum masters / project admin on what they think about a particular issue and its possible solution.
-* We will have a sprint of one variable days week, based on the level of difficulty of the issue with regular sprint planning sessions and daily stand-ups to track the progress of each and every contributor.
-* In these sessions, the scrum masters will take a note of the progress and blockers if any. If the contributor faces any issues / blocks, the others will help them solve it and resume their work. Hence, the blocks can be addressed timely.
+* We will have a sprint of one "variable days" week, based on the level of difficulty of the issue with regular sprint planning sessions and daily stand-ups to track each contributor’s progress.
+* In these sessions, the scrum masters will take note of the progress and blockers if any. If the contributor faces any issues / blocks, the others will help them solve them and resume their work. Hence, the blocks can be addressed timely.
 * It would be a good idea to check out the [Git Standards followed in our way of Spotify Agile Methodology](https://blog.praveen.science/git-standards-followed-in-our-way-of-spotify-agile-methodolgy/) model.
 
 ### Video Links
@@ -248,22 +248,22 @@ Open Source Project denotes the project's source code is free for anyone to use,
 
 ### Why is the `master` branch so important to not mess with?
 
-The master branch is deployable. It is your production code, ready to roll out into the world. The master branch is meant to be stable, and it is the social contract of open source software to never, ever push anything to master that is not tested. If you make changes to the master branch while other people are also working on it, your on-the-fly changes will ripple out to affect everyone else and very quickly there will be merge conflicts. So, branching is a technique that gives a developer, group of developers the opportunity to create a new copy of a project without affecting the original, which is the master branch. This allows developers to experiment with a branch and if the experiment is successful, Git makes it easy to incorporate the experimental elements into the Master.
+The master branch is deployable. It is your production code, ready to roll out into the world. The master branch is meant to be stable, and it is the social contract of open source software to never, ever push anything to master that is not tested. If you make changes to the master branch while other people are also working on it, your on-the-fly changes will ripple out to affect everyone else, and very quickly there will be merge conflicts. So, branching is a technique that allows a developer, group of developers to create a new copy of a project without affecting the original, which is the master branch. This allows developers to experiment with a branch and if the experiment is successful, Git makes it easy to incorporate the experimental elements into the Master.
 
 ### About GSSOC
 
 #### What is GSSOC?
 
-GirlScript Summer of Code is the 3 month long Open Source program during summers conducted by GirlScript Foundation, started in 2018, with an aim to help beginners get started with Open Source Development while encouraging diversity. Throughout the program, participants contribute to different projects under guidance of experienced mentors. Top participants get exciting goodies and opportunities.
+GirlScript Summer of Code is the 3 months long Open Source program during every summer conducted by GirlScript Foundation, started in 2018, intending to help beginners get started with Open Source Development while encouraging diversity. Throughout the program, participants contribute to different projects under the guidance of experienced mentors. Top participants get exciting goodies and opportunities.
 
 #### Where to ask for help?
 
-* You can message on the respective channel of project or directly message the owner or mentors of the repository on Discord or LinkedIn.
+* You can message on the respective channel of a project or directly message the owner or mentors of the repository on Discord or LinkedIn.
 * You can email the mentors or the admin.
 
 ### About DevTernShip
 
-#### How to contribute in this project?
+#### How to contribute to this project?
 
 You have to work on an existing issue or can create a new issue and get yourself assigned. Before creating an issue, please talk to the Project Admin or one of the mentors.
 
@@ -277,7 +277,7 @@ As it's an Agile Methodology, we're hosting weekly Live Streams and assigning th
 
 #### Can I work on an already opened issue?
 
-You can always ask in the comments section of the opened issue to get yourself assigned but the owner may or may not assign you that issue. However, the owner may suggest you a fresh issue (either by creating a new issue or requesting you to create a new issue).
+You can always ask in the comments section of the opened issue to get yourself assigned but the owner may or may not assign you that issue. However, the owner may suggest to work on a fresh issue (either by creating a new issue or requesting you to create a new issue).
 
 ### Contributors List
 
