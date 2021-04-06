@@ -36,7 +36,7 @@ If you're interested, why not start with:
 ### Motivation
 
 - Automate the process which needs to be done regularly.
-- Make the task easy and stress-free for management members.
+- Make the task easy and stress-free for the employers.
 - Save the time of people in doing the same work multiple times.
 
 ### Methodology
