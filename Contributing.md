@@ -40,16 +40,16 @@
 To start contributing, follow steps mentioned below:
 
 **1.** Fork [this](https://github.com/praveenscience/Internship-LMS-FrontEnd) repository.
-![Step 1](./imagesContributing/Step1.png)
+![Step 1](./docs/Step1.png)
 
 **2.** You'll either find a way to fork to your own account or you will have a link to go to your forked repository. Clicking on either takes you to the forked repository.
-![Step 2](./imagesContributing/Step2.png)
+![Step 2](./docs/Step2.png)
 
 **3.** You can confirm that this repository is a fork of the original repository by finding the "forked from [praveenscience/Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)" text under the repository name.
-![Step 3](./imagesContributing/Step3.png)
+![Step 3](./docs/Step3.png)
 
 **4.** Click on Clone or download button on the forked repository. Make sure you are cloning your version (GitHub.com/\<your username>/Internship-LMS-FrontEnd) and not the CatsInTech organisation's.
-![Step 4](./imagesContributing/Step4.png)
+![Step 4](./docs/Step4.png)
 
 **5.** Clone your forked copy of the project.
 
@@ -57,7 +57,7 @@ To start contributing, follow steps mentioned below:
 git clone https://<your_user_name>@github.com/<your_user_name>/Internship-LMS-FrontEnd.git
 ```
 
-![Step 5](./imagesContributing/Step5.png)
+![Step 5](./docs/Step5.png)
 
 **6.** Navigate to the project directory. :file_folder:
 
@@ -65,7 +65,7 @@ git clone https://<your_user_name>@github.com/<your_user_name>/Internship-LMS-Fr
 cd Internship-LMS-FrontEnd
 ```
 
-![Step 6](./imagesContributing/Step6.png)
+![Step 6](./docs/Step6.png)
 
 **7.** Add a reference (remote) to the original repository.
 
@@ -73,7 +73,7 @@ cd Internship-LMS-FrontEnd
 git remote add upstream https://github.com/praveenscience/Internship-LMS-FrontEnd
 ```
 
-![Step 7](./imagesContributing/Step6.png)
+![Step 7](./docs/Step6.png)
 
 **8.** Check the remotes for this repository.
 
@@ -81,7 +81,7 @@ git remote add upstream https://github.com/praveenscience/Internship-LMS-FrontEn
 git remote -v
 ```
 
-![Step 8](./imagesContributing/Step8.png)
+![Step 8](./docs/Step8.png)
 
 **9.** Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).
 
@@ -89,7 +89,7 @@ git remote -v
 git pull upstream main
 ```
 
-![Step 9](./imagesContributing/Step9.png)
+![Step 9](./docs/Step9.png)
 
 **10.** Create a new branch.
 
@@ -97,7 +97,7 @@ git pull upstream main
 git checkout -b <your_branch_name>
 ```
 
-![Step 10](./imagesContributing/Step10.png)
+![Step 10](./docs/Step10.png)
 
 **11.** Perfom your desired changes to the code base.  
 **12.** Track your changes. :heavy_check_mark:
@@ -106,7 +106,7 @@ git checkout -b <your_branch_name>
 git add .
 ```
 
-![Step 12](./imagesContributing/Step12.png)
+![Step 12](./docs/Step12.png)
 
 **13.** Commit your changes.
 
@@ -114,23 +114,23 @@ git add .
 git commit -m "Relevant message"
 ```
 
-![Step 13](./imagesContributing/Step13.png)
+![Step 13](./docs/Step13.png)
 **14.** Push the committed changes in your feature branch to your remote repo.
 
 ```
 git push -u origin <your_branch_name>
 ```
 
-![Step 14](./imagesContributing/Step14.png)
+![Step 14](./docs/Step14.png)
 
 **15.** To create a pull request, click on `compare and pull requests`.
-![Step 15](./imagesContributing/Step15.png)
+![Step 15](./docs/Step15.png)
 
 **16.** Add appropriate title and description to your pull request explaining your changes and efforts done.  
-![Step 16](./imagesContributing/Step16.png)
+![Step 16](./docs/Step16.png)
 
 **17.** Click on `Create Pull Request`.
-![Step 17](./imagesContributing/Step17.png)
+![Step 17](./docs/Step17.png)
 
 As always, if you have any questions regarding Git, please do reach out on [Discord](https://discord.com/channels/811724426965811210/815033852745220107).
 Discord is only for GSSoC participants.
