@@ -1,0 +1,8 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+echo "Running Husky..."
+npm run prepare
+echo "Husky installed successfully..."
+npm run precommit
+echo "PreCommit Hook ran successfully..."

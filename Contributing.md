@@ -4,7 +4,7 @@
 2. Registrations are **closed** now. We will try to see if we can bring in new people, but it depends on GSSoC Core Team.
 3. Participants / contributors have to **comment** on issues they would like to work on, and mentors or the PA will assign you.
 4. Issues will be assigned on a **first-come, first-serve basis.**
-5. Participants / contributors can also **open their issues**, but it needs to be verified and labelled by a mentor.
+5. Participants / contributors can also **open their issues**, but it needs to be verified and labelled by a mentor. Please discuss with the team once on [**Discord**](https://discord.com/channels/811724426965811210/815033852745220107) before opening your issues. We respect all your contributions, whether it is an issue or a Pull Request.
 6. Each participant / contributor will be **assigned 2 issues (max)** at a time to work.
 7. Participants are expected to follow **project guidelines** and [**coding style**](https://blog.praveen.science/git-standards-followed-in-our-way-of-spotify-agile-methodolgy/). **Structured code** is one of our top priority.
 8. Try to **explain your approach** to solve any issue in the comments. This will increase the chances of you being assigned.
@@ -40,7 +40,11 @@
 To start contributing, follow steps mentioned below:
 
 **1.** Fork [this](https://github.com/praveenscience/Internship-LMS-FrontEnd) repository.
+<<<<<<< HEAD
  ![Step 1](./imagesContributing/Step1.png)
+=======
+![Step 1](./imagesContributing/Step1.png)
+>>>>>>> main
 
 **2.** You'll either find a way to fork to your own account or you will have a link to go to your forked repository. Clicking on either takes you to the forked repository.
 ![Step 2](./imagesContributing/Step2.png)
@@ -57,6 +61,10 @@ To start contributing, follow steps mentioned below:
 git clone https://<your_user_name>@github.com/<your_user_name>/Internship-LMS-FrontEnd.git
 ```
 
+<<<<<<< HEAD
+=======
+![Step 5](./imagesContributing/Step5.png)
+>>>>>>> main
 
 **6.** Navigate to the project directory. :file_folder:
 
@@ -64,9 +72,13 @@ git clone https://<your_user_name>@github.com/<your_user_name>/Internship-LMS-Fr
 cd Internship-LMS-FrontEnd
 ```
 
+<<<<<<< HEAD
 <br />
 
 <img src="imagesContributing/Step6.png" width="100%">
+=======
+![Step 6](./imagesContributing/Step6.png)
+>>>>>>> main
 
 **7.** Add a reference (remote) to the original repository.
 
@@ -74,9 +86,13 @@ cd Internship-LMS-FrontEnd
 git remote add upstream https://github.com/praveenscience/Internship-LMS-FrontEnd
 ```
 
+<<<<<<< HEAD
 <br />
 
 <img src="imagesContributing/Step7.png" width="100%">
+=======
+![Step 7](./imagesContributing/Step6.png)
+>>>>>>> main
 
 **8.** Check the remotes for this repository.
 
@@ -84,9 +100,13 @@ git remote add upstream https://github.com/praveenscience/Internship-LMS-FrontEn
 git remote -v
 ```
 
+<<<<<<< HEAD
 <br />
 
 <img src="imagesContributing/Step8.png" width="100%">
+=======
+![Step 8](./imagesContributing/Step8.png)
+>>>>>>> main
 
 **9.** Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).
 
@@ -94,9 +114,13 @@ git remote -v
 git pull upstream main
 ```
 
+<<<<<<< HEAD
 <br />
 
 <img src="imagesContributing/Step9.png" width="100%">
+=======
+![Step 9](./imagesContributing/Step9.png)
+>>>>>>> main
 
 **10.** Create a new branch.
 
@@ -104,9 +128,13 @@ git pull upstream main
 git checkout -b <your_branch_name>
 ```
 
+<<<<<<< HEAD
 <br />
 
 <img src="imagesContributing/Step10.png" width="100%">
+=======
+![Step 10](./imagesContributing/Step10.png)
+>>>>>>> main
 
 **11.** Perfom your desired changes to the code base.  
 **12.** Track your changes. :heavy_check_mark:
@@ -115,9 +143,13 @@ git checkout -b <your_branch_name>
 git add .
 ```
 
+<<<<<<< HEAD
 <br />
 
 <img src="imagesContributing/Step12.png" width="100%">
+=======
+![Step 12](./imagesContributing/Step12.png)
+>>>>>>> main
 
 **13.** Commit your changes.
 
@@ -125,16 +157,21 @@ git add .
 git commit -m "Relevant message"
 ```
 
+<<<<<<< HEAD
 <br />
 
 <img src="imagesContributing/Step13.png" width="100%">
 
+=======
+![Step 13](./imagesContributing/Step13.png)
+>>>>>>> main
 **14.** Push the committed changes in your feature branch to your remote repo.
 
 ```
 git push -u origin <your_branch_name>
 ```
 
+<<<<<<< HEAD
 <br />
 
 <img src="imagesContributing/Step13.png" width="100%">
@@ -155,3 +192,18 @@ git push -u origin <your_branch_name>
 <img src="imagesContributing/Step17.png" width="100%">
 
 As always, if you have any questions regarding Git, please do reach out on Discord.
+=======
+![Step 14](./imagesContributing/Step14.png)
+
+**15.** To create a pull request, click on `compare and pull requests`.
+![Step 15](./imagesContributing/Step15.png)
+
+**16.** Add appropriate title and description to your pull request explaining your changes and efforts done.  
+![Step 16](./imagesContributing/Step16.png)
+
+**17.** Click on `Create Pull Request`.
+![Step 17](./imagesContributing/Step17.png)
+
+As always, if you have any questions regarding Git, please do reach out on [Discord](https://discord.com/channels/811724426965811210/815033852745220107).
+Discord is only for GSSoC participants.
+>>>>>>> main

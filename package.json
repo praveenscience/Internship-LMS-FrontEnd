@@ -1,0 +1,38 @@
+{
+  "name": "internship-lms-frontend",
+  "version": "1.0.0",
+  "description": "We are in the mission of solving a crisis for a lot of small and medium enterprises, who are trying to recruit interns for their projects.",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky install",
+    "precommit": "cd client && npm run precommit && npm run lint:fix",
+    "prepush": "cd client && npm run lint:fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://praveenscience@github.com/praveenscience/Internship-LMS-FrontEnd.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "NodeJS",
+    "ExpressJS"
+  ],
+  "author": "Praveen Kumar Purushothaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveenscience/Internship-LMS-FrontEnd/issues"
+  },
+  "homepage": "https://github.com/praveenscience/Internship-LMS-FrontEnd#readme",
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run precommit",
+      "pre-push": "npm run prepush"
+    }
+  },
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "eslint-config-prettier": "^8.1.0",
+    "husky": "^5.2.0",
+    "prettier": "^2.2.1"
+  }
+}
