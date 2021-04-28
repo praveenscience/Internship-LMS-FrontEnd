@@ -246,9 +246,9 @@ npm start
 
 Open Source Project denotes the project's source code is free for anyone to use, study and modify. An Open Source community provides a great opportunity for aspiring programmers to distinguish themselves; and by contributing to various projects, developers can improve their skills and get inspiration and support from like-minded people. But most importantly, they can prove that they can build fantastic experiences that people love.
 
-### Why is the `master` branch so important to not mess with?
+### Why is the `master` / `main` branch so important to not mess with?
 
-The master branch is deployable. It is your production code, ready to roll out into the world. The master branch is meant to be stable, and it is the social contract of open source software to never, ever push anything to master that is not tested. If you make changes to the master branch while other people are also working on it, your on-the-fly changes will ripple out to affect everyone else, and very quickly there will be merge conflicts. So, branching is a technique that allows a developer, group of developers to create a new copy of a project without affecting the original, which is the master branch. This allows developers to experiment with a branch and if the experiment is successful, Git makes it easy to incorporate the experimental elements into the Master.
+The `master` / `main` branch is deployable. It is your production code, ready to roll out into the world. The `master` / `main` branch is meant to be stable, and it is the social contract of open source software to never, ever push anything to `master` / `main` that is not tested. If you make changes to the `master` / `main` branch while other people are also working on it, your on-the-fly changes will ripple out to affect everyone else, and very quickly there will be merge conflicts. So, branching is a technique that allows a developer, group of developers to create a new copy of a project without affecting the original, which is the `master` / `main` branch. This allows developers to experiment with a branch and if the experiment is successful, Git makes it easy to incorporate the experimental elements into the `master` / `main`.
 
 ### About GSSOC
 
