@@ -223,6 +223,7 @@ npm start
 * Shashwat Mishra ([LinkedIn](https://www.linkedin.com/in/the-shashwat-mishra/))
 * Aditya Pahilwani ([LinkedIn](https://www.linkedin.com/in/aditya-pahilwani-93b42bb5/))
 * Tejan Singh ([LinkedIn](https://www.linkedin.com/in/tejansingh/))
+* Aadhitya A ([LinkedIn](https://www.linkedin.com/in/alphaX86))
 
 ### Scrum Masters
 
