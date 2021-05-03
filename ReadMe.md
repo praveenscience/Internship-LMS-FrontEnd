@@ -16,7 +16,7 @@ The plight of small and medium companies has gravely wounded the world with seri
 
 ### Agenda
 
-We are on the mission of resolving a crisis for a lot of small and medium enterprises, who are trying to recruit interns for their projects. This platform aims to onboard new interns, who have applied to the companies and help them understand the process and make the transition smooth. This platform is the best gateway to show recruiters, what interns are capable of.
+We are on the mission of resolving a crisis for a lot of small and medium enterprises, who are trying to recruit interns for their projects. This platform aims to onboard new interns, who have applied to the companies and help them understand the process and make the transition smooth. This platform is the best gateway to show recruiters what interns are capable of.
 
 ### Easy OnBoarding
 
@@ -24,7 +24,7 @@ In this program, we are going to have a setup for every individual intern by pro
 
 ### Bridging the Gap
 
-This program helps the intern, interact with the Recruiters & Managers, effectively by providing social media handles. Also, the interns get a chance to exhibit their work by sharing their GitHub, LinkedIn profiles with their recruiters.
+This program helps the intern interact with the Recruiters & Managers, effectively by providing social media handles. Also, the interns get a chance to exhibit their work by sharing their GitHub, LinkedIn profiles with their recruiters.
 
 ### Couple of Favours
 
@@ -37,7 +37,7 @@ If you're interested, why not start with:
 
 - Automate the process which needs to be done regularly.
 - Make the task easy and stress-free for the employers.
-- Save the time of people in doing the same work multiple times.
+- Save the time of people doing the same work multiple times.
 
 ### Methodology
 
@@ -145,7 +145,7 @@ We are primarily considering JavaScript (sorry, not TypeScript) as the base lang
 
 For Server Side Setup / Development Environment:
 
- * Google Chrome: Add 'React Developer Tools' from chrome extensions. It allows to inspect the React component hierarchies in the Chrome Developer Tools.
+ * Google Chrome: Add 'React Developer Tools' from chrome extensions. It allows you to inspect the React component hierarchies in the Chrome Developer Tools.
  * Git: Our project uses Git as a version control system. 
  * NodeJS: This allows to run JavaScript on a computer/server. It allows us to create, read, update, and delete files on the server side.
  * Visual Studio Code: This is the text-editor for our project as we are using React, it provides right extensions to support our React JS development. Add these extensions for ReactJS development - 
@@ -154,7 +154,7 @@ For Server Side Setup / Development Environment:
    * Git History
    * ESLint 
    * Prettier - Code formatter
-   * PostMan: This software used as a REST Client to create and execute queries. 
+   * PostMan: This software is used as a REST Client to create and execute queries. 
 
 For running on the Client Side:
 
@@ -196,7 +196,7 @@ npm -v
 * If it prints a version number, then Node is successfully installed.
 * If the above command gives error, then Node is not installed.
 
-Please download and install Node JS from [the official website](https://nodejs.org/en/download/) and repeat previous step for installation.
+Please download and install Node JS from [the official website](https://nodejs.org/en/download/) and repeat previous steps for installation.
 
 Make sure you're downloading the **LTS** version.
 
@@ -223,7 +223,7 @@ npm start
 * Shashwat Mishra ([LinkedIn](https://www.linkedin.com/in/the-shashwat-mishra/))
 * Aditya Pahilwani ([LinkedIn](https://www.linkedin.com/in/aditya-pahilwani-93b42bb5/))
 * Tejan Singh ([LinkedIn](https://www.linkedin.com/in/tejansingh/))
-* Aadhitya A ([LinkedIn](https://www.linkedin.com/in/alphaX86))
+* AadhityaA ([LinkedIn](https://www.linkedin.com/in/alphaX86))
 
 ### Scrum Masters
 
@@ -249,7 +249,7 @@ Open Source Project denotes the project's source code is free for anyone to use,
 
 ### Why is the `master` / `main` branch so important to not mess with?
 
-The `master` / `main` branch is deployable. It is your production code, ready to roll out into the world. The `master` / `main` branch is meant to be stable, and it is the social contract of open source software to never, ever push anything to `master` / `main` that is not tested. If you make changes to the `master` / `main` branch while other people are also working on it, your on-the-fly changes will ripple out to affect everyone else, and very quickly there will be merge conflicts. So, branching is a technique that allows a developer, group of developers to create a new copy of a project without affecting the original, which is the `master` / `main` branch. This allows developers to experiment with a branch and if the experiment is successful, Git makes it easy to incorporate the experimental elements into the `master` / `main`.
+The `master` / `main` branch is deployable. It is your production code, ready to roll out into the world. The `master` / `main` branch is meant to be stable, and it is the social contract of open source software to never, ever push anything to `master` / `main` that is not tested. If you make changes to the `master` / `main` branch while other people are also working on it, your on-the-fly changes will ripple out to affect everyone else, and very quickly there will be merge conflicts. So, branching is a technique that allows a group of developers to create a new copy of a project without affecting the original, which is the `master` / `main` branch. This allows developers to experiment with a branch and if the experiment is successful, Git makes it easy to incorporate the experimental elements into the `master` / `main`.
 
 ### About GSSOC
 
@@ -278,8 +278,10 @@ As it's an Agile Methodology, we're hosting weekly Live Streams and assigning th
 
 #### Can I work on an already opened issue?
 
-You can always ask in the comments section of the opened issue to get yourself assigned but the owner may or may not assign you that issue. However, the owner may suggest to work on a fresh issue (either by creating a new issue or requesting you to create a new issue).
+You can always ask in the comments section of the opened issue to get yourself assigned but the owner may or may not assign you that issue. However, the owner may suggest working on a fresh issue (either by creating a new issue or requesting you to create a new issue).
 
 ### Contributors List
 
 [![Contributors List](https://contrib.rocks/image?repo=praveenscience/Internship-LMS-FrontEnd)](https://github.com/praveenscience/Internship-LMS-FrontEnd/graphs/contributors)
+
+
