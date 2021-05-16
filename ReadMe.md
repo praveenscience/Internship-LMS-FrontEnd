@@ -1,4 +1,6 @@
 # DevTernShip: Internship OnBoarding Platform 
+![DevTernShip Logo](https://i.imgur.com/vpbLTd9.png)
+![Branding](https://user-images.githubusercontent.com/70408681/118407186-24e46280-b69d-11eb-8879-7af267e8147b.png)
 
 [![Issues](https://img.shields.io/github/issues/praveenscience/Internship-LMS-FrontEnd)](https://github.com/praveenscience/Internship-LMS-FrontEnd/issues) [![PRs](https://img.shields.io/github/issues-pr/praveenscience/Internship-LMS-FrontEnd)](https://github.com/praveenscience/Internship-LMS-FrontEnd/pulls) [![Maintenance](https://img.shields.io/maintenance/yes/2021?color=green&logo=github)](https://github.com/praveenscience/) [![Forks](https://img.shields.io/github/forks/praveenscience/Internship-LMS-FrontEnd?style=social)](https://github.com/praveenscience/Internship-LMS-FrontEnd)  [![Stars](https://img.shields.io/github/stars/praveenscience/Internship-LMS-FrontEnd?style=social)](https://github.com/praveenscience/Internship-LMS-FrontEnd)  [![Watchers](https://img.shields.io/github/watchers/praveenscience/Internship-LMS-FrontEnd?style=social)](https://github.com/praveenscience/Internship-LMS-FrontEnd)
 
@@ -8,8 +10,6 @@ Created by the developers, for the developers and the enterprises, **DevTernShip
 
 Here's where **DevTernShip** jumps into the picture - *An Internship Onboarding platform with an innovative learning management system and intuitive performance tools*, we ensure that all is 'smooth sailing' when it comes to the talent pipeline. Moreover, Augmented efficiency is brought about with a simple and robust UI, thus rendering the experience even more dynamic.
 
-## Branding
-![Branding](https://user-images.githubusercontent.com/70408681/118407186-24e46280-b69d-11eb-8879-7af267e8147b.png)
 
 ## Introduction
 
