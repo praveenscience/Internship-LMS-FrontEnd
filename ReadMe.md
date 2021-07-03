@@ -1,8 +1,23 @@
 # DevTernShip: Internship OnBoarding Platform 
+<div align="center">
+
 ![DevTernShip Logo](https://i.imgur.com/vpbLTd9.png)
 ![Branding](https://user-images.githubusercontent.com/70408681/118407186-24e46280-b69d-11eb-8879-7af267e8147b.png)
 
-[![Issues](https://img.shields.io/github/issues/praveenscience/Internship-LMS-FrontEnd)](https://github.com/praveenscience/Internship-LMS-FrontEnd/issues) [![PRs](https://img.shields.io/github/issues-pr/praveenscience/Internship-LMS-FrontEnd)](https://github.com/praveenscience/Internship-LMS-FrontEnd/pulls) [![Maintenance](https://img.shields.io/maintenance/yes/2021?color=green&logo=github)](https://github.com/praveenscience/) [![Forks](https://img.shields.io/github/forks/praveenscience/Internship-LMS-FrontEnd?style=social)](https://github.com/praveenscience/Internship-LMS-FrontEnd)  [![Stars](https://img.shields.io/github/stars/praveenscience/Internship-LMS-FrontEnd?style=social)](https://github.com/praveenscience/Internship-LMS-FrontEnd)  [![Watchers](https://img.shields.io/github/watchers/praveenscience/Internship-LMS-FrontEnd?style=social)](https://github.com/praveenscience/Internship-LMS-FrontEnd)
+<a href="https://github.com/praveenscience/Internship-LMS-FrontEnd"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+<a href="https://github.com/praveenscience/Internship-LMS-FrontEnd"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
+<a href="https://github.com/praveenscience/Internship-LMS-FrontEnd"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
+<a href="https://github.com/praveenscience/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
+<a href="https://github.com/praveenscience/Internship-LMS-FrontEnd/watchers"><img src="https://img.shields.io/github/watchers/praveenscience/Internship-LMS-FrontEnd?style=flat"></a>
+
+<a href="https://github.com/praveenscience/Internship-LMS-FrontEnd/graphs/contributors"><img src="https://img.shields.io/github/contributors/praveenscience/Internship-LMS-FrontEnd?color=brightgreen"></a>
+<a href="https://github.com/praveenscience/Internship-LMS-FrontEnd/stargazers"><img src="https://img.shields.io/github/stars/praveenscience/Internship-LMS-FrontEnd?color=0059b3"></a>
+<a href="https://github.com/praveenscience/Internship-LMS-FrontEnd/network/members"><img src="https://img.shields.io/github/forks/praveenscience/Internship-LMS-FrontEnd?color=yellow"></a>
+<a href="https://github.com/praveenscience/Internship-LMS-FrontEnd/issues"><img src="https://img.shields.io/github/issues/praveenscience/Internship-LMS-FrontEnd?color=0059b3"></a>
+<a href="https://github.com/praveenscience/Internship-LMS-FrontEnd/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/praveenscience/Internship-LMS-FrontEnd?color=yellow"></a>
+<a href="https://github.com/praveenscience/Internship-LMS-FrontEnd/pulls"><img src="https://img.shields.io/github/issues-pr/praveenscience/Internship-LMS-FrontEnd?color=brightgreen"></a>
+<a href="https://github.com/praveenscience/Internship-LMS-FrontEnd/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/praveenscience/Internship-LMS-FrontEnd?color=0059b3"></a> 
+</div>
 
 [![DevTernShip Introduction](https://imgur.com/9gZXnnt.png)](https://rb.gy/cygmlf)
 
