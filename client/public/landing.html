@@ -14,6 +14,10 @@
     <meta property="og:type" content="website" />
     <meta property="og:image" content="https://i.imgur.com/wbUfjzdl.png" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/zenscroll/4.0.2/zenscroll-min.js"></script>
+    <script
+      src="https://kit.fontawesome.com/a0630bb1ae.js"
+      crossorigin="anonymous"
+  ></script>
     <title>Schedule a Workshop with Praveen</title>
     <style>
       * {
@@ -23,12 +27,15 @@
         -o-transition: all 0.25s linear;
         transition: all 0.25s linear;
       }
-      body {
+      html, body {
         background-color: #f90;
         font-family: "Poppins", sans-serif;
         margin: 0;
         padding: 20px;
         font-size: 10pt;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
       }
       h1,
       h2,
@@ -236,6 +243,87 @@
       main section blockquote p {
         margin: 0;
       }
+      .footer{
+        background: black;
+        color: #d3d3d3;
+        bottom: 0px;
+        /* height: 250px; */
+        border: 2px solid #000;
+        margin-bottom: -50px;
+        border-radius: 5px;
+        margin-top: auto;
+        overflow: hidden;
+        -webkit-box-shadow: 0 0 1px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: 0 0 1px rgba(0, 0, 0, 0.75);
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0.75);
+      }
+      .footer .footer-content{
+        border: 1px solid orange;
+        display: flex;
+      }
+      .footer .footer-content .footer-section{
+        flex-basis: 50%;
+        padding: 25px;
+      }
+      .footer .footer-content .about{
+        text-align: center;
+      }
+      .footer .footer-content .footer-section .about h1{
+        text-align: center;
+        background-color: #000;
+        margin: 0;
+        color: #fff;
+        font-weight: normal;
+        font-size: 1.25em;
+        letter-spacing: 1px;
+        padding: 25px 15px;
+        text-shadow: 0 0 1px #fff;
+      }
+      .footer .footer-content .center{
+        margin: auto;
+        text-align: center;
+        list-style: none;
+      }
+      .footer .footer-content .center ul a{
+        display: block;
+        text-decoration: none;
+        margin-bottom: 10px;
+        font-size: 1.2em;
+        color: white;
+        transition: all .3s
+      }
+      .footer .footer-content .center ul a:hover{
+        margin-left: 10px;
+        color: #c60;
+        transition: all .3s 
+      }
+      .footer .footer-content .center ul a li{
+        list-style: none;
+      }
+      .footer .links{
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+      }
+      .footer .links a{
+        padding: 5px 10px;
+      }
+      .footer .links a span{
+        height: 40px;
+        line-height: 40px;
+        width: 40px;
+        background:black;
+        text-align: center;
+        color: antiquewhite;
+        transition-property: all;
+        transition-duration: 0.2s;
+        transition-timing-function: ease;
+        border-radius: 50%;
+      }
+      .footer .links a span:hover{
+        background: #c60;
+        transform: scale(1.2);
+      }
       @media screen and (max-width: 880px) {
         main header h1 {
           text-align: center;
@@ -269,6 +357,14 @@
           opacity: 1;
           max-width: 100%;
         }
+        .footer{
+          position: relative;
+          bottom:0px;
+        }
+        .footer .footer-content{
+          flex-wrap: wrap;
+          flex-direction: column;
+        }
       }
     </style>
   </head>
@@ -290,12 +386,42 @@
     </header>
     </main>
 
-    <center>
+    <center class="center page-wrapper">
      <h1>
        <br>
       Welcome to DevTernShip
      </h1>
     
     </center>
+
+    <div class="footer">
+      <div class="footer-content">
+        <div class="footer-section about">
+          <h1 class="logo">DevTernShip</h1>
+          <p>
+            An Internship Onboarding platform with an innovative learning management system and intuitive performance tools
+          </p>
+        </div>
+        <div class="footer-section center">
+          <div class="quickLinks">
+            <ul>
+              <a href="#"><li>About</li></a>
+              <a href="#"><li>Home</li></a>
+              <a href="#"><li>Website</li></a>
+            </ul>
+          </div>
+        </div>
+        <div class="footer-section links">
+          <div class="socials">
+            <a href="#"><span class="fab fa-youtube fa-2x"></span></a>
+            <a href="#"><span class="fab fa-github fa-2x"></span></a>
+            <a href="#"><span class="fab fa-linkedin fa-2x"></span></a>
+            <a href="#"><span class="fas fa-envelope fa-2x"></span></a>
+          </div>
+        </div>
+        
+      </div>
+
+    </div>
   </body>
 </html>
