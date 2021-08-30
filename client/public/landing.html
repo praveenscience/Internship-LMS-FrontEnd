@@ -4,6 +4,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="style.css" />
     <link href="https://fonts.googleapis.com/css2?family=Bungee&family=Poppins:wght@300;400;500&display=swap" rel="stylesheet" />
     <meta name="description" content="Schedule a Workshop, Live Stream or Lightning Talk with Praveen - if you want to have me in your community for a talk or Live Workshop." />
     <meta name="keywords" content="Praveen, Kumar, Praveen Kumar, Purushothaman, Praveen Kumar Purushothaman, Workshop, Live Stream, Lightning Talk, Developers, Learning, Beginners, YouTube, Full Stack, Development" />
@@ -19,354 +20,7 @@
       crossorigin="anonymous"
   ></script>
     <title>Schedule a Workshop with Praveen</title>
-    <style>
-      * {
-        -webkit-transition: all 0.25s linear;
-        -moz-transition: all 0.25s linear;
-        -ms-transition: all 0.25s linear;
-        -o-transition: all 0.25s linear;
-        transition: all 0.25s linear;
-      }
-      html, body {
-        background-color: #f90;
-        font-family: "Poppins", sans-serif;
-        margin: 0;
-        padding: 20px;
-        font-size: 10pt;
-        min-height: 100vh;
-        display: flex;
-        flex-direction: column;
-      }
-      h1,
-      h2,
-      h3 {
-        font-family: "Bungee", sans-serif;
-        font-weight: normal;
-      }
-      mark {
-        background-color: rgba(255, 153, 0, 0.25);
-        padding: 3px 5px 1px;
-        border-radius: 5px;
-      }
-      strong {
-        font-weight: 500;
-      }
-      main {
-        border: 2px solid #000;
-        border-radius: 5px;
-        overflow: hidden;
-        -webkit-box-shadow: 0 0 1px rgba(0, 0, 0, 0.75);
-        -moz-box-shadow: 0 0 1px rgba(0, 0, 0, 0.75);
-        box-shadow: 0 0 1px rgba(0, 0, 0, 0.75);
-      }
-      main header h1 {
-        background-color: #000;
-        margin: 0;
-        color: #fff;
-        font-weight: normal;
-        font-size: 1.25em;
-        letter-spacing: 1px;
-        padding: 25px 15px;
-        text-shadow: 0 0 1px #fff;
-      }
-      main header h1:hover {
-        color: #fc6;
-        cursor: pointer;
-      }
-      main nav {
-        background-color: #e0e0e0;
-        border-bottom: 2px solid #000;
-        overflow: hidden;
-      }
-      main nav ul {
-        float: right;
-      }
-      main nav,
-      main nav ul,
-      main nav ul li,
-      main nav ul li a {
-        display: block;
-        margin: 0;
-        padding: 0;
-      }
-      main nav ul li {
-        display: inline-block;
-        padding: 10px;
-      }
-      main nav ul li a {
-        padding: 5px 15px;
-        font-size: 1.15em;
-        color: #000;
-        font-weight: 500;
-        text-decoration: none;
-        border-radius: 25px;
-      }
-      main nav ul li a:hover {
-        background-color: #f5f5f5;
-      }
-      main nav .action {
-        float: left;
-        padding: 0 10px;
-      }
-      main nav .action a {
-        display: inline-block;
-        font-family: "Bungee", sans-serif;
-        color: #000;
-        width: 200px;
-        text-decoration: none;
-        text-align: center;
-        margin: 5px 0;
-        border-radius: 50px;
-        border: 3px solid #000;
-        margin-right: 15px;
-        position: relative;
-        font-size: 1.25em;
-        z-index: 1;
-        transition: all 50ms linear;
-        top: 0;
-        left: 0;
-      }
-      main nav .action a span {
-        border-radius: 50px;
-        display: block;
-        background-color: #fc3;
-        padding: 8px 0;
-        position: relative;
-        z-index: 2;
-      }
-      main nav .action a::before {
-        content: " ";
-        position: absolute;
-        left: 5px;
-        right: -5px;
-        bottom: -5px;
-        top: 5px;
-        background-color: #000;
-        border-radius: 50px;
-        border: 3px solid #000;
-        z-index: -1;
-        transition: all 50ms linear;
-      }
-      main nav .action a:hover {
-        top: 3px;
-        left: 3px;
-      }
-      main nav .action a:hover:before {
-        left: 0;
-        right: 0;
-        bottom: 0;
-        top: 0;
-      }
-      main section {
-        background-color: #fff;
-        padding: 0 25px;
-        overflow: hidden;
-        position: relative;
-        padding-right: 300px;
-      }
-      main section img.praveen-main {
-        position: absolute;
-        right: 0;
-        top: 0;
-        opacity: 0.5;
-        z-index: 0;
-        max-width: 350px;
-      }
-      main section h1 {
-        font-size: 2em;
-      }
-      main section h2 {
-        font-size: 1.75em;
-      }
-      main section h2 a {
-        opacity: 0;
-        margin-left: 5px;
-      }
-      main section h2:hover a {
-        opacity: 0.35;
-      }
-      main section h3 {
-        font-size: 1.5em;
-      }
-      main section ul {
-        padding: 0 0 0 10px;
-      }
-      main section li {
-        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' height='512' viewBox='0 0 511.893 511.893' width='512' xmlns:v='https://vecta.io/nano'%3e%3cg fill='%23c1b0b5'%3e%3cpath d='M482.77 158.98c21.52 12.42 25.54 45.76 8.97 74.46s-47.45 41.89-68.97 29.46c-21.53-12.42-25.54-45.76-8.97-74.46 16.561-28.7 47.44-41.89 68.97-29.46zm-96.5 151.2c74.06 35.34 63.99 153.88-24.01 169.33-26.52 4.65-51.42-2.32-70.45-16.67-21.26-16.03-50.46-16.03-71.72 0-19.03 14.35-43.93 21.32-70.45 16.67-87.99-15.45-98.08-133.99-24.01-169.33 11.84-5.66 21.82-14.86 27.53-26.68 21.01-43.49 59.18-72.56 102.79-72.56s81.78 29.07 102.79 72.56c5.711 11.82 15.69 21.02 27.53 26.68z'/%3e%3cellipse cx='330.951' cy='90.94' rx='45' ry='60'/%3e%3cellipse cx='180.95' cy='90.94' rx='45' ry='60'/%3e%3cpath d='m98.1 188.44c16.57 28.7 12.56 62.04-8.97 74.46-21.52 12.43-52.4-.76-68.97-29.46s-12.55-62.04 8.97-74.46c21.53-12.43 52.41.76 68.97 29.46z'/%3e%3c/g%3e%3cpath d='M180.95 160.94c33.262 0 55-34.754 55-70 0-35.321-21.8-70-55-70-33.262 0-55 34.754-55 70 0 35.321 21.801 70 55 70zm0-120c18.972 0 35 22.897 35 50s-16.028 50-35 50-35-22.897-35-50 16.029-50 35-50zm150.001 120c33.262 0 55-34.754 55-70 0-35.321-21.8-70-55-70-33.262 0-55 34.754-55 70 0 35.321 21.8 70 55 70zm0-120c18.972 0 35 22.897 35 50s-16.028 50-35 50-35-22.897-35-50 16.028-50 35-50zM94.127 271.563c28.858-16.647 30.226-57.648 12.635-88.12-17.651-30.591-53.866-49.731-82.631-33.123C-4.654 166.933-6.14 207.888 11.5 238.44s53.991 49.663 82.627 33.123zM34.13 167.641c19.179-11.073 44.026 6.242 55.31 25.798 11.256 19.499 13.906 49.717-5.312 60.803-19.183 11.081-44.032-6.272-55.308-25.801-11.263-19.511-13.887-49.72 5.31-60.8zM417.769 271.56c28.801 16.637 65.006-2.59 82.632-33.119 17.749-30.74 15.98-71.608-12.63-88.12-28.895-16.681-65.079 2.701-82.631 33.12-17.694 30.648-16.094 71.55 12.629 88.119zm4.692-78.122c11.219-19.444 36.068-36.909 55.311-25.797 19.184 11.072 16.585 41.267 5.309 60.799-11.255 19.493-36.104 36.895-55.313 25.798-19.154-11.049-16.619-41.204-5.307-60.8z'/%3e%3ccircle cx='422.951' cy='437.94' r='10'/%3e%3cpath d='M67.172 405.356c5.734 42.012 35.348 76.033 80.741 84.003 28.854 5.06 56.475-2.154 78.197-18.535 17.569-13.246 42.11-13.247 59.68 0 22.373 16.872 50.145 23.452 78.198 18.535 11.479-2.015 22.183-5.719 31.813-11.01a10 10 0 1 0-9.629-17.529c-7.703 4.231-16.33 7.206-25.641 8.84-22.533 3.95-44.802-1.306-62.701-14.805-24.657-18.591-59.103-18.591-83.762 0-17.9 13.499-40.167 18.754-62.699 14.805-41.725-7.326-60.615-39.419-64.383-67.01-4.901-35.904 11.957-68.659 42.956-83.449 14.317-6.845 25.761-17.979 32.221-31.352 20.24-41.897 55.301-66.91 93.786-66.91s73.546 25.013 93.786 66.91c6.46 13.373 17.903 24.507 32.228 31.355 28.243 13.478 44.979 42.276 43.677 75.158-.219 5.519 4.078 10.169 9.597 10.388 5.503.217 10.17-4.078 10.388-9.596 1.624-41.003-19.469-77.022-55.041-93.997-10.236-4.894-18.348-12.709-22.84-22.008-21.83-45.19-62.673-78.21-111.794-78.21-49.151 0-89.981 33.055-111.794 78.21-4.492 9.298-12.604 17.114-22.833 22.004-40.596 19.372-59.88 62.242-54.151 104.203z'/%3e%3c/svg%3e");
-        background-size: 1em;
-        background-repeat: no-repeat;
-        padding-left: 1.25em;
-        background-position: 0 2px;
-      }
-      main section .sad li {
-        background-position: 0 3px;
-        padding-left: 1.35em;
-        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' height='512' width='512' xmlns:v='https://vecta.io/nano'%3e%3cpath d='M80 256c0-120.176 89.826-219.372 206-234.11-9.824-1.247-19.837-1.89-30-1.89C125.661 20 20 125.661 20 256s105.661 236 236 236c10.163 0 20.176-.643 30-1.89C169.826 475.372 80 376.176 80 256z' fill='%23cee1f2'/%3e%3cpath d='M256 512c-68.38 0-132.667-26.629-181.02-74.98S0 324.38 0 256 26.629 123.333 74.98 74.98 187.62 0 256 0s132.667 26.629 181.02 74.98S512 187.62 512 256s-26.629 132.667-74.98 181.02S324.38 512 256 512zm0-472C136.897 40 40 136.897 40 256s96.897 216 216 216 216-96.897 216-216S375.103 40 256 40zm99.875 314.263C354.388 351.924 318.704 297 255.002 297s-99.385 54.924-100.873 57.263c-5.93 9.319-3.183 21.68 6.136 27.61a20 20 0 0 0 27.61-6.136c.247-.387 25.138-38.737 67.127-38.737s66.88 38.35 67.127 38.737c5.93 9.319 18.291 12.066 27.61 6.136a20 20 0 0 0 6.136-27.61z' fill='%230023c4'/%3e%3cpath d='m168 165c13.807 0 25 11.193 25 25s-11.193 25-25 25-25-11.193-25-25 11.193-25 25-25zm150 25c0 13.807 11.193 25 25 25s25-11.193 25-25-11.193-25-25-25-25 11.193-25 25z' fill='%23ff5cf3'/%3e%3c/svg%3e");
-      }
-      main section li a {
-        padding: 0 5px;
-        border-radius: 3px;
-      }
-      main section li a:hover {
-        background-color: rgba(255, 153, 0, 0.25);
-      }
-      main section ul * {
-        font-size: 10pt;
-      }
-      main section ul li a {
-        font-size: inherit;
-      }
-      main section li strong {
-        font-size: inherit;
-      }
-      main section li,
-      main section p {
-        font-size: 1.25em;
-        list-style: none;
-      }
-      main section a {
-        color: #c60;
-        text-decoration: none;
-      }
-      main section img {
-        max-width: 100%;
-      }
-      main section blockquote {
-        margin: 0;
-        background-color: #fec;
-        padding: 15px;
-        border-radius: 10px;
-        display: inline-block;
-        box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.15);
-        box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.15), 0 0 5px rgba(0, 0, 0, 0.15);
-      }
-      main section blockquote p {
-        margin: 0;
-      }
-      .footer{
-        background: black;
-        color: #d3d3d3;
-        bottom: 0px;
-        /* height: 250px; */
-        border: 2px solid #000;
-        margin-bottom: -50px;
-        border-radius: 5px;
-        margin-top: auto;
-        overflow: hidden;
-        -webkit-box-shadow: 0 0 1px rgba(0, 0, 0, 0.75);
-        -moz-box-shadow: 0 0 1px rgba(0, 0, 0, 0.75);
-        box-shadow: 0 0 1px rgba(0, 0, 0, 0.75);
-      }
-      .footer .footer-content{
-        border: 1px solid orange;
-        display: flex;
-      }
-      .footer .footer-content .footer-section{
-        flex-basis: 50%;
-        padding: 25px;
-      }
-      .footer .footer-content .about{
-        text-align: center;
-      }
-      .footer .footer-content .footer-section .about h1{
-        text-align: center;
-        background-color: #000;
-        margin: 0;
-        color: #fff;
-        font-weight: normal;
-        font-size: 1.25em;
-        letter-spacing: 1px;
-        padding: 25px 15px;
-        text-shadow: 0 0 1px #fff;
-      }
-      .footer .footer-content .center{
-        margin: auto;
-        text-align: center;
-        list-style: none;
-      }
-      .footer .footer-content .center ul a{
-        display: block;
-        text-decoration: none;
-        margin-bottom: 10px;
-        font-size: 1.2em;
-        color: white;
-        transition: all .3s
-      }
-      .footer .footer-content .center ul a:hover{
-        margin-left: 10px;
-        color: #c60;
-        transition: all .3s 
-      }
-      .footer .footer-content .center ul a li{
-        list-style: none;
-      }
-      .footer .links{
-        justify-content: center;
-        align-items: center;
-        margin: auto;
-      }
-      .footer .links a{
-        padding: 5px 10px;
-      }
-      .footer .links a span{
-        height: 40px;
-        line-height: 40px;
-        width: 40px;
-        background:black;
-        text-align: center;
-        color: antiquewhite;
-        transition-property: all;
-        transition-duration: 0.2s;
-        transition-timing-function: ease;
-        border-radius: 50%;
-      }
-      .footer .links a span:hover{
-        background: #c60;
-        transform: scale(1.2);
-      }
-      @media screen and (max-width: 880px) {
-        main header h1 {
-          text-align: center;
-        }
-        main nav ul,
-        main nav .action {
-          float: none;
-          text-align: center;
-        }
-        main nav ul li {
-          padding: 5px;
-        }
-        main nav .action {
-          margin-bottom: 5px;
-        }
-        main nav .action a {
-          margin-right: 0;
-          font-size: 1em;
-        }
-        main nav .action a:first-child {
-          margin-right: 5px;
-        }
-        main section {
-          position: static;
-          padding: 0 15px;
-        }
-        main section img.praveen-main {
-          display: block;
-          margin: auto;
-          position: static;
-          opacity: 1;
-          max-width: 100%;
-        }
-        .footer{
-          position: relative;
-          bottom:0px;
-        }
-        .footer .footer-content{
-          flex-wrap: wrap;
-          flex-direction: column;
-        }
-      }
-    </style>
+      
   </head>
   <body>
     <main>
@@ -394,34 +48,46 @@
     
     </center>
 
-    <div class="footer">
-      <div class="footer-content">
-        <div class="footer-section about">
-          <h1 class="logo">DevTernShip</h1>
-          <p>
-            An Internship Onboarding platform with an innovative learning management system and intuitive performance tools
-          </p>
-        </div>
-        <div class="footer-section center">
-          <div class="quickLinks">
-            <ul>
-              <a href="#"><li>About</li></a>
-              <a href="#"><li>Home</li></a>
-              <a href="#"><li>Website</li></a>
-            </ul>
-          </div>
-        </div>
-        <div class="footer-section links">
-          <div class="socials">
-            <a href="#"><span class="fab fa-youtube fa-2x"></span></a>
-            <a href="#"><span class="fab fa-github fa-2x"></span></a>
-            <a href="#"><span class="fab fa-linkedin fa-2x"></span></a>
-            <a href="#"><span class="fas fa-envelope fa-2x"></span></a>
-          </div>
-        </div>
-        
+    <section>
+      <br><br>
+    <a id="Contact"> </a>
+      <div class="contact-me"  >
+          <p>If You Have Any Problem, feel free to Contact Us</p>
+          <button><a href=" mailto: foodieCustomerSupport@gmail.com">  Contact Us  </a></button>
       </div>
 
-    </div>
-  </body>
+<!-----------Footer-------------->
+    
+<footer>
+  <h1 class="logo">DevTernShip</h1>
+  <p>
+    An Internship Onboarding platform with an innovative learning management system and intuitive performance tools.
+  </p>
+  <br>
+  <p>Hope you liked our website. Do leave your Valuable feedback.
+  </p>
+  <!-----------Social Handles------->
+
+  <div class="social-icons">
+      <a href="#"><i class="fab fa-facebook-f"></i> </a>
+      <a href="#"><i class="fab fa-whatsapp"></i> </a>
+      <a href="#"><i class="fab fa-linkedin"></i> </a>
+      <a href="#"><i class="fab fa-twitter"></i> </a>
+      <a href="#"><i class="fab fa-youtube"></i> </a>
+
+    
+  </div>
+
+</footer>
+<!---------Attached Social Bar------>
+<div class="a-social-bar">
+  <a href="#"><i class="fab fa-facebook"></i> </a>
+      <a href="#"><i class="fab fa-whatsapp"></i> </a>
+      <a href="#"><i class="fab fa-linkedin"></i> </a>
+      <a href="#"><i class="fab fa-twitter"></i> </a>
+      <a href="#"><i class="fab fa-youtube"></i> </a>
+
+</div>
+</section>
+</body>
 </html>
