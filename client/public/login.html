@@ -3,6 +3,7 @@
 
 <head>
   <!-- CSS only -->
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=Teko:wght@300&display=swap" rel="stylesheet">
@@ -24,12 +25,25 @@
     body{
       background-color:#f90;
     }
+    #preloader{
+      background:#0c0c0c;
+      background-image: url("loader_.gif");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: 50%;
+      height: 100vh;
+      width: 100%;
+      position: fixed;
+      z-index: 100;
+    }
 
   </style>
 </head>
 
-<body>
+<body onload="myfunction()">
+  <div id="preloader">
 
+  </div>
 
 
 
@@ -156,6 +170,16 @@
 
 
 
+
+
+<script>
+  var loader = document.getElementById('preloader');
+  function myfunction() {
+    setTimeout(function(){loader.style.display = 'none';}, 2000);
+
+  }
+
+</script>
 </body>
 
 </html>
