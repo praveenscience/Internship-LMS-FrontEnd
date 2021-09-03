@@ -1,0 +1,82 @@
+.preloader {
+    position: relative;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    min-width: 60px;
+    min-height: 60px;
+    -webkit-animation: backgroundcolorchange 1s infinite alternate;
+    animation: backgroundcolorchange 2s infinite alternate; 
+    animation-timing-function: linear;
+    transition: ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  @keyframes backgroundcolorchange {
+    0% {
+      background: #cecece;
+    }
+  
+    10% {
+      background: #c5c5c5;
+    }
+  
+    20% {
+      background: #bbbbbb;
+    }
+  
+    30% {
+      background: #a7a7a7;
+    }
+  
+    40% {
+      background: #949494;
+    }
+  
+    50% {
+      background: #808080;
+    }
+  
+    60% {
+      background: #949494;
+    }
+  
+    70% {
+      background: #a7a7a7;
+    }
+  
+    80% {
+      background: #bbbbbb;
+    }
+  
+    90% {
+      background: #c5c5c5;
+    }
+  
+    100% {
+      background: #dedede;
+    }
+  }
+  
+  .spinner {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    max-width: 40px;
+    max-height: 40px;
+    border: 4px solid rgba(255,255,255,.3);
+    border-radius: 50%;
+    border-top-color: #fff;
+    animation: spin 1s ease-in-out infinite;
+    -webkit-animation: spin 1s ease-in-out infinite;
+  }
+  
+  @keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  @-webkit-keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
