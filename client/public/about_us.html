@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+    <title>About Us - Devternship</title>
+</head>
+<style>
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans",sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FF9900;
+}
+
+.about-section{
+    background: url(./undraw_team_ih79.svg) left;
+    background-size: 45%;
+    background-color: #fdfdfd;
+    overflow: hidden;
+    /* padding: 100px 0; */
+    width: 85%;
+}
+
+.inner-container{
+    width: 55%;
+    float: right;
+    background-color: #fdfdfd;
+    padding: 5%;
+}
+
+.inner-container h1{
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.text{
+    font-size: 13px;
+    color: #545454;
+    line-height: 30px;
+    text-align: justify;
+    margin-bottom: 40px;
+}
+
+.skills{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 700;
+    font-size: 13px;
+}
+
+@media screen and (max-width:1200px){
+    .inner-container{
+        padding: 80px;
+    }
+}
+
+@media screen and (max-width:1000px){
+    .about-section{
+        background-size: 100%;
+        padding: 100px 40px;
+    }
+    .inner-container{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:600px){
+    .about-section{
+        padding: 0;
+    }
+    .inner-container{
+        padding: 60px;
+    }
+}
+
+/* ================== */
+body {
+    font-family: 'Roboto';font-size: 16px;
+}
+
+.aboutus-title {
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 32px;
+    margin: 0 0 39px;
+    padding: 0 0 11px;
+    position: relative;
+    text-transform: uppercase;
+    color: #000;
+}
+.aboutus-title::after {
+    background: #fdb801 none repeat scroll 0 0;
+    bottom: 0;
+    content: "";
+    height: 2px;
+    left: 0;
+    position: absolute;
+    width: 54px;
+}
+.aboutus-text {
+    color: #606060;
+    font-size: 13px;
+    line-height: 22px;
+    margin: 0 0 35px;
+}
+
+a:hover, a:active {
+    color: #ffb901;
+    text-decoration: none;
+    outline: 0;
+}
+.aboutus-more {
+    border-radius: 50px;
+    display: block;
+    background-color: #fc3;
+    padding: 8px 0;
+    position: relative;
+    z-index: 2;
+}
+.feature .feature-box .iconset {
+    background: #fff none repeat scroll 0 0;
+    float: left;
+    position: relative;
+    width: 18%;
+}
+.feature .feature-box .iconset::after {
+    background: #fdb801 none repeat scroll 0 0;
+    content: "";
+    height: 150%;
+    left: 25%;
+    position: absolute;
+    top: 50%;
+    /* width: 0.5px; */
+    z-index: 1;
+}
+
+.feature .feature-box .feature-content h4 {
+    color: #0f0f0f;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin: 0 0 5px;
+
+}
+
+
+.feature .feature-box .feature-content {
+    float: left;
+    padding-left: 28px;
+    width: 78%;
+    margin-top: 5%;
+}
+.feature .feature-box .feature-content h4 {
+    color: #0f0f0f;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin: 0 0 5px;
+}
+.feature .feature-box .feature-content p {
+    color: #606060;
+    font-size: 13px;
+    line-height: 22px;
+}
+.icon {
+    color: #f4b841;
+    padding: 0px;
+    color: #fdb801;
+    font-size: 28px;
+    height: 70px;
+    line-height: 70px;
+    left: 40px;
+    position: relative;
+    top: 10px;
+    text-align: center;
+    width: 70px;
+}
+.action {
+        float: left;
+        padding: 0 10px;
+      }
+       .action a {
+        display: inline-block;
+        font-family: "Bungee", sans-serif;
+        color: #000;
+        width: 200px;
+        text-decoration: none;
+        text-align: center;
+        margin: 5px 0;
+        border-radius: 50px;
+        border: 3px solid #000;
+        margin-right: 300px;
+        margin-bottom: 5%;
+        position: relative;
+        font-size: 1.25em;
+        z-index: 1;
+        transition: all 50ms linear;
+        top: 0;
+        left: 0;
+      }
+       .action a span {
+        border-radius: 50px;
+        display: block;
+        background-color: #fc3;
+        padding: 8px 0;
+        position: relative;
+        z-index: 2;
+      }
+       .action a::before {
+        content: " ";
+        position: absolute;
+        left: 5px;
+        right: -5px;
+        bottom: -5px;
+        top: 5px;
+        background-color: #000;
+        border-radius: 50px;
+        border: 3px solid #000;
+        z-index: -1;
+        transition: all 50ms linear;
+      }
+       .action a:hover {
+        top: 3px;
+        left: 3px;
+      }
+       .action a:hover:before {
+        left: 0;
+        right: 0;
+        bottom: 0;
+        top: 0;
+      }
+      @media screen and (max-width: 650px) {
+        .icon {
+    color: #f4b841;
+    padding: 0px;
+    color: #fdb801;
+    font-size: 28px;
+    height: 70px;
+    line-height: 70px;
+    left: -10px;
+    position: relative;
+    top: -6px;
+    text-align: center;
+    width: 70px;
+}
+}
+</style>
+<body>
+    <div class="about-section">
+  <div class="inner-container">
+<body>
+    <div class="aboutus-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="aboutus">
+                        <h2 class="aboutus-title">About <span style="color: #FF9900;">Devternship</span></h2>
+                        <p class="aboutus-text">Created by the developers, for the developers and the enterprises, DevTernShip aims to automate a process that is usually beset by difficulties; The recruitment phase is riddled with disorientation and this makes it difficult for the onboarding interns to make heads or tails of the system.
+
+                            Here's where DevTernShip jumps into the picture - An Internship Onboarding platform with an innovative learning management system and intuitive performance tools, we ensure that all is 'smooth sailing' when it comes to the talent pipeline. Moreover, Augmented efficiency is brought about with a simple and robust UI, thus rendering the experience even more dynamic.</p>
+                        <p class="aboutus-text">The plight of small and medium companies has gravely wounded the world with serious consequences impacting all the onboard new interns, developers, full-time roles, and individuals during their recruitment phase. To solve these issues and to show a brilliant path to all the individuals listed we proudly present DevTernShip, a platform for Internship OnBoarding, Projects Management, Learning, Recruiting, and many more... for students, interns, developers, who are looking actively for Internship and full-time roles at the moment.</p>
+                        <div class="action">
+                            <a rel="noreferrer" target="_blank" href="https://rb.gy/uwgghm" class="action-button"><span>Read More</span></a>
+                          </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="aboutus-banner">
+                        <img src="http://themeinnovation.com/demo2/html/build-up/img/home1/about1.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-md-5 col-sm-6 col-xs-12">
+                    <div class="feature">
+                        <div class="feature-box">
+                            <div class="clearfix">
+                                <div class="iconset">
+                                    <span class="glyphicon glyphicon-cog icon"><i class="bi bi-gear"></i></span>
+                                </div>
+                                <div class="feature-content">
+                                    <h4>Agenda</h4>
+                                    <p>We are on the mission of resolving a crisis for a lot of small and medium enterprises, who are trying to recruit interns for their projects. This platform aims to onboard new interns, who have applied to the companies and help them understand the process and make the transition smooth. This platform is the best gateway to show recruiters, what interns are capable of.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="feature-box">
+                            <div class="clearfix">
+                                <div class="iconset">
+                                    <span class="glyphicon glyphicon-cog icon"><i class="bi bi-gear"></i></span>
+                                </div>
+                                <div class="feature-content">
+                                    <h4>Easy OnBoarding</h4>
+                                    <p>This program, we are going to have a setup for every individual intern by providing their account section, i.e., Profile, likely and show others that you are ready to work on a particular stack by joining their company as an Intern. To guide you better, we are also planning to introduce Learning pages, Application Tracking Systems, Opportunity Tracker, and Live Interactive Sections on YouTube by our well-qualified mentors to keep you updated.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="feature-box">
+                            <div class="clearfix">
+                                <div class="iconset">
+                                    <span class="glyphicon glyphicon-cog icon"><i class="bi bi-gear"></i></span>
+                                </div>
+                                <div class="feature-content">
+                                    <h4>Bridging the Gap</h4>
+                                    <p>This program helps the intern, interact with the Recruiters & Managers, effectively by providing social media handles. Also, the interns get a chance to exhibit their work by sharing their GitHub, LinkedIn profiles with their recruiters.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>
+  </div>
+</div>
+</body>
+</html>
