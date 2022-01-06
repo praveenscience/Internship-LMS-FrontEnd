@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>navbar</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Saira+Semi+Condensed:wght@300;400&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
+
+    <style>
+        /* for the whole html page */
+        :root {
+            background-color :rgb(204, 201, 201);
+            font-family: 'Bebas Neue', cursive;
+            font-family: 'Saira Semi Condensed', sans-serif;
+        }
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        /* utility styling */
+        .text-center{
+                text-align:center;
+        }
+        .m-top-10{
+            margin-top: 10px;
+        }
+        .m-bot-10{
+            margin-bottom: 10px ;
+        }
+
+        .size-large{
+            font-size: 1.9rem;
+        }
+        .size-small{
+            font-size: 1.2rem;
+        }
+
+        /* styling for the navbar */
+        .navbar-head
+        {
+          display: flex;
+          width: 100%;
+          background-color: rgb(54, 53, 53);
+          padding: 20px 30px 20px 30px;
+        }
+
+        .nav-left 
+        {
+            display: flex;
+            margin: 2px 2px 2px 10px;
+            width: 70%;
+        }
+
+        .nav-left ul{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .nav-left ul li{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            list-style-type: none;
+            margin: 2px 30px 2px 20px; 
+            font-size: 1.2rem;    
+        }
+        .nav-left ul li a
+        {
+            display: block;
+            text-decoration: none;
+            color: white;
+        }
+
+        .nav-left ul li a:hover{
+             color :rgb(233, 166, 166)
+        }
+
+        .nav-right{
+            display: flex;
+            margin: 0px 0px 0px 160px;
+            width: 30%;
+            justify-content: center;
+            align-items: center;
+        }
+        .nav-right i{
+              color: white;
+        }
+
+
+        /* header styling */
+        .head-body{
+            padding: 2px 30px 2px 30px;
+        }
+
+        /* for the small devices */
+        @media only screen and (max-width: 800px) {
+            .nav-left{
+                width:70%;
+                margin: 2px 0px 2px 0px;
+            }
+
+            .nav-right{
+                width: 30%;
+                margin: 0px 0px 0px 40px;
+            }
+
+            .nav-left ul li{
+                font-size: 0.9rem;
+                margin: 2px 10px 2px 10px; 
+            }
+        }
+
+        @media only screen and (max-width: 400px) {
+            .nav-left ul li{
+                font-size: 0.7rem;
+                margin: 2px 10px 2px 10px; 
+            }
+            .nav-right{
+                width: 20%;
+                margin: 0px 0px 0px 0px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar-head">
+       <div class="nav-left">
+          <ul>
+             <li> <a href="#"> Home </a> </li>
+             <li> <a href="#"> Contact </a> </li>
+             <li> <a href="#"> service </a> </li>
+             <li> <a href="#"> About us </a> </li>
+          </ul>
+       </div>
+       <div class="nav-right">
+            <i class="fas fa-blog"></i>
+       </div> 
+    </nav>    
+        
+    <div class="header">
+        <div class="head text-center m-top-10 m-bot size-large">
+            <h5>DevTernShip</h5>
+        </div>
+
+        <div class="head-body m-top-10 size-small">
+            <p>Created by the developers, for the developers and the enterprises, DevTernShip aims to automate a process that is usually beset by difficulties; The recruitment phase is riddled with disorientation and this makes it difficult for the onboarding interns to make heads or tails of the system.
+
+                Here's where DevTernShip jumps into the picture - An Internship Onboarding platform with an innovative learning management system and intuitive performance tools, we ensure that all is 'smooth sailing' when it comes to the talent pipeline. Moreover, Augmented efficiency is brought about with a simple and robust UI, thus rendering the experience even more dynamic.</p>
+        </div>
+    </div>
+</body>
+</html>
