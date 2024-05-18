@@ -28,7 +28,13 @@ Here's where **DevTernShip** jumps into the picture - *An Internship Onboarding 
 
 ## Introduction
 
-The plight of small and medium companies has gravely wounded the world with serious consequences impacting all the onboard new interns, developers, full-time roles, and individuals during their recruitment phase. To solve these issues and to show a brilliant path to all the individuals listed we proudly present **DevTernShip**, a platform for Internship OnBoarding, Projects Management, Learning, Recruiting, and many more... for students, interns, developers, who are looking actively for Internship and full-time roles at the moment.
+In a world where small and medium companies struggle, countless interns, developers, and job seekers face challenges. Enter DevTernShip, a beacon of hope bridging the gap between aspiring professionals and the companies that need them.
+
+DevTernShip is more than a platform—it’s a revolution. Students and interns find their perfect match and real-world projects to hone their skills. Developers and job seekers connect with companies ready to invest in their potential.
+
+Companies benefit too, focusing on growth without recruitment hassles. DevTernShip’s resources keep teams at the cutting edge.
+
+Welcome to DevTernShip—where career dreams are nurtured, skills are sharpened, and futures are crafted with care. Join us and be part of a story where every chapter leads to success.
 
 ### Agenda
 
@@ -336,6 +342,9 @@ If you go to your repository on GitHub, you'll see a `Contribute` button. Click 
 click on `Open pull request`.
 
 click on `Create pull request`.
+
+![Screenshot from 2024-05-18 11-08-51](https://github.com/YASH-YADAV-dynamo/Internship-LMS-FrontEnd/assets/147921735/21d490e2-727a-4f85-8a9c-335a1b17ec86)
+
 
 
 
