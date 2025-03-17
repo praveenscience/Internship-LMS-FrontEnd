@@ -13,7 +13,7 @@
     "web-vitals": "^1.1.1"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node start",
     "precommit": "eslint src",
     "lint:fix": "eslint --fix src/**/*.js",
     "build": "react-scripts build",
